@@ -1,0 +1,35 @@
+[
+
+
+    {
+        "section": 1,
+        "subsections": {
+          "a": 1
+        },
+        "entries": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "title": "MWARI BABA",
+        "subtitle": "God The Father",
+        "theme": "ZVAARI, NOKUBWINYA KWAKE",
+        "translation": "His Being And His Glory",
+        "hymn": {
+          "title": "IMI MURI IZWI",
+          "subtitle": "O Bright, Eternal One",
+          "source": "Quam Dialecta, 218",
+          "lyrics": [
+            "Imi muri izwi Rakasika mwenje Nayo mvonga mvonga Ikave rufaro",
+            "Nomukutambudzwa , Makamutsurudza Mwoyo yavatendi, Vakakushumirai.",
+            "Izwi rakavanda, Tokuona zvino Napatinofamba, Kristu, ari pano.",
+            "Togara maari, Iye wokudenga; Ngatimutsvagei, Dakara tamuda.",
+            "O, Ishe, mupenyu, Mwoyo yodudzira Runako rwenyu, ‘She, Nokubwinya kwenyu."
+          ],
+          "author": "Catherine Baird (1896-1984)"
+        }
+      }
+      
+]
