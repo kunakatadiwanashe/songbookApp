@@ -1,35 +1,56 @@
 [
-
-
     {
-        "section": 1,
-        "subsections": {
-          "a": 1
-        },
-        "entries": [
-          1,
-          2,
-          3,
-          4,
-          5
+      "section": 1,
+      "subsections": {
+        "a": 1
+      },
+      "title": "MWARI BABA",
+      "subtitle": "God The Father",
+      "theme": "ZVAARI, NOKUBWINYA KWAKE",
+      "translation": "His Being And His Glory",
+      "hymn": {
+        "title": "IMI MURI IZWI",
+        "subtitle": "O Bright, Eternal One",
+        "source": "Quam Dialecta, 218",
+        "lyrics": [
+          "1. Imi muri izwi \nRakasika mwenje\nNayo mvonga mvonga\nIkave rufaro.",
+          "2. Nomukutambudzwa,\nMakamutsurudza\nMwoyo yavatendi,\nVakakushumirai.",
+          "3. Izwi rakavanda,\nTokuona zvino\nNapatinofamba,\nKristu, ari pano.",
+          "4. Togara maari,\nIye wokudenga;\nNgatimutsvagei,\nDakara tamuda.",
+          "5. O, Ishe, mupenyu,\nMwoyo yodudzira\nRunako rwenyu, ‘She,\nNokubwinya kwenyu."
         ],
-        "title": "MWARI BABA",
-        "subtitle": "God The Father",
-        "theme": "ZVAARI, NOKUBWINYA KWAKE",
-        "translation": "His Being And His Glory",
-        "hymn": {
-          "title": "IMI MURI IZWI",
-          "subtitle": "O Bright, Eternal One",
-          "source": "Quam Dialecta, 218",
-          "lyrics": [
-            "Imi muri izwi Rakasika mwenje Nayo mvonga mvonga Ikave rufaro",
-            "Nomukutambudzwa , Makamutsurudza Mwoyo yavatendi, Vakakushumirai.",
-            "Izwi rakavanda, Tokuona zvino Napatinofamba, Kristu, ari pano.",
-            "Togara maari, Iye wokudenga; Ngatimutsvagei, Dakara tamuda.",
-            "O, Ishe, mupenyu, Mwoyo yodudzira Runako rwenyu, ‘She, Nokubwinya kwenyu."
-          ],
-          "author": "Catherine Baird (1896-1984)"
-        }
+        "author": "Catherine Baird (1896-1984)"
       }
-      
-]
+    },
+    {
+      "section": 2,
+      "title": "IMI MURI RUDEKARO",
+      "subtitle": "Thou Hidden Source of Calm Repose",
+      "source": "Wells, 318",
+      "hymn": {
+        "lyrics": [
+          "1. Imi muri rudekaro Rwakavanzika murudo; Chipotero kuvavengi Ndofadzwa kana muneni. Muzvitadzo, mukunyadzwa, Ndovanzwa nemi, jesu, ‘She.",
+          "2. Zita renyu, ruponiso, Rondifadza pakudenga; Rounza simba, rugare, Norudo rusingapere; Muzita renyu ndowana Kuregererwa, noutsvene.",
+          "3. Jesu muri zvose zvangu Pazororo, mukurwadzawa, Murapi wemwoyo wangu; Mukurwa, ndichazorodzwa Mondifadza mberi kwemhandu, Ndowana korona yangu.",
+          "4. Mukushaya, mondigutsa, Muutera, mopa simba; Ndosunungurwa majoto, Mwenje, mberi kwomuvengi; Ndichadana, mogadzira Upenyu hwangu kudenga."
+        ],
+        "author": "Charles Wesley (1707-88)"
+      }
+    },
+    {
+      "section": 3,
+      "title": "MWARI MUCHENJERI",
+      "subtitle": "Immortal, Invisible",
+      "source": "St. Denio, 569",
+      "hymn": {
+        "lyrics": [
+          "1. Mwari Muchenjeri, hamuonekwi Makavanzwa kwatiri muchiedza, Makaropafadzwa Dombo rekare, samasimba, M’kundi, tokurumbidza.",
+          "2. Makanyararisa kunge chiedza, Hamuperi, munotonga nesimba; Ndurano yenyu, makomo marefu, Pam’soro pamakore ane rudo.",
+          "3. Munopa upenyu kuna zvose; Muri mupenyu hwezvinhu zvose; Todenhera semashizha emiti; Tofa topera,asi hamusanduke.",
+          "4. Baba wokubwinya, muri chiedza Ngirozi dzokudza, dzovanza zviso; Tokukudzai, tiyamurei kuona Chiedza chitsvene chinokuvanzai."
+        ],
+        "author": "Walter Chalmers Smith (1824-1908)"
+      }
+    }
+  ]
+  
