@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { View, Text, ScrollView, TouchableOpacity, Alert, StyleSheet } from 'react-native';
 import localDatabase from '../localDatabase.json';
 
@@ -17,6 +17,12 @@ interface Section {
 }
 
 const App = () => {
+  const [isHymnVisible, setIsHymnVisible] = useState(false); // State for hymn visibility
+
+  const toggleHymnVisibility = () => {
+    setIsHymnVisible(!isHymnVisible); // Toggle visibility
+  };
+
   const showDetails = (section: Section) => {
     Alert.alert("Details", `Title: ${section.title}\nSubtitle: ${section.subtitle || 'N/A'}\nTheme: ${section.theme || 'N/A'}`);
   };
@@ -35,7 +41,6 @@ const App = () => {
                 {section.theme && <Text style={styles.subtitle}>{section.theme}</Text>}
               </TouchableOpacity>
 
-
               {section.hymn ? (
                 <>
                   <Text style={styles.hymnTitle}>{section.hymn.title}</Text>
@@ -49,11 +54,6 @@ const App = () => {
               ) : (
                 <Text style={styles.subtitle}>Hymn details are not available.</Text>
               )}
-
-
-
-
-              
             </View>
           ))
         ) : (
@@ -67,6 +67,7 @@ const App = () => {
 const styles = StyleSheet.create({
   container: {
     padding: 20,
+   
   },
   title: {
     fontSize: 20,
