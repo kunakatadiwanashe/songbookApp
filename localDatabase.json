@@ -1,35 +1,215 @@
 [
-
-
     {
-        "section": 1,
-        "subsections": {
-          "a": 1
-        },
-        "entries": [
-          1,
-          2,
-          3,
-          4,
-          5
+      "section": 1,
+      "subsections": {
+        "a": 1
+      },
+      "title": "MWARI BABA",
+      "subtitle": "God The Father",
+      "theme": "ZVAARI, NOKUBWINYA KWAKE",
+      "translation": "His Being And His Glory",
+      "hymn": {
+        "title": "IMI MURI IZWI",
+        "subtitle": "O Bright, Eternal One",
+        "source": "Quam Dialecta, 218",
+        "lyrics": [
+          "1. Imi muri izwi \nRakasika mwenje\nNayo mvonga mvonga\nIkave rufaro.",
+          "2. Nomukutambudzwa,\nMakamutsurudza\nMwoyo yavatendi,\nVakakushumirai.",
+          "3. Izwi rakavanda,\nTokuona zvino\nNapatinofamba,\nKristu, ari pano.",
+          "4. Togara maari,\nIye wokudenga;\nNgatimutsvagei,\nDakara tamuda.",
+          "5. O, Ishe, mupenyu,\nMwoyo yodudzira\nRunako rwenyu, ‘She,\nNokubwinya kwenyu."
         ],
-        "title": "MWARI BABA",
-        "subtitle": "God The Father",
-        "theme": "ZVAARI, NOKUBWINYA KWAKE",
-        "translation": "His Being And His Glory",
-        "hymn": {
-          "title": "IMI MURI IZWI",
-          "subtitle": "O Bright, Eternal One",
-          "source": "Quam Dialecta, 218",
-          "lyrics": [
-            "Imi muri izwi Rakasika mwenje Nayo mvonga mvonga Ikave rufaro",
-            "Nomukutambudzwa , Makamutsurudza Mwoyo yavatendi, Vakakushumirai.",
-            "Izwi rakavanda, Tokuona zvino Napatinofamba, Kristu, ari pano.",
-            "Togara maari, Iye wokudenga; Ngatimutsvagei, Dakara tamuda.",
-            "O, Ishe, mupenyu, Mwoyo yodudzira Runako rwenyu, ‘She, Nokubwinya kwenyu."
-          ],
-          "author": "Catherine Baird (1896-1984)"
-        }
+        "author": "Catherine Baird (1896-1984)"
       }
-      
+    },
+    {
+      "section": 2,
+      "title": "IMI MURI RUDEKARO",
+      "subtitle": "Thou Hidden Source of Calm Repose",
+      "source": "Wells, 318",
+      "hymn": {
+        "lyrics": [
+          "1. Imi muri rudekaro Rwakavanzika murudo; Chipotero kuvavengi Ndofadzwa kana muneni. Muzvitadzo, mukunyadzwa, Ndovanzwa nemi, jesu, ‘She.",
+          "2. Zita renyu, ruponiso, Rondifadza pakudenga; Rounza simba, rugare, Norudo rusingapere; Muzita renyu ndowana Kuregererwa, noutsvene.",
+          "3. Jesu muri zvose zvangu Pazororo, mukurwadzawa, Murapi wemwoyo wangu; Mukurwa, ndichazorodzwa Mondifadza mberi kwemhandu, Ndowana korona yangu.",
+          "4. Mukushaya, mondigutsa, Muutera, mopa simba; Ndosunungurwa majoto, Mwenje, mberi kwomuvengi; Ndichadana, mogadzira Upenyu hwangu kudenga."
+        ],
+        "author": "Charles Wesley (1707-88)"
+      }
+    },
+    {
+      "section": 3,
+      "title": "MWARI MUCHENJERI",
+      "subtitle": "Immortal, Invisible",
+      "source": "St. Denio, 569",
+      "hymn": {
+        "lyrics": [
+          "1. Mwari Muchenjeri, hamuonekwi Makavanzwa kwatiri muchiedza, Makaropafadzwa Dombo rekare, samasimba, M’kundi, tokurumbidza.",
+          "2. Makanyararisa kunge chiedza, Hamuperi, munotonga nesimba; Ndurano yenyu, makomo marefu, Pam’soro pamakore ane rudo.",
+          "3. Munopa upenyu kuna zvose; Muri mupenyu hwezvinhu zvose; Todenhera semashizha emiti; Tofa topera,asi hamusanduke.",
+          "4. Baba wokubwinya, muri chiedza Ngirozi dzokudza, dzovanza zviso; Tokukudzai, tiyamurei kuona Chiedza chitsvene chinokuvanzai."
+        ],
+        "author": "Walter Chalmers Smith (1824-1908)"
+      }
+    },
+    
+    {
+      "section": 4,
+      "title": "MWARI NGAAKUDZWE",
+      "subtitle": "To God Be The Glory",
+      "source": "To God be the glory, 576",
+      "hymn": {
+        "lyrics": [
+          "1. Mwari ngaakudzwe nebasa rake, Norudo wakatipa mwana wake, Wakafira kudzikinura zvivi, Nokuzarura suo reupenyu.",
+          "Kudza ;She! Kudza ‘She! Nyika ngaimunzwe; Kudza ;She! Kudza ‘She! Vanhu ngavafare; Uyai kuna Baba nokuna Jesu, Kudzai nezvakaitirwa isu.",
+          "2. Ruregerero rutsvene rweropa, Kumutendi chivimbiso chaMwari. Mutadzi mukuru akangotenda, Owana ruregerero rwaJesu.",
+          "3. Wakatidzidzisa zvinhu zvikuru Norufaro rwedu muna Jesu, ‘She, Rufaro rwedu ruchave rukuru, Kana toona Jesu mumakore."
+      ]
+      },
+
+      "author": "Fanny Crosby (1820-1915)"
+  },
+  {
+      "section": 5,
+      "title": "MWARI SAMASIMBA",
+      "subtitle": "Jehovah Is Our Strength",
+      "source": "Majesty, 226; St John, 228; Millenium, 227",
+   "hymn": {
+  "lyrics": [
+    "1. Mwari Samasimba, Iye rumbo rwedu; Naye tichakunda Vavengi vakuru. Satani anorwa nhando, Nokuti Mwari NdiMambo.",
+    "2. Ishe bako redu Achazongodaro; Wakamisa isu Norwake rubato. Vavengi vanorwa nhando, Nokuti Mwari ndiMambo.",
+    "3. Jehovah Mufudzi, Anoziva zvose; Isu tiri hwai Tichafudzwa naye. Chivi norufu inhando, Nokuti Mwari ndiMambo.",
+    "4. Mwari baba wedu, Tiri vana vake; Tichazongodaro, Haangatisiye. Masimba ose inhando, Nokuti Mwari ndiMambo."
 ]
+},
+      "author": "attr. Samuel Barnard"
+  },
+  {
+    "section": 6,
+    "title": "MWARI WAMARUDZI OSE",
+    "subtitle": "O Thou God Of Every Nation",
+    
+    "hymn": {
+      "source": "Austria, 408; Regent Square, 423",
+      "lyrics": [
+        "1. Mwari wamarudzi ose, Zvino tikomborerei; Mumwoyo tigadzirire, Uye moto wenyu; Ropafadzai Hondo yedu, Tizadzei namasimba.",
+        "2. Tizadzei noMweya M’tsvene, Mauto ashambidzwe; Nemi satani aparadzwe, Nenyika iponiswe; Ropafadzwai Hondo yedu, Titumei kwamunoda.",
+        "3. Utsvene hwenyu, tipei, Ngatizadzwe nesimba; Hondo yedu ngaitende, Nom’ towo wokukunda; Ropafadzai Hondo yedu, Muve rudziviriro.",
+        "4. Ropafadzai vafundisi, Vatungamiri vose; Ropafadzaiwo vadzoki, Mauto edu ose, Ropafadzai Hondo yedu Matama tiparidze."
+      ],
+      "author": "William James Pearson (1832-92)"
+    }
+  },
+  {
+    "section": 7,
+    "title": "MWARI WEDENGA NAPASI",
+    "subtitle": "O Lord Of Heaven And Earth",
+    "source": "Troyte, 470; Almsgiving, 469, G",
+    "hymn": {
+      "lyrics": [
+        "1. Mwari wedenga napasi, Ngakuve norurumbidzo; Toratidza rudo sei: Mupi wazvose.",
+        "2. Runyararo rwemudzimba Namakomborero ose; Tinotenda, tokurumbidzai; Mupi wazvose.",
+        "3. Makapira Mwana wenyu, Kunesu tose vepasi; Mwana wenyu mumwechete: Makapa zvose.",
+        "4. Munopa Mweya Mutsvene, Mweya worudo nesimba; Nengoni dzakawandisa, Nokwatiriwo.",
+        "5. Mukununurwa muzvivi, Ndiyo nzira youdenga; Baba varumbidzwe zvino; Mupi wazvose."
+      ],
+      "author": "Christopher Wordsworth (1807-85)"
+    }
+  },
+  {
+    "section": 8,
+    "title": "MWARI WEDU MUDZIVIRIRI",
+    "subtitle": "A Mighty Fortress Is Our Lord",
+    "source": "Ein’Feste Burg, 640",
+    "hymn": {
+      "lyrics": [
+        "1. Mwari wedu mudziviriri, Rusvingo rusingakundwe; Muyamuri mumirove Yedambudzo roupenyu. Sezvo mhandu yedu Satani aripo, Ane simba guru, Noruvengo rwake, Haana wezera pasi.",
+        "2. Kuvimba neredu simba Kunotiita tikundwe, Dai tisina M’ponisi Watakapiwa naMwari, Wobvunza, ndiani? Ndiye Jesu Kristu; Ishe wesabata, Asingapinduke, Achakunda mukurwa.",
+        "3. Nyangwe kune madhimoni Anoda kutinyengera; Hatitye, Mwari anoda Tikunde neidi rake. Muchinda werima Hatimudederi, Ane hasha nhando, Hona! achakundwa. Izwi duku romukunda",
+        "4. Izwi rine simba chose, Kwete, haringambomiswa. Mweya, nezvipo ndezvedu Zviri kurutivi rwedu. Upfumi nehama, Upenyu hwopera, Vangatiuraye; Chokwadi chomira, Umambo hwake narinhi."
+      ],
+      "author": "Martin Luther (1483-1545), trs Frederick Henry Hedge (1805-90)"
+    }
+  },
+  {
+    "section": 9,
+    "title": "MWEYA WANGU, RUMBIDZA ‘SHE",
+    "english_title": "Praise My Soul The King of Heaven",
+    "tune": ["Blessed Jesus, 240", "Praise My Soul The King of Heaven, 422"],
+    "hymn": {
+      "lyrics": [
+        "Mweya wangu, rumbidza ‘She Pasi petsoka dzake; Wanunurwa, waponiswa, Chiimba mbiri yake; Murumbidze! Murumbidze! Kudza ‘She asingafe.",
+        "Mukudze nengoni dzake Kune vari munhamo, woranga, wovaponisa, Vose vakarasika; Murumbidze!Murumbidze! Mwari anovimbika.",
+        "Sababa wotichengeta, Kana tisina simba; Wochengeta mumaoko, Torwirwa kuvavengi, Murumbidze! Murumbidze! Nengoni dzoyerera.",
+        "Ngirozi dzomurumbidza, Dzotarisana naye, Zuva, mwedzi, zvonamata Zvigereko kudenga; Murumbidze! Murumbidze! Rumbidzai Wenyasha."
+      ]
+    },
+    "author": "Henry Francis Lyte (1793-1857)"
+  },
+  {
+    "section": 10,
+    "title": "NAMATAI MAMBO ANORUBWINYO",
+    "english_title": "O Worship The King, All Glorious",
+    "tune": ["Houghton, 533", "Hanover, 531", "Landate Dominum, 534"],
+    "hymn": {
+      "lyrics": [
+        "Namatai Mambo anorubwinyo; Imbai nesimba rudo rwakwe; Iye mudzviviriri nenhowo yedu, Agere muutsvene hune mbiri.",
+        "Imbai zvesimba nengoni dzake, Ane nguvo, chiedza chedenga, Kutsamwa kwake, ‘She, kunotinhira, Nzira yake ine rima padutu.",
+        "Nyika izere nezvishamiso, Nesimba rake, ‘She, richigere, Rakadaro risingasandurwe, Zve, wakarikomberedza negungwa.",
+        "Ruchengeto rwake rwakakosha, Rwuri mumhepo, nomuchiedza; Rwobva mugomo rwopinda mubani, Rwuri m ‘dova nemvura inonaya.",
+        "Vana venyika vasina simba, Maari tinoisa ruvimbo, Tsitsi nomutsa wake hazvigume, Musiki, mudzikinuri, nehama.",
+        "Samasimba, rudo rwakadzama, Ngirozi dzichiimba kudenga; Zvisikwa zvenyika zvisina simba, Norukudzo zvichakuimbirawo."
+      ]
+    },
+    "author": "Robert Grant (1779-1839)"
+  },
+  {
+    "section": 11,
+    "title": "NGAARUMBIDZWE WEDENGA",
+    "english_title": "Praise To The Holiest In The Height",
+    "tune": ["Gerontius, 89", "Richmond, 125"],
+    "hymn": {
+      "lyrics": [
+        "Ngaarumbidzwe wedenga Napasi pakudze, Namazwi ake matsvene, Nenzira dzeidi.",
+        "Ungwaru hwaMwari wedu Hunokunda hwose; Kritsu wakauya kuti Azotinunura.",
+        "Adhamu wakakundika Munyama neropa, Asi rudo rwake Mwari, Rwakakunda zvose.",
+        "Ngaarumbidzwe wedenga, Napasi pakudze; Namazwi ake matsvene, Nenzira dzeidi."
+      ]
+    },
+    "author": "John Henry Newman (1821-77)"
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ]
+  

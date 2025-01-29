@@ -29,11 +29,20 @@ export default function RootLayout() {
 
   return (
     <ThemeProvider value={colorScheme === 'dark' ? DarkTheme : DefaultTheme}>
-      <Stack>
-        <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
-        <Stack.Screen name="+not-found" />
+      <Stack
+        screenOptions={{
+          headerStyle: {
+              backgroundColor: '#f4511e',
+          }
+        }}
+      >
+      <Stack.Screen name="index" options={{ title: "The Salvation Army Shona SongBook"  }} />
+
       </Stack>
       <StatusBar style="auto" />
     </ThemeProvider>
   );
 }
+
+
+
