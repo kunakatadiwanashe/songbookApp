@@ -88,8 +88,9 @@
     "section": 6,
     "title": "MWARI WAMARUDZI OSE",
     "subtitle": "O Thou God Of Every Nation",
-    "source": "Austria, 408; Regent Square, 423",
+    
     "hymn": {
+      "source": "Austria, 408; Regent Square, 423",
       "lyrics": [
         "1. Mwari wamarudzi ose, Zvino tikomborerei; Mumwoyo tigadzirire, Uye moto wenyu; Ropafadzai Hondo yedu, Tizadzei namasimba.",
         "2. Tizadzei noMweya M’tsvene, Mauto ashambidzwe; Nemi satani aparadzwe, Nenyika iponiswe; Ropafadzwai Hondo yedu, Titumei kwamunoda.",
