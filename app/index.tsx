@@ -16,6 +16,10 @@ export default function Home() {
       <TouchableOpacity style={styles.button} onPress={() => router.push("/english")}>
         <Text style={styles.buttonText}>English</Text>
       </TouchableOpacity>
+      
+      <TouchableOpacity style={styles.button} onPress={() => router.push("/liked")}>
+        <Text style={styles.buttonText}>liked</Text>
+      </TouchableOpacity>
     </View>
   );
 }
