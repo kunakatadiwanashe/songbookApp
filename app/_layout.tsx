@@ -31,7 +31,7 @@ export default function RootLayout() {
   }
 
   return (
-    <ThemeProvider value={colorScheme === "light" ? DarkTheme : DefaultTheme}>
+    <ThemeProvider value={colorScheme === "light" ? DefaultTheme : DefaultTheme}>
       <Stack
         screenOptions={{
           headerStyle: {
@@ -46,6 +46,7 @@ export default function RootLayout() {
         <Stack.Screen name="shona" options={{ title: "Shona" }} />
         <Stack.Screen name="ndebele" options={{ title: "Ndebele" }} />
         <Stack.Screen name="english" options={{ title: "English" }} />
+        <Stack.Screen name="liked" options={{ title: "Liked"}} />
       </Stack>
 
       <StatusBar style="auto" />

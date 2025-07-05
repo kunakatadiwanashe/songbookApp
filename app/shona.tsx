@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import {
   View,
   Text,
@@ -9,6 +9,10 @@ import {
 } from "react-native";
 import localDatabase from "../localDatabase.json";
 import { FontAwesome } from "@expo/vector-icons";
+import { useRouter } from "expo-router";
+import { useNavigation } from "@react-navigation/native";
+
+
 
 interface Hymn {
   id: string;
@@ -21,15 +25,26 @@ interface Hymn {
   author?: string;
 }
 
-const Shona = () => {
+const Shona = (navigation: any) => {
+  const router = useRouter()
   const [visibleHymnIndex, setVisibleHymnIndex] = useState<number | null>(null);
   const [searchQuery, setSearchQuery] = useState<string>("");
+  const [likedHymns, setLikedHymns] = useState<Hymn[]>([]);
+
+
 
   const toggleHymnVisibility = (index: number) => {
     setVisibleHymnIndex(visibleHymnIndex === index ? null : index);
   };
 
-  // Filter hymns based on the search query
+  const toggleLikeHymn = (hymn: Hymn) => {
+    setLikedHymns((prevLikedHymns) =>
+      prevLikedHymns.some((likedHymn) => likedHymn.id === hymn.id)
+        ? prevLikedHymns.filter((likedHymn) => likedHymn.id !== hymn.id)
+        : [...prevLikedHymns, hymn]
+    );
+  };
+
   const filteredHymns = localDatabase.filter((hymn: Hymn) => {
     return (
       hymn.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
@@ -59,12 +74,7 @@ const Shona = () => {
           filteredHymns.map((hymn: Hymn, index: number) => (
             <View key={hymn.id} style={{ marginBottom: 20 }}>
               <TouchableOpacity onPress={() => toggleHymnVisibility(index)}>
-                <view >
-                  {" "}
-                  <Text style={styles.title}>{hymn.id}</Text>
-                  <Text style={[styles.title, { paddingLeft: 10 }]}>{hymn.title}</Text>
-                </view>
-
+                <Text style={styles.title}>{hymn.title}</Text>
                 <Text style={styles.subtitle}>{hymn.subtitle || "N/A"}</Text>
               </TouchableOpacity>
 
@@ -99,6 +109,25 @@ const Shona = () => {
                       })}
                     </View>
                   ))}
+                  <TouchableOpacity
+                    onPress={() => toggleLikeHymn(hymn)}
+                    style={styles.likeButton}
+                  >
+                    <FontAwesome
+                      name={
+                        likedHymns.some((likedHymn) => likedHymn.id === hymn.id)
+                          ? "heart"
+                          : "heart-o"
+                      }
+                      size={20}
+                      color="red"
+                    />
+                    <Text style={styles.likeButtonText}>
+                      {likedHymns.some((likedHymn) => likedHymn.id === hymn.id)
+                        ? "Unlike"
+                        : "Like"}
+                    </Text>
+                  </TouchableOpacity>
                 </View>
               )}
             </View>
@@ -106,6 +135,20 @@ const Shona = () => {
         ) : (
           <Text>No hymns available.</Text>
         )}
+
+
+
+      <TouchableOpacity style={styles.button} onPress={() => router.push("/liked")}>
+        <Text style={styles.buttonText}>Liked Hymn</Text>
+      </TouchableOpacity>
+
+
+
+
+
+
+
+
       </View>
     </ScrollView>
   );
@@ -115,17 +158,12 @@ const styles = StyleSheet.create({
   container: {
     padding: 20,
   },
-
   title: {
     fontSize: 20,
     fontWeight: "bold",
   },
   subtitle: {
     fontSize: 14,
-  },
-  hymnTitle: {
-    fontSize: 14,
-    paddingBottom: 5,
   },
   detailsContainer: {
     marginTop: 10,
@@ -138,11 +176,9 @@ const styles = StyleSheet.create({
     fontSize: 16,
     paddingTop: 5,
   },
-
   searchContainer: {
     paddingBottom: 20,
   },
-
   searchBar: {
     flexDirection: "row",
     alignItems: "center",
@@ -153,19 +189,42 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.2,
     shadowRadius: 2,
     padding: 5,
-    width: 290, // Tailwind's w-80
+    width: 290,
   },
   input: {
     flex: 1,
     paddingHorizontal: 16,
     paddingVertical: 8,
-    color: "#4B5563", // Tailwind's gray-600
+    color: "#4B5563",
     borderRadius: 50,
   },
   button: {
     padding: 8,
   },
+  buttonText: {
+    fontSize: 16,
+    color: "#4B5563",
+  },
+  likeButton: {
+    flexDirection: "row",
+    alignItems: "center",
+    marginTop: 10,
+  },
+  likeButtonText: {
+    marginLeft: 5,
+    color: "red",
+  },
+  viewLikedButton: {
+    marginTop: 20,
+    padding: 10,
+    backgroundColor: "#4B5563",
+    borderRadius: 5,
+    alignItems: "center",
+  },
+  viewLikedButtonText: {
+    color: "white",
+    fontSize: 16,
+  },
 });
 
 export default Shona;
-// This is the main entry point for the Shona hymns section of the app.
