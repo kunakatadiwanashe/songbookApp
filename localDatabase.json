@@ -1,217 +1,4756 @@
 [
-    {
+  {
+    "author": "Charles Wesley (1707-88)",
+    "id": "1",
+    "subtitle": "God The Father",
+    "title": "MWARI BABA",
+    "tune": "His Being And His Glory",
+    "verses": [
+      {
+        "lines": [
+          "Imi muri izwi ",
+          "Rakasika mwenje ",
+          "Nayo mvonga mvonga ",
+          "Ikave rufaro"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Nomukutambudzwa",
+          "Makamutsurudza",
+          "Mwoyo yavatendi",
+          "Vakakushumirai"
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Muutera, mopa simba;",
+          "Ndosunungurwa majoto,",
+          "Mwenje, mberi kwomuvengi;",
+          "Ndichadana, mogadzira",
+          "Upenyu hwangu kudenga"
+        ],
+        "stanza": 3
+      }
+    ]
+  },
+  {
+    "author": "Charles Wesley (1707-88)",
+    "id": "2",
+    "subtitle": "Thou Hidden Source of Calm Repose Wells, 318",
+    "title": "IMI MURI RUDEKARO",
+    "tune": "1. Imi muri rudekaro",
+    "verses": [
+      {
+        "lines": [
+          "Rondifadza pakudenga;",
+          "Rounza simba, rugare,",
+          "Norudo rusingapere;",
+          "Muzita renyu ndowana",
+          "Kuregererwa, noutsvene."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Pazororo, mukurwadzawa,",
+          "Murapi wemwoyo wangu;",
+          "Mukurwa, ndichazorodzwa",
+          "Mondifadza mberi kwemhandu,",
+          "Ndowana korona yangu."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Muutera, mopa simba;",
+          "Ndosunungurwa majoto,",
+          "Mwenje, mberi kwomuvengi;",
+          "Ndichadana, mogadzira",
+          "Upenyu hwangu kudenga"
+        ],
+        "stanza": 3
+      }
+    ]
+  },
+  {
+    "author": "Walter Chalmers Smith (1824-1908)",
     "id": "3",
-    "title": "MWARI MUCHENJERI",
     "subtitle": "Immortal, Invisible",
+    "title": "MWARI MUCHENJERI",
     "tune": "St. Denio, 569",
     "verses": [
       {
-        "stanza": 1,
         "lines": [
-          "Mwari Muchenjeri, hamuonekwi",
           "Makavanzwa kwatiri muchiedza,",
           "Makaropafadzwa Dombo rekare,",
-          "samasimba, M’kundi, tokumbidzwa."
-        ]
+          "samasimba, M’kundi, tokurumbidza."
+        ],
+        "stanza": 1
       },
       {
-        "stanza": 2,
         "lines": [
-          "Makanyararisa kunge chiedza,",
           "Hamuperi, munotonga nesimba;",
           "Ndurano yenyu, makomo marefu,",
           "Pam’soro pamakore ane rudo."
-        ]
+        ],
+        "stanza": 2
       },
       {
-        "stanza": 3,
         "lines": [
-          "Munopa upenyu kuna zvose;",
           "Muri mupenyu hwezvinhu zvose;",
           "Todenhera semashizha emiti;",
-          "Tofa topera, asi hamusanduke."
-        ]
+          "Tofa topera,asi hamusanduke."
+        ],
+        "stanza": 3
       },
       {
-        "stanza": 4,
         "lines": [
-          "Baba wokubwinya, muri chiedza",
           "Ngirozi dzokudza, dzovanza zviso;",
           "Tokukudzai, tiyamurei kuona",
           "Chiedza chitsvene chinokuvanzai."
-        ]
+        ],
+        "stanza": 4
       }
-    ],
-    "author": "Walter Chalmers Smith (1824–1908)"
+    ]
   },
   {
+    "author": "Fanny Crosby (1820-1915)",
     "id": "4",
-    "title": "MWARI NGAAKUDZWE",
     "subtitle": "To God Be The Glory",
+    "title": "MWARI NGAAKUDZWE",
     "tune": "To God be the glory, 576",
     "verses": [
       {
-        "stanza": 1,
         "lines": [
-          "Mwari ngaakudzwe nebasa rake,",
           "Norudo wakatipa mwana wake,",
           "Wakafira kudzikinura zvivi,",
           "Nokuzarura suo reupenyu.",
-          "*Kudza ;She! Kudza ‘She!*",
-          "*Nyika ngaimunzwe;*",
-          "*Kudza ;She! Kudza ‘She!*",
-          "*Vanhu ngavafare;*",
-          "*Uyai kuna Baba nokuna Jesu,*",
-          "*Kudzai nezvakaitirwa isu.*"
-        ]
+          "4",
+          "Kudza ;She! Kudza ‘She!",
+          "Nyika ngaimunzwe;",
+          "Kudza ;She! Kudza ‘She!",
+          "Vanhu ngavafare;",
+          "Uyai kuna Baba nokuna Jesu,",
+          "Kudzai nezvakaitirwa isu."
+        ],
+        "stanza": 1
       },
       {
-        "stanza": 2,
         "lines": [
-          "Ruregerero rutsvene rweropa,",
           "Kumutendi chivimbiso chaMwari.",
           "Mutadzi mukuru akangotenda,",
           "Owana ruregerero rwaJesu."
-        ]
+        ],
+        "stanza": 2
       },
       {
-        "stanza": 3,
         "lines": [
-          "Wakatidzidzisa zvinhu zvikuru",
           "Norufaro rwedu muna Jesu, ‘She,",
           "Rufaro rwedu ruchave rukuru,",
           "Kana toona Jesu mumakore."
-        ]
+        ],
+        "stanza": 3
       }
-    ],
-    "author": "Fanny Crosby (1820–1915)"
+    ]
   },
   {
+    "author": "attr. Samuel Barnard",
     "id": "5",
-    "title": "MWARI SAMASIMBA",
     "subtitle": "Jehovah Is Our Strength",
-    "tune": "Majesty, 226; St John, 228; Millenium, 227",
+    "title": "MWARI SAMASIMBA",
+    "tune": "Majesty, 226; St John , 228; Millenium, 227",
     "verses": [
       {
-        "stanza": 1,
         "lines": [
-          "Mwari Samasimba,",
           "Iye rumbo rwedu;",
           "Naye tichakunda",
           "Vavengi vakuru.",
           "Satani anorwa nhando,",
           "Nokuti Mwari NdiMambo."
-        ]
+        ],
+        "stanza": 1
       },
       {
-        "stanza": 2,
         "lines": [
-          "Ishe bako redu",
           "Achazongodaro;",
           "Wakamisa isu",
           "Norwake rubato.",
           "Vavengi vanorwa nhando,",
-          "Nokuti Mwari ndiMambo ."
-        ]
+          "Nokuti Mwari ndiMambo .",
+          "5"
+        ],
+        "stanza": 2
       },
       {
-        "stanza": 3,
         "lines": [
-          "Jehovah Mufudzi,",
           "Anoziva zvose;",
           "Isu tiri hwai",
           "Tichafudzwa naye.",
           "Chivi norufu inhando,",
           "Nokuti Mwari ndiMambo."
-        ]
+        ],
+        "stanza": 3
       },
       {
-        "stanza": 4,
         "lines": [
-          "Mwari baba wedu,",
           "Tiri vana vake;",
           "Tichazongodaro,",
           "Haangatisiye.",
           "Masimba ose inhando,",
           "Nokuti Mwari ndiMambo."
-        ]
+        ],
+        "stanza": 4
       }
-    ],
-    "author": "attr: Samuel Barnard"
+    ]
   },
- {
-    "id": "14",
-    "title": "UMAMBO HWENYU NGAHUUYE",
-    "subtitle": "Thy Kingdom Come On Bended Knee",
+  {
+    "author": "William James Pearson (1832-92)",
+    "id": "6",
+    "subtitle": "O Thou God Of Every Nation",
+    "title": "MWARI WAMARUDZI OSE",
+    "tune": "Austria, 408; Regent Square, 423",
     "verses": [
       {
-        "stanza": 1,
         "lines": [
-          "Umambo hwenyu ngahuuye!",
-          "Tohunamatira;",
-          "Vatendi, neshungu huru,",
-          "Vanohumirira.",
-
-          "*Kunanayira kwenguva,*",
-          "*NdokwaMwari, Baba;*",
-          "*Nyenyedzi dzinopupura*",
-          "*Simba nenduramo.*"
-        ]
+          "Zvino tikomborerei;",
+          "Mumwoyo tigadzirire,",
+          "Uye moto wenyu;",
+          "Ropafadzai Hondo yedu,",
+          "Tizadzei namasimba."
+        ],
+        "stanza": 1
       },
       {
-        "stanza": 2,
         "lines": [
-          "Zuva rinopenya kwazvo,",
+          "Mauto ashambidzwe;",
+          "Nemi satani aparadzwe,",
+          "Nenyika iponiswe;",
+          "Ropafadzwai Hondo yedu,",
+          "Titumei kwamunoda.",
+          "6"
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Ngatizadzwe nesimba;",
+          "Hondo yedu ngaitende,",
+          "Nom’ towo wokukunda;",
+          "Ropafadzai Hondo yedu,",
+          "Muve rudziviriro."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Vatungamiri vose;",
+          "Ropafadzaiwo vadzoki,",
+          "Mauto edu ose,",
+          "Ropafadzai Hondo yedu",
+          "Matama tiparidze."
+        ],
+        "stanza": 4
+      }
+    ]
+  },
+  {
+    "author": "Christopher Wordsworth (1807-85)",
+    "id": "7",
+    "subtitle": "O Lord Of Heaven And Earth",
+    "title": "MWARI WEDENGA NAPASI",
+    "tune": "Troyte, 470; Almsgiving, 469, G",
+    "verses": [
+      {
+        "lines": [
+          "Ngakuve norurumbidzo;",
+          "Toratidza rudo sei:",
+          "Mupi wazvose."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Namakomborero ose;",
+          "Tinotenda, tokurumbidzai;",
+          "Mupi wazvose."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Kunesu tose vepasi;",
+          "Mwana wenyu mumwechete:",
+          "Makapa zvose.",
+          "7"
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Mweya worudo nesimba;",
+          "Nengoni dzakawandisa,",
+          "Nokwatiriwo."
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "Ndiyo nzira youdenga ;",
+          "Baba varumbidzwe zvino;",
+          "Mupi wazvose."
+        ],
+        "stanza": 5
+      }
+    ]
+  },
+  {
+    "author": "trs Frederick Henry Hedge (1805-90)",
+    "id": "8",
+    "subtitle": "A Mighty Fortress Is Our Lord",
+    "title": "MWARI WEDU MUDZIVIRIRI",
+    "tune": "Ein’Feste Burg, 640",
+    "verses": [
+      {
+        "lines": [
+          "Kunotiita tikundwe,",
+          "Dai tisina M’ponisi",
+          "Watakapiwa naMwari,",
+          "Wobvunza, ndiani?",
+          "Ndiye Jesu Kristu;",
+          "Ishe wesabata,",
+          "Asingapinduke,",
+          "Achakunda mukurwa.",
+          "8"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Anoda kutinyengera;",
+          "Hatitye, Mwari anoda",
+          "Tikunde neidi rake.",
+          "Muchinda werima",
+          "Hatimudederi,",
+          "Ane hasha nhando,",
+          "Hona! achakundwa.",
+          "Izwi duku romukunda"
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Kwete, haringambomiswa.",
+          "Mweya, nezvipo ndezvedu",
+          "Zviri kurutivi rwedu.",
+          "Upfumi nehama,",
+          "Upenyu hwopera,",
+          "Vangatiuraye;",
+          "Chokwadi chomira,",
+          "Umambo hwake narinhi."
+        ],
+        "stanza": 3
+      }
+    ]
+  },
+  {
+    "author": "Henry Francis Lyte (1793-1857)",
+    "id": "9",
+    "subtitle": "Praise My Soul The King of Heaven",
+    "title": "MWEYA WANGU, RUMBIDZA ‘SHE",
+    "tune": "Blessed Jesus, 240; Praise My Soul",
+    "verses": [
+      {
+        "lines": [
+          "Pasi petsoka dzake;",
+          "Wanunurwa, waponiswa,",
+          "Chiimba mbiri yake;",
+          "Murumbidze! Murumbidze!",
+          "Kudza ‘She asingafe.",
+          "9"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Kune vari munhamo,",
+          "woranga, wovaponisa,",
+          "Vose vakarasika;",
+          "Murumbidze!Murumbidze!",
+          "Mwari anovimbika."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Kana tisina simba;",
+          "Wochengeta mumaoko,",
+          "Torwirwa kuvavengi,",
+          "Murumbidze! Murumbidze!",
+          "Nengoni dzoyerera."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Dzotarisana naye,",
+          "Zuva, mwedzi, zvonamata",
+          "Zvigereko kudenga;",
+          "Murumbidze! Murumbidze!",
+          "Rumbidzai Wenyasha."
+        ],
+        "stanza": 4
+      }
+    ]
+  },
+  {
+    "author": "Robert Grant (1779-1839)",
+    "id": "10",
+    "subtitle": "ANORUBWINYO",
+    "title": "NAMATAI MAMBO",
+    "tune": "O Worship The King, All Glorious",
+    "verses": [
+      {
+        "lines": [
+          "Imbai nesimba rudo rwakwe;",
+          "Iye mudzviviriri nenhowo yedu,",
+          "Agere muutsvene hune mbiri",
+          "10"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Ane nguvo, chiedza chedenga,",
+          "Kutsamwa kwake, ‘She, kunotinhira,",
+          "Nzira yake ine rima padutu."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Nesimba rake, ‘She, richigere,",
+          "Rakadaro risingasandurwe,",
+          "Zve, wakarikomberedza negungwa."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Rwuri mumhepo, nomuchiedza;",
+          "Rwobva mugomo rwopinda mubani,",
+          "Rwuri m ‘dova nemvura inonaya."
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "Maari tinoisa ruvimbo,",
+          "Tsitsi nomutsa wake hazvigume,",
+          "Musiki, mudzikinuri, nehama."
+        ],
+        "stanza": 5
+      },
+      {
+        "lines": [
+          "Ngirozi dzichiimba kudenga;",
+          "Zvisikwa zvenyika zvisina simba,",
+          "Norukudzo zvichakuimbirawo."
+        ],
+        "stanza": 6
+      }
+    ]
+  },
+  {
+    "author": "John Henry Newman (1821-77)",
+    "id": "11",
+    "subtitle": "Praise To The Holiest In The Height",
+    "title": "NGAARUMBIDZWE WEDENGA",
+    "tune": "Gerontius, 89; Richmond, 125",
+    "verses": [
+      {
+        "lines": [
+          "Napasi pakudze,",
+          "Namazwi ake matsvene,",
+          "Nenzira dzeidi.",
+          "11"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Hunokunda hwose;",
+          "Kritsu wakauya kuti",
+          "Azotinunura."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Munyama neropa,",
+          "Asi rudo rwake Mwari,",
+          "Rwakakunda zvose."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Napasi pakudze;",
+          "Namazwi ake matsvene,",
+          "Nenzira dzeidi."
+        ],
+        "stanza": 4
+      }
+    ]
+  },
+  {
+    "author": "trs. Catherine Winkworth (1827-78)",
+    "id": "12",
+    "subtitle": "Now Thank We All Our God,",
+    "title": "NGATITENDEI MWARI",
+    "tune": "Now thank we all our god, 752",
+    "verses": [
+      {
+        "lines": [
+          "Nemwoyo yedu yose;",
+          "Anezvishamiso",
+          "Zvinoifadza nyika;",
+          "Kubva pauduku,",
+          "Watikomborera,",
+          "Nezvipo zverudo",
+          "Ndezvedu narinhi."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Ngahuve pedyo nesu;",
+          "Mwoyo ifadziswe,",
+          "Norugare kwatiri;",
+          "Tigare mungoni,",
+          "Dzititungamire,",
+          "Dzitisunungure",
+          "Pano nokudenga",
+          "12"
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Ngaarumbidzwe Baba,",
+          "NoMwanakomana,",
+          "Naye Mweya Mutsvene;",
+          "Mwana mumwechete,",
+          "Wepasi nedenga,",
+          "Waive, achave,",
+          "Nokusingapere."
+        ],
+        "stanza": 3
+      }
+    ]
+  },
+  {
+    "author": "Isaac Watts (1647-1748)",
+    "id": "13",
+    "subtitle": "Being My Tongue, Some Heavenly Theme",
+    "title": "RURIMI RWANGU, TANGISA",
+    "tune": "Lydia, 110; Stracathro, 136",
+    "verses": [
+      {
+        "lines": [
+          "Mutsa izwi, imba",
+          "Zviito nezita guru,",
+          "ZvaShe, Samasimba."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Nesimba panyika;",
+          "Imba runako rwengoni,",
+          "Dzeizwi raMwari."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Rakasika Denga;",
+          "Rinotsigira nyenyedzi,",
+          "Rotaura zvose."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Nadzo tsitsi deznyu,",
+          "Nezwi iro ndinovimba",
+          "Rutendo rwogutswa."
+        ],
+        "stanza": 4
+      }
+    ]
+  },
+  {
+    "author": "F.L. Hosmer (1840-1929)",
+    "id": "14",
+    "subtitle": "Thy Kingdom Come On Bended Knee",
+    "title": "UMAMBO HWENYU NGAHUUYE",
+    "tune": "1. Umambo hwenyu ngahuuye!",
+    "verses": [
+      {
+        "lines": [
           "Kunze kwotoyedza;",
           "Shongai hanzu, vatendi,",
           "Nguva yaswedera."
-        ]
+        ],
+        "stanza": 1
       },
       {
-        "stanza": 3,
         "lines": [
-          "Zuva rinopenya kwazvo,",
           "Rodzima zvitadzo;",
           "Kururama kuchamiswa",
           "Kuporese zvose."
-        ]
+        ],
+        "stanza": 2
       },
       {
-        "stanza": 4,
         "lines": [
-          "Ruzivo, norunyararo,",
           "Zvichafamba kwose;",
           "Zuva rake Mwari."
-        ]
+        ],
+        "stanza": 3
       }
-    ],
-    "author": "F.L. Hosmer (1840–1929)"
+    ]
+  },
+  {
+    "author": "Thomas Obediah Chisholm (1866-1960)",
+    "id": "15",
+    "subtitle": "Great Is Thy Faithfulness.",
+    "title": "MUNOTENDESEKA , O MWARI BABA",
+    "tune": "Great is thy faithfulness, 657",
+    "verses": [
+      {
+        "lines": [
+          "Hamuna mumvuri wesanduko,",
+          "Hamungapinduke mutsitsi dzenyu,",
+          "Saizvozvo, mogara narinhi.",
+          "14",
+          "Munotendeseka!Munotendeseka!",
+          "Mangwanani ndogam’chira tsitsi,",
+          "Zvose zvandinoda ndopiwa nemi,",
+          "Munotendeseka, ‘She, kwandiri."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Zuva, mwedzi, nyenyedzi pa’msoro,",
+          "Zvinosangana zvose kupupura",
+          "Kurudo rwenyu runotendeka."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Kuvepo kwenyu kwotungamira;",
+          "Simba ranhasi neramangwana,",
+          "Makomborero angu, zvihuru."
+        ],
+        "stanza": 3
+      }
+    ]
+  },
+  {
+    "author": "William Kethed (1594)",
+    "id": "16",
+    "subtitle": "All People That On Earth Do Dwell",
+    "title": "VANHU VOSE VEPANYIKA",
+    "tune": "Old Hundredth, 38 Ab; Tallis, 41 G",
+    "verses": [
+      {
+        "lines": [
+          "Imbai mose kuna ‘She;",
+          "Munamatei nokutya,",
+          "Farisai mberi kwake."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Wakatisika pachake;",
+          "Anotifudza sehwai,",
+          "Tiriwo vedanga rake."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Norukudzo norufaro;",
+          "Tirumbidze zita rake,",
+          "Zvakakodzera kudaro.",
+          "15"
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Azere tsitsi neidi;",
+          "Chokwadi chake chiripo,",
+          "Hachipinduke narinhi."
+        ],
+        "stanza": 4
+      }
+    ]
+  },
+  {
+    "author": "Henry Williams Baker (1821-77)",
+    "id": "17",
+    "subtitle": "All Creatures of Our God And King",
+    "title": "ZVISIKWA ZVAMWARI MAMBO",
+    "tune": "St. Francis, 45",
+    "verses": [
+      {
+        "lines": [
+          "Ngatiimbe pamwechete,",
+          "Hareruya!Hareruya!",
+          "Newe zuva rinopisa,",
+          "Newe mwedzi unopenya:",
+          "Murumbidze, Murumbidze,",
+          "Hareruya,Hareruya,",
+          "Hareruya,!"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Imi makore edenga,",
+          "Murumbidze! Hareruya!",
+          "Iwe unotonga, rumbidza,",
+          "Newe manheru imbawo:"
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Imbirawo Ishe anzwe,",
+          "Hareruya! Hareruya!",
+          "Moto une simba guru,",
+          "Wopa kudziya nomwenje:"
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Zvatinodya misi yose,",
+          "Murumbidze! Hareruya!",
+          "Namaruva nemichero,",
+          "Ngazviratidze kubwinya:",
+          "16"
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "(b)",
+          "18"
+        ],
+        "stanza": 5
+      },
+      {
+        "lines": [
+          "Zvinamate norupfavo,",
+          "Murumbidze! Hareruya!",
+          "Baba, Mwana, Mweya",
+          "Varumbidzwe Hareruya"
+        ],
+        "stanza": 9
+      },
+      {
+        "lines": [
+          "Rotsigira vapenyu;",
+          "Ndiro izwi benyu",
+          "Kwavari murufu."
+        ],
+        "stanza": 10
+      },
+      {
+        "lines": [
+          "Utsvene hwaro shoko;",
+          "Ishe, taikutyai,",
+          "Tive pedyo nemi."
+        ],
+        "stanza": 11
+      }
+    ]
+  },
+  {
+    "author": "Charles Wesley (1707-88)",
+    "id": "19",
+    "subtitle": "Praise The Almighty",
+    "title": "KUDZAI MWARI MUKURU",
+    "tune": "Belmont, 76; French, 88",
+    "verses": [
+      {
+        "lines": [
+          "Rumbidzai mose!",
+          "Wakatipa gore idzva,",
+          "Ngaarumbidzwe!"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Gore rapfuura;",
+          "Tose tiri mberi kwake,",
+          "Nemipiro yedu."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Nedzo tsitsi dzenyu;",
+          "Tinozvipira kwamuri",
+          "Nayo mwoyo yedu."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Namabasa edu;",
+          "Toda kutevera Jesu,",
+          "Tiende kudenga.",
+          "18"
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "Dzive dzenyu, Ishe;",
+          "Namasimba edu ose,",
+          "Apirwe kwamuri."
+        ],
+        "stanza": 5
+      }
+    ]
+  },
+  {
+    "author": "Solomon M. Mutswairo (1924-)",
+    "id": "20",
+    "subtitle": "The Creator’s Hidden Works",
+    "title": "KUITA KWAKE, MUSIKI",
+    "tune": "French, 88",
+    "verses": [
+      {
+        "lines": [
+          "Kwakavanda chose;",
+          "Anotipa, agotora",
+          "Vadiwa kwatiri."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Mapudzi matsvene;",
+          "Asi nenguva isipi,",
+          "Zvose zvoparara."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Rotiza chiedza;",
+          "Mumwe nomumwe woenda",
+          "Kuumambo hwake."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Toshaya kuziva",
+          "kufunga kwake, Musiki,",
+          "Nesu kwopesana."
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "Okuronga kwaShe;",
+          "Asi toziva, tovimba,",
+          "Zvose zvichanaka.",
+          "19"
+        ],
+        "stanza": 5
+      },
+      {
+        "lines": [
+          "Kugam’chira zvose;",
+          "Nengoni, tichauyawo,",
+          "Kumusha kudenga."
+        ],
+        "stanza": 6
+      }
+    ]
+  },
+  {
+    "author": "William Cowper (1731-1800)",
+    "id": "21",
+    "subtitle": "God Moves In A Mysterious Way",
+    "title": "MWARI ANOTISHAMISA",
+    "tune": "St’ Peter, 129; Belmont, 76; French, 88",
+    "verses": [
+      {
+        "lines": [
+          "Namabasa ake;",
+          "Tsoka dzake todziona",
+          "Padutu, mugungwa."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Dzisingakundike,",
+          "Dziri mumazano ake,",
+          "Nomukuda kwake."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Musatye makore;",
+          "Anoda kunisa mutsa,",
+          "Nengoni dzaIshe."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Nokuziva kwenyu;",
+          "Seri kwezviito zvake",
+          "Kune ngoni zhinji."
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "Zvinopetenuka;",
+          "Pfumvudza nyangwe yovava",
+          "Ruva royevedza.",
+          "20"
+        ],
+        "stanza": 5
+      },
+      {
+        "lines": [
+          "ZvaMwari senhando;",
+          "Asi munaiye Mwari,",
+          "Munechidudziro"
+        ],
+        "stanza": 6
+      }
+    ]
+  },
+  {
+    "author": "",
+    "id": "22",
+    "subtitle": "NDOFUNGIDZIRA",
+    "title": "MWARI MAMBO KANA",
+    "tune": "O Lord, My God!",
+    "verses": [
+      {
+        "lines": [
+          "Mabasa enyu anoshamisa,",
+          "Nenyenyedzi, ndonzwa nokuriridza,",
+          "Nesimba renyu guru panyika.",
+          "Ndokuimbirai Mwari M’ponisi",
+          "Muru M ‘kuru! Mukuru sei!",
+          "Ndokuimbirai Mwari M’ponisi,",
+          "Muri M’kuru! Mukuru sei!"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Ndonzwa shiri dzinondifadzisa;",
+          "Ndotarisawo pasi pemakomo,",
+          "Ndonzwa hova, mhepo yofefeta."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Kutifira: izvi zvoshamisa!",
+          "Wakatakura zvivi paM’chinjikwa,",
+          "Wakafa kubvisa zvivi zvangu."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Ndoenda kumusha norufaro;",
+          "Ndichamukudza nokumurumbidza,",
+          "Ndokudza Mwari, Mukuru sei!",
+          "Copyright (c) 1953 Stuart k. Hine, Kingsway’s",
+          "(used by permission)",
+          "21"
+        ],
+        "stanza": 4
+      }
+    ]
+  },
+  {
+    "author": "Solomon M. Mutswairo (1924-)",
+    "id": "23",
+    "subtitle": "God Is All-powerful",
+    "title": "MWARI MUNE SIMBA ROSE",
+    "tune": "Remington, 42; Duke Street, 17; Pentecost, 40",
+    "verses": [
+      {
+        "lines": [
+          "Tungamirai vafambi",
+          "Vari mumweya, mudenga",
+          "Vadzivirirwe kunjodzi."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Chengetai vanofamba",
+          "Nengarava dzomugungwa;",
+          "Napasi, ngoro dzemoto."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Podzai hasha dzemheni;",
+          "Mvura zhinji ituruke,",
+          "Vanhu nenzara vasafe."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Asagadzire mabhomba,",
+          "Zvombo zvizhinji zvouraya",
+          "Vanhu nezviri panyika."
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "Anotonga zviri pasi;",
+          "Mupei gwara kuronga",
+          "Zvorudo, norunyararo."
+        ],
+        "stanza": 5
+      }
+    ]
+  },
+  {
+    "author": "John Milton (1608-74)",
+    "id": "24",
+    "subtitle": "Let Us With a Gladsome Mind",
+    "title": "NEMWOYO INOFARA",
+    "tune": "Monkland 286: Theodora 297",
+    "verses": [
+      {
+        "lines": [
+          "Ngatirumbidze Ishe:",
+          "Ane tsitsi narinhi,",
+          "Anotendeka chose."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Kuti ndiMwari ega,",
+          "Ane tsitsi narinhi,",
+          "Anotendeka chose."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Wakatipachiedza:",
+          "Ane tsitsi narinhi,",
+          "Anotendeka chose."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Kuvamba rwendo rwaro!",
+          "Ane tsitsi narinhi,",
+          "Anotendeka Chose."
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "Zvose zvogutswa naye:",
+          "Anetsitsi narinhi,",
+          "Anotendeka chose."
+        ],
+        "stanza": 5
+      }
+    ]
+  },
+  {
+    "author": "R.T. Brooks (1918-)",
+    "id": "25",
+    "subtitle": "Thanks Be To God",
+    "title": "NGATIMUTENDEI MWARI",
+    "tune": "Regent Square; 423",
+    "verses": [
+      {
+        "lines": [
+          "M’siki wezvinhu zvose;",
+          "Ndiye mumisi werudzi",
+          "Nomoto une simba,",
+          "Izwi rakazvitaura;",
+          "Ngaarumbidzwe Mwari."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Rakaumba munhu;",
+          "Kufa, asi nokumuka,",
+          "Nengoni dzokudenga.",
+          "Izwi rakazvitaura;",
+          "Ngaarumbidzwe Mwari."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Riri muMweya M’tsvene;",
+          "Tine rufaro rukuru,",
+          "Nokununurwa kwedu.",
+          "Izwi rake rinodaro,",
+          "Ngaarumbidzwe Mwari."
+        ],
+        "stanza": 3
+      }
+    ]
+  },
+  {
+    "author": "Isaac Watts (1674-1748)",
+    "id": "26",
+    "subtitle": "Before Jehovah’s Awful Throne",
+    "title": "PACHIGARO CHAJEHOVHA",
+    "tune": "Old Hundredth, 38; Sounding Praise, 51",
+    "verses": [
+      {
+        "lines": [
+          "Ndudzi zhinji dzipfugame;",
+          "Dzizive Ishe ndiMwari,",
+          "Wosika nokuparadza.",
+          "24"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Wakatiumba savanhu,",
+          "Sehwai patarasika,",
+          "Wotidzorera mudanga."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Tosimudza mazwi edu,",
+          "Pasi, nedzo ndimi zhinji,",
+          "Dzozadza nokurumbidza."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Norudo rusingapere,",
+          "Chokwadi, sedombo, mira,",
+          "Kusvikira kumagumo."
+        ],
+        "stanza": 4
+      }
+    ]
+  },
+  {
+    "author": "Eleanor Fairjeon (1881-1965)",
+    "id": "27",
+    "subtitle": "Morning Has Broken",
+    "title": "PAMAMBAKWEDZA",
+    "tune": "Morning has broken; 735",
+    "verses": [
+      {
+        "lines": [
+          "Ekutangisa,",
+          "Shiri yoimba",
+          "Yokutanga;",
+          "Inorumbidza",
+          "Pamangwanani,",
+          "Inodudzira",
+          "Shoko raShe.",
+          "25"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Yobva kudenga;",
+          "Dova pauswa",
+          "Hwokutanga;",
+          "Totenda mvura",
+          "Iri mubindu,",
+          "Inobvinina",
+          "Paafamba"
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Nemangwanani,",
+          "Zvavakaonekwa",
+          "MuEdheni,",
+          "Ngatirumbidze",
+          "Pamangwanani,",
+          "Mwari wasika",
+          "Zuva idzva."
+        ],
+        "stanza": 3
+      }
+    ]
+  },
+  {
+    "author": "Sidney Edward Cox (1887-1975)",
+    "id": "28",
+    "subtitle": "What Shall I Do, My God To Love?",
+    "title": "NDINGAMUDE, SEI MWARI?",
+    "tune": "Stacathro, 136",
+    "verses": [
+      {
+        "lines": [
+          "Kuti ndimukudze?",
+          "Ndiparidze noukuru",
+          "Hwadzo ngoni dzake."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Hadziverengeki;",
+          "Dzinoramba dzisingafe,",
+          "Dzosvikira vose.",
+          "26"
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Hadzina magumo;",
+          "Dai dzakapfu’ra mumwe,",
+          "Dzaindipfu’rawo"
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Hungarehwe nani?",
+          "Chipo Chisingataurwe",
+          "Ndozochiratidzwa."
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "Ini ndive wenyu;",
+          "Ita mumwoyo mangu,",
+          "‘She, chitongero chenyu."
+        ],
+        "stanza": 5
+      },
+      {
+        "lines": [
+          "His Love",
+          "RUDO RWAMWARI RUKURU",
+          "God’s Love To Me Is Wonderful?",
+          "God’s love to me is wonderful, 150",
+          "Rudo rwaMwari rukuru,",
+          "Zvokuti anonzwa",
+          "Kushaya kwomwoyo wangu,",
+          "Wobisa misodzi;",
+          "Nyangwe ndisinganzwisise",
+          "Udzamo hwerudo,",
+          "Wochengeta mweyawangu,",
+          "Haangakundike.",
+          "Mwari anerudo",
+          "Rudo rwoshamisa,",
+          "Wakapa Mwana wake",
+          "Kuti andifire,",
+          "Rudo rwoshamisa.",
+          "27"
+        ],
+        "stanza": 6
+      },
+      {
+        "lines": [
+          "Kwose kwondoenda,",
+          "Kukahadzika kwasvika,",
+          "Ndom’bata ruoko.",
+          "Rudo runotanda kutya,",
+          "Ndakasunungurwa,",
+          "Nenzeve dzangu ndinonzwa",
+          "Izwi rinofadza."
+        ],
+        "stanza": 7
+      },
+      {
+        "lines": [
+          "Wochenesa nzira;",
+          "Zvino ndawadzana naye,",
+          "Zvisingazopera.",
+          "Baba haandikumbire",
+          "Zvipo zvakakurisa;",
+          "Asi kuti ndimudise,",
+          "Nokumushandira."
+        ],
+        "stanza": 8
+      }
+    ]
+  },
+  {
+    "author": "Henry Van Dyke (1852-1933)",
+    "id": "30",
+    "subtitle": "Joyful, Joyful, We Adore Thee",
+    "title": "NORUFARO TOKUKUDZA",
+    "tune": "Europe, 435",
+    "verses": [
+      {
+        "lines": [
+          "Mwari, Ishe worudo;",
+          "Mwoyo yedu yovhurura",
+          "Semaruva muzuva.",
+          "Bisai, kusuwa, nezvivi,",
+          "Zvibvisei kwatiri,",
+          "Imi mupi worufaro,",
+          "Tizadzei nechiyedza.",
+          "28"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Nedenga anofadza,",
+          "Nyenyedzi, nadzo ngirozi,",
+          "Dzogarokupembedzai.",
+          "Minda, masango, makomo,",
+          "Nemapani negungwa;",
+          "Shiri, nematsime, zvose",
+          "Zvofara pamwe nesu."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Munotikomborera;",
+          "Tsime rorufaro rwedi,",
+          "Rwakadzama segungwa.",
+          "Baba, ndimi Kritsu, hama,",
+          "Vane rudo ndevenyu,",
+          "Tidzidzisei kudanana",
+          "Norudo rutsvene."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Rwokuyedza kwokunze;",
+          "Rudo rwaBaba rwotonga",
+          "Hama nomunhu wose.",
+          "Ngatifambe tichiimba",
+          "Sevakundi mukurwa;",
+          "Kuimba kwotisimudza,",
+          "Tokunda muupenyu."
+        ],
+        "stanza": 4
+      }
+    ]
+  },
+  {
+    "author": "Henry Williams Baker (1821-77)",
+    "id": "31",
+    "subtitle": "The King Of Love My Sheperd Is",
+    "title": "MAMBO, MUFUDZI NORUDO",
+    "tune": "Dominus regit me, 353; St Columba, 356",
+    "verses": [
+      {
+        "lines": [
+          "Rusingakundikane,",
+          "Handina chondoshayiwa,",
+          "Ari wangu narinhi.",
+          "29"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Anonditungamira;",
+          "Nokumafuro manyoro,",
+          "Wondigutsa nokudya."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Murudo wonditsvaka;",
+          "Wakandiisa papfudzi,",
+          "Kumusha wondiunza."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "‘She, ari pedyo neni;",
+          "Mudonzvo wondinyaradza",
+          "Mberi kwomuchinjikwa."
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "Runako haruperi;",
+          "Mufudzi, ndokuimbira,",
+          "Mumba mako narinhi."
+        ],
+        "stanza": 5
+      }
+    ]
+  },
+  {
+    "author": "William Cowper (1731-1800)",
+    "id": "21",
+    "subtitle": "God Moves In A Mysterious Way",
+    "title": "MWARI ANOTISHAMISA",
+    "tune": "St’ Peter, 129; Belmont, 76; French, 88",
+    "verses": [
+      {
+        "lines": [
+          "Namabasa ake;",
+          "Tsoka dzake todziona",
+          "Padutu, mugungwa."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Dzisingakundike,",
+          "Dziri mumazano ake,",
+          "Nomukuda kwake."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Musatye makore;",
+          "Anoda kunisa mutsa,",
+          "Nengoni dzaIshe."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Nokuziva kwenyu;",
+          "Seri kwezviito zvake",
+          "Kune ngoni zhinji."
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "Zvinopetenuka;",
+          "Pfumvudza nyangwe yovava",
+          "Ruva royevedza.",
+          "20"
+        ],
+        "stanza": 5
+      },
+      {
+        "lines": [
+          "ZvaMwari senhando;",
+          "Asi munaiye Mwari,",
+          "Munechidudziro"
+        ],
+        "stanza": 6
+      }
+    ]
+  },
+  {
+    "author": "",
+    "id": "22",
+    "subtitle": "NDOFUNGIDZIRA",
+    "title": "MWARI MAMBO KANA",
+    "tune": "O Lord, My God!",
+    "verses": [
+      {
+        "lines": [
+          "Mabasa enyu anoshamisa,",
+          "Nenyenyedzi, ndonzwa nokuriridza,",
+          "Nesimba renyu guru panyika.",
+          "Ndokuimbirai Mwari M’ponisi",
+          "Muru M ‘kuru! Mukuru sei!",
+          "Ndokuimbirai Mwari M’ponisi,",
+          "Muri M’kuru! Mukuru sei!"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Ndonzwa shiri dzinondifadzisa;",
+          "Ndotarisawo pasi pemakomo,",
+          "Ndonzwa hova, mhepo yofefeta."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Kutifira: izvi zvoshamisa!",
+          "Wakatakura zvivi paM’chinjikwa,",
+          "Wakafa kubvisa zvivi zvangu."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Ndoenda kumusha norufaro;",
+          "Ndichamukudza nokumurumbidza,",
+          "Ndokudza Mwari, Mukuru sei!",
+          "Copyright (c) 1953 Stuart k. Hine, Kingsway’s",
+          "(used by permission)",
+          "21"
+        ],
+        "stanza": 4
+      }
+    ]
+  },
+  {
+    "author": "Solomon M. Mutswairo (1924-)",
+    "id": "23",
+    "subtitle": "God Is All-powerful",
+    "title": "MWARI MUNE SIMBA ROSE",
+    "tune": "Remington, 42; Duke Street, 17; Pentecost, 40",
+    "verses": [
+      {
+        "lines": [
+          "Tungamirai vafambi",
+          "Vari mumweya, mudenga",
+          "Vadzivirirwe kunjodzi."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Chengetai vanofamba",
+          "Nengarava dzomugungwa;",
+          "Napasi, ngoro dzemoto."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Podzai hasha dzemheni;",
+          "Mvura zhinji ituruke,",
+          "Vanhu nenzara vasafe."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Asagadzire mabhomba,",
+          "Zvombo zvizhinji zvouraya",
+          "Vanhu nezviri panyika."
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "Anotonga zviri pasi;",
+          "Mupei gwara kuronga",
+          "Zvorudo, norunyararo."
+        ],
+        "stanza": 5
+      }
+    ]
+  },
+  {
+    "author": "John Milton (1608-74)",
+    "id": "24",
+    "subtitle": "Let Us With a Gladsome Mind",
+    "title": "NEMWOYO INOFARA",
+    "tune": "Monkland 286: Theodora 297",
+    "verses": [
+      {
+        "lines": [
+          "Ngatirumbidze Ishe:",
+          "Ane tsitsi narinhi,",
+          "Anotendeka chose."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Kuti ndiMwari ega,",
+          "Ane tsitsi narinhi,",
+          "Anotendeka chose."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Wakatipachiedza:",
+          "Ane tsitsi narinhi,",
+          "Anotendeka chose."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Kuvamba rwendo rwaro!",
+          "Ane tsitsi narinhi,",
+          "Anotendeka Chose."
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "Zvose zvogutswa naye:",
+          "Anetsitsi narinhi,",
+          "Anotendeka chose."
+        ],
+        "stanza": 5
+      }
+    ]
+  },
+  {
+    "author": "R.T. Brooks (1918-)",
+    "id": "25",
+    "subtitle": "Thanks Be To God",
+    "title": "NGATIMUTENDEI MWARI",
+    "tune": "Regent Square; 423",
+    "verses": [
+      {
+        "lines": [
+          "M’siki wezvinhu zvose;",
+          "Ndiye mumisi werudzi",
+          "Nomoto une simba,",
+          "Izwi rakazvitaura;",
+          "Ngaarumbidzwe Mwari."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Rakaumba munhu;",
+          "Kufa, asi nokumuka,",
+          "Nengoni dzokudenga.",
+          "Izwi rakazvitaura;",
+          "Ngaarumbidzwe Mwari."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Riri muMweya M’tsvene;",
+          "Tine rufaro rukuru,",
+          "Nokununurwa kwedu.",
+          "Izwi rake rinodaro,",
+          "Ngaarumbidzwe Mwari."
+        ],
+        "stanza": 3
+      }
+    ]
+  },
+  {
+    "author": "Isaac Watts (1674-1748)",
+    "id": "26",
+    "subtitle": "Before Jehovah’s Awful Throne",
+    "title": "PACHIGARO CHAJEHOVHA",
+    "tune": "Old Hundredth, 38; Sounding Praise, 51",
+    "verses": [
+      {
+        "lines": [
+          "Ndudzi zhinji dzipfugame;",
+          "Dzizive Ishe ndiMwari,",
+          "Wosika nokuparadza.",
+          "24"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Wakatiumba savanhu,",
+          "Sehwai patarasika,",
+          "Wotidzorera mudanga."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Tosimudza mazwi edu,",
+          "Pasi, nedzo ndimi zhinji,",
+          "Dzozadza nokurumbidza."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Norudo rusingapere,",
+          "Chokwadi, sedombo, mira,",
+          "Kusvikira kumagumo."
+        ],
+        "stanza": 4
+      }
+    ]
+  },
+  {
+    "author": "Eleanor Fairjeon (1881-1965)",
+    "id": "27",
+    "subtitle": "Morning Has Broken",
+    "title": "PAMAMBAKWEDZA",
+    "tune": "Morning has broken; 735",
+    "verses": [
+      {
+        "lines": [
+          "Ekutangisa,",
+          "Shiri yoimba",
+          "Yokutanga;",
+          "Inorumbidza",
+          "Pamangwanani,",
+          "Inodudzira",
+          "Shoko raShe.",
+          "25"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Yobva kudenga;",
+          "Dova pauswa",
+          "Hwokutanga;",
+          "Totenda mvura",
+          "Iri mubindu,",
+          "Inobvinina",
+          "Paafamba"
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Nemangwanani,",
+          "Zvavakaonekwa",
+          "MuEdheni,",
+          "Ngatirumbidze",
+          "Pamangwanani,",
+          "Mwari wasika",
+          "Zuva idzva."
+        ],
+        "stanza": 3
+      }
+    ]
+  },
+  {
+    "author": "Sidney Edward Cox (1887-1975)",
+    "id": "28",
+    "subtitle": "What Shall I Do, My God To Love?",
+    "title": "NDINGAMUDE, SEI MWARI?",
+    "tune": "Stacathro, 136",
+    "verses": [
+      {
+        "lines": [
+          "Kuti ndimukudze?",
+          "Ndiparidze noukuru",
+          "Hwadzo ngoni dzake."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Hadziverengeki;",
+          "Dzinoramba dzisingafe,",
+          "Dzosvikira vose.",
+          "26"
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Hadzina magumo;",
+          "Dai dzakapfu’ra mumwe,",
+          "Dzaindipfu’rawo"
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Hungarehwe nani?",
+          "Chipo Chisingataurwe",
+          "Ndozochiratidzwa."
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "Ini ndive wenyu;",
+          "Ita mumwoyo mangu,",
+          "‘She, chitongero chenyu."
+        ],
+        "stanza": 5
+      },
+      {
+        "lines": [
+          "His Love",
+          "RUDO RWAMWARI RUKURU",
+          "God’s Love To Me Is Wonderful?",
+          "God’s love to me is wonderful, 150",
+          "Rudo rwaMwari rukuru,",
+          "Zvokuti anonzwa",
+          "Kushaya kwomwoyo wangu,",
+          "Wobisa misodzi;",
+          "Nyangwe ndisinganzwisise",
+          "Udzamo hwerudo,",
+          "Wochengeta mweyawangu,",
+          "Haangakundike.",
+          "Mwari anerudo",
+          "Rudo rwoshamisa,",
+          "Wakapa Mwana wake",
+          "Kuti andifire,",
+          "Rudo rwoshamisa.",
+          "27"
+        ],
+        "stanza": 6
+      },
+      {
+        "lines": [
+          "Kwose kwondoenda,",
+          "Kukahadzika kwasvika,",
+          "Ndom’bata ruoko.",
+          "Rudo runotanda kutya,",
+          "Ndakasunungurwa,",
+          "Nenzeve dzangu ndinonzwa",
+          "Izwi rinofadza."
+        ],
+        "stanza": 7
+      },
+      {
+        "lines": [
+          "Wochenesa nzira;",
+          "Zvino ndawadzana naye,",
+          "Zvisingazopera.",
+          "Baba haandikumbire",
+          "Zvipo zvakakurisa;",
+          "Asi kuti ndimudise,",
+          "Nokumushandira."
+        ],
+        "stanza": 8
+      }
+    ]
+  },
+  {
+    "author": "Henry Van Dyke (1852-1933)",
+    "id": "30",
+    "subtitle": "Joyful, Joyful, We Adore Thee",
+    "title": "NORUFARO TOKUKUDZA",
+    "tune": "Europe, 435",
+    "verses": [
+      {
+        "lines": [
+          "Mwari, Ishe worudo;",
+          "Mwoyo yedu yovhurura",
+          "Semaruva muzuva.",
+          "Bisai, kusuwa, nezvivi,",
+          "Zvibvisei kwatiri,",
+          "Imi mupi worufaro,",
+          "Tizadzei nechiyedza.",
+          "28"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Nedenga anofadza,",
+          "Nyenyedzi, nadzo ngirozi,",
+          "Dzogarokupembedzai.",
+          "Minda, masango, makomo,",
+          "Nemapani negungwa;",
+          "Shiri, nematsime, zvose",
+          "Zvofara pamwe nesu."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Munotikomborera;",
+          "Tsime rorufaro rwedi,",
+          "Rwakadzama segungwa.",
+          "Baba, ndimi Kritsu, hama,",
+          "Vane rudo ndevenyu,",
+          "Tidzidzisei kudanana",
+          "Norudo rutsvene."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Rwokuyedza kwokunze;",
+          "Rudo rwaBaba rwotonga",
+          "Hama nomunhu wose.",
+          "Ngatifambe tichiimba",
+          "Sevakundi mukurwa;",
+          "Kuimba kwotisimudza,",
+          "Tokunda muupenyu."
+        ],
+        "stanza": 4
+      }
+    ]
+  },
+  {
+    "author": "Henry Williams Baker (1821-77)",
+    "id": "31",
+    "subtitle": "The King Of Love My Sheperd Is",
+    "title": "MAMBO, MUFUDZI NORUDO",
+    "tune": "Dominus regit me, 353; St Columba, 356",
+    "verses": [
+      {
+        "lines": [
+          "Rusingakundikane,",
+          "Handina chondoshayiwa,",
+          "Ari wangu narinhi.",
+          "29"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Anonditungamira;",
+          "Nokumafuro manyoro,",
+          "Wondigutsa nokudya."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Murudo wonditsvaka;",
+          "Wakandiisa papfudzi,",
+          "Kumusha wondiunza."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "‘She, ari pedyo neni;",
+          "Mudonzvo wondinyaradza",
+          "Mberi kwomuchinjikwa."
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "Runako haruperi;",
+          "Mufudzi, ndokuimbira,",
+          "Mumba mako narinhi."
+        ],
+        "stanza": 5
+      }
+    ]
+  },
+  {
+    "author": "Charles Wesley (1707-88)",
+    "id": "43",
+    "subtitle": "Let Heaven And Earth Agree",
+    "title": "PASI NOKUDENGA",
+    "tune": "Millenium, 227; Darwalls, 221",
+    "verses": [
+      {
+        "lines": [
+          "Ngirozi navanhu",
+          "Ngazvibvume neni",
+          "M’ponisi wavose;",
+          "Ngazvirumbidze Gwayana,",
+          "Zvikudze zita raJesu."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Rwepasi nedenga;",
+          "Ndiye rubatsiro,",
+          "Ndiye zita chete",
+          "Rinotipa ruponiso",
+          "Nokudzikinura nyika.",
+          "40"
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Mutadzi muzvivi,",
+          "Rumbo runofadza,",
+          "Hupenyu kwaari",
+          "Anoimba nziyo itsva,",
+          "Mwoyo wova norufaro."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Ruzere nengoni,",
+          "Rwakachimbidzika",
+          "Kuzotinunura:",
+          "Ndingazviparidze sei",
+          "Zvamakaitira vanhu?"
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "Kuzivisa vose,",
+          "Kuzivisa mwoyo:",
+          "‘She wakavafira,",
+          "Ishe wakarovererwa,",
+          "Ishe akafira vose."
+        ],
+        "stanza": 5
+      }
+    ]
+  },
+  {
+    "author": "",
+    "id": "44",
+    "subtitle": "Wonderful Story Of Love, 865",
+    "title": "NYAYA INOSHAMISA",
+    "tune": "1. Nyaya inoshamisa!",
+    "verses": [
+      {
+        "lines": [
+          "Nyangwe uri kure!",
+          "Rudo runoshamisa!",
+          "Nanhasi wodana.",
+          "PaKarivhari anodana.",
+          "Kubva mutsime’ro dzvene,",
+          "Kubva mavambo enyika;",
+          "Rudo runoshamisa."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "‘She wopa zororo;",
+          "Rudo runoshamisa!",
+          "Kuna ‘vo vatsvene;",
+          "Vachazorora kudenga,",
+          "Navo vakaenda kare,",
+          "Vachaimba norufaro:",
+          "Rudo runoshamisa.",
+          "J.M Driver"
+        ],
+        "stanza": 2
+      }
+    ]
+  },
+  {
+    "author": "Edward Boaden (1827-)",
+    "id": "45",
+    "subtitle": "Here Lord We Are Gathered",
+    "title": "TAUNGANA M’ZITA RENYU",
+    "tune": "In Thy Name",
+    "verses": [
+      {
+        "lines": [
+          "Mukushanda, tibatsirei;",
+          "Ngoni dzenyu tokumbira",
+          "Tive norudo kwamuri.",
+          "42"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Ringaparadze kuipa,",
+          "Asi mweya wenyu chete,",
+          "Mwoyo yedu movandudza"
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Mweya mutiburukire:",
+          "Nepfungwa tsvene tizadzwe,",
+          "Kuda kwenyu titeerere."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Zvinobatsira vayedzwi;",
+          "Vanodzunga, vagotaura",
+          "Nhamo dzavo, kuna Baba"
+        ],
+        "stanza": 4
+      }
+    ]
+  },
+  {
+    "author": "Lydia Baxter (1809-74)",
+    "id": "46",
+    "subtitle": "Take The Name Of Jesus",
+    "title": "TORA ZITA ROM’PONISI",
+    "tune": "Precious Name, 394",
+    "verses": [
+      {
+        "lines": [
+          "Mwana unotambudzwa;",
+          "Richakupa kunyaradzwa,",
+          "Ritore pakuenda.",
+          "Panyika kudenga,",
+          "Izita rakanaka,",
+          "Panyika nokudenga,",
+          "Izita rakanaka."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Senhowo pakuyedzwa;",
+          "Ukakombwa nezviyedzo,",
+          "Nezitaro teura.",
+          "43"
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Rinotipa rufaro;",
+          "Kana achitigam’chira,",
+          "Tomuimbira nziyo."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Tichimupfugamira,",
+          "Tichazomugadza Mambo,",
+          "Kana rwendo rwapera."
+        ],
+        "stanza": 4
+      }
+    ]
+  },
+  {
+    "author": "Isaac Watt (1647-1748)",
+    "id": "47",
+    "subtitle": "Come, Let Us Join Our Cheerful Song",
+    "title": "UYAI TIIMBE NZIYO",
+    "tune": "Hallelujah to the Lamb, 92; Nativity New, 117",
+    "verses": [
+      {
+        "lines": [
+          "Nengirozi dzose;",
+          "Zvihuru nezvihuru zvadzo,",
+          "Norufaro rumwe.",
+          "Hareruya Gwayana!",
+          "Rakafa paKar’vhari,",
+          "Hareruya, Hareruya,",
+          "Hareruya, Amen!"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Kurumbidzwa kwazo!",
+          "Tinodavira nemwoyo",
+          "Rakafira isu."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Rukudzo nesimba;",
+          "Makomborero tomupa",
+          "Nokusingapere.",
+          "44"
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Ngazvikudze zita",
+          "Ra’She ari pachigaro,",
+          "Gwayana raMwari."
+        ],
+        "stanza": 4
+      }
+    ]
+  },
+  {
+    "author": "",
+    "id": "48",
+    "subtitle": "Come, Let Us All Unite To Sing",
+    "title": "UYAI TIIMBE TOSE,’SHE RUDO",
+    "tune": "God is love, 333; Zealley, 338",
+    "verses": [
+      {
+        "lines": [
+          "‘She Rudo!",
+          "Denga nenyika zvikudze,",
+          "‘She Rudo!",
+          "Wose munhu arurame,",
+          "Mumwoyo make afare,",
+          "Nezva Jesu aimbezve:",
+          "‘She Rudo!"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "‘She Rudo!",
+          "Muna kristu tisingapone,",
+          "‘She Rudo!",
+          "Tashambidzwa nero Ropa",
+          "Tavhenekerwa noMweya,",
+          "Ngatiimbe nokufara:",
+          "‘She Rudo!"
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "‘She Rudo!",
+          "Mazwi ake anofadza,",
+          "‘She Rudo!",
+          "Ndiye zuva nayo nhowo,",
+          "Rubatsiro, rutariro;",
+          "Nzira yose anesuwo;",
+          "‘She Rudo!",
+          "45"
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "‘She Rudo!",
+          "NaKristu tinorukundo,",
+          "‘She Rudo!",
+          "Hatichazotya mukufa,",
+          "Jesu, tinozomuona,",
+          "Naye tichazoyamurwa:",
+          "‘She Rudo!"
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "‘She Rudo!",
+          "Mazwi aya achaimbwa:",
+          "‘She Rudo!",
+          "Kusingapere, narini,",
+          "Tichafara nengirozi,",
+          "Rwiyo rwedu ruchazoti:",
+          "‘She Rudo!"
+        ],
+        "stanza": 5
+      }
+    ]
+  },
+  {
+    "author": "",
+    "id": "49",
+    "subtitle": "Jesus, The Name High Over All",
+    "title": "ZITA RAJESU IGURU",
+    "tune": "Hardy Norseman, 49; Ab; The Judgement Day,",
+    "verses": [
+      {
+        "lines": [
+          "ita raJesu iguru",
+          "Panyika neDenga",
+          "Ngirozi dzose navanhu",
+          "Vanorinamata"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Zita rake rakanaka",
+          "Kuvatadzi vose;",
+          "Ndiye woparadza kutya",
+          "Wovapa rugare"
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Anodimura mikosi",
+          "Yavasungwa vose;",
+          "Anopa varukutiki",
+          "Masimba, vapone."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          " Dai nyika ichiona",
+          "Ngoni huru dzake;",
+          "Rudo rwake rungandai",
+          "Ruchikomba vose."
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "Kururama nechokwadi",
+          "ChaShe ndinoreva;",
+          "Basa rangu ndero kuti:",
+          "Tarisa Gwayana"
+        ],
+        "stanza": 5
+      },
+      {
+        "lines": [
+          "Ndingafadzwe nomukufa",
+          "Nero rake zita;",
+          "Nezwi rangu ndoparidza",
+          "Tarisa Gwayana."
+        ],
+        "stanza": 6
+      }
+    ]
+  },
+  {
+    "author": "Isaac Watts (1674-1748)",
+    "id": "50",
+    "subtitle": "How Sweet The Name of Jesus Sounds",
+    "title": "ZITA RASHE RINOFADZA",
+    "tune": "The Saviour’s mane, 139 Ab; St Peter, 129;",
+    "verses": [
+      {
+        "lines": [
+          "Munzeve yomutendi;",
+          "Panhamo rinonyaradza,",
+          "Rinotanda kutya.",
+          "Ndinorida zita raJesu (Katatu)",
+          "Zita roM’ponisi"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Rinounyaradza;",
+          "Rinogutsa vane nzara,",
+          "Rinovazorodza.",
+          "47"
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Inhowo, ibako,",
+          "Riri dura, rakazadzwa",
+          "Nengoni norudo."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Pfungwa dzotonhodzwa;",
+          "Ndichiona nezvamuri,",
+          "Ndichakurumbidza."
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "Nawo mweya wangu:",
+          "Ndozorodzwa napakufa",
+          "Nezita renyu,’She.",
+          "(b)",
+          "51"
+        ],
+        "stanza": 5
+      },
+      {
+        "lines": [
+          "KRISIMASI: KUUYA",
+          "NOKUZVARWA KWAKE",
+          "Christmas: His Advent And Birth",
+          "FARAI! ISHE WAUYA",
+          "Joy To The World",
+          "Joy To The World , 103",
+          "Farai! Ishe wauya,",
+          "Gam’chirai Mambo.",
+          "Gadzirai nzvimbo yake,",
+          "Denga ngariimbe,",
+          "Pasi padaire,",
+          "Denga, napsi zviimbe.",
+          "Farai! Ishe wotonga,",
+          "vanhu ngavaimbe.",
+          "Minda, hova",
+          "Nemakomo,",
+          "Zvive momufaro,",
+          "Zvose, zvive norufaro.",
+          "48"
+        ],
+        "stanza": 7
+      },
+      {
+        "lines": [
+          "Namasimba ake,",
+          "Anouya",
+          "Kununura,",
+          "Vanhu varasiki,",
+          "Vanhu, vanhu varasiki."
+        ],
+        "stanza": 8
+      },
+      {
+        "lines": [
+          "Marudzi oona",
+          "Rurumbidzo,",
+          "Noutsvene,",
+          "Rudo rwoshamisa,",
+          "Rudo, rudo rwoshamisa."
+        ],
+        "stanza": 9
+      }
+    ]
+  },
+  {
+    "author": "Kristu ari pano.  Joseph Mohr (1792-1848)",
+    "id": "52",
+    "subtitle": "Silent Night.",
+    "title": "HUSIKU HUTSVENE",
+    "tune": "Silent Night, 800",
+    "verses": [
+      {
+        "lines": [
+          "Kwakanyararisa;",
+          "Kuna ‘mai nomwana,",
+          "Mucheche wakapfava,",
+          "Zorora murugare."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Nyenyedzi, yobwinya;",
+          "Vachenjeri vauya",
+          "Nezvipo kuna Mambo",
+          "Jesu ari pano."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Nyenyedzi, yopenya;",
+          "Nengirozi tiimbe,",
+          "Rukudzo kuna ‘She,"
+        ],
+        "stanza": 3
+      }
+    ]
+  },
+  {
+    "author": "Phillips Brooks (1835-93",
+    "id": "53",
+    "subtitle": "O Little Town Of Bethlehem, 156",
+    "title": "KAGUTA KADUKUDUKU",
+    "tune": "Christmas Carol, 146; Forest Green, 149",
+    "verses": [
+      {
+        "lines": [
+          "KeBheterehema!",
+          "Mukunyarara kwenguva,",
+          "Nyenyedzi dzopenya.",
+          "Murima romuguta,",
+          "Movheneka mwenje",
+          "Wetariro yemakore,",
+          "Zvasangana nhasi."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Dzinoti wazvarwa;",
+          "Dzoimba kuna ‘She, Mwari,",
+          "Rugare kuvanhu.",
+          "Kristu, naye Maria,",
+          "Vanounganirwa,",
+          "Vose varere, ngirozi",
+          "Dzinomurindira."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Tinopiwa chipo;",
+          "Mwari wopa mwoyo yedu,",
+          "Namaropafadzo.",
+          "Hatinzwe kuuya kwake,",
+          "Munyika yezvivi,",
+          "Vanyoro vanogam’chira",
+          "Kuuya kwaKristu.",
+          "50"
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Chitiburukira;",
+          "Pinda, ubise zvitema,",
+          "Uzvarwe kwatiri.",
+          "Ngirozi dzinouna",
+          "Mazwi anofadza;",
+          "Uya, ugare nesuwo,",
+          "Ishe, Emanuwere."
+        ],
+        "stanza": 4
+      }
+    ]
+  },
+  {
+    "author": "",
+    "id": "54",
+    "subtitle": "1. Zita raJesu iguru",
+    "title": "Ab",
+    "tune": "Panyika neDenga;",
+    "verses": [
+      {
+        "lines": [
+          "Kuvatadzi vose;",
+          "Ndiye woparadza kutya,",
+          "Wovapa rugare.",
+          "46"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Yavasungwa vose;",
+          "Anopa varukutiki",
+          "Masimba, vapone."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Ngoni huru dzake;",
+          "Rudo rwake rungandai",
+          "Ruchikomba vose."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "ChaShe ndinoreva;",
+          "Basa rangu ndero kuti:",
+          "Tarisa Gwayana"
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "Nero rake zita;",
+          "Nezwi rangu ndoparidza",
+          "Tarisa Gwayana."
+        ],
+        "stanza": 5
+      }
+    ]
+  },
+  {
+    "author": "Cecil Frances Alexander(1818-95)",
+    "id": "54",
+    "subtitle": "Once In Royal David’s City",
+    "title": "MUGUTA RASHE DHAVHITI",
+    "tune": "Irby, 460",
+    "verses": [
+      {
+        "lines": [
+          "Maive nedanga’mo;",
+          "Amai pavakarinza",
+          "Mucheche muchidyiro;",
+          "Maria ndivo mai",
+          "Jesu,She, mwana wavo."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Mwari wavanhu vose;",
+          "Wakazvarirwa mudanga,",
+          "Muchidyiro arere",
+          "Muponisi wakarara",
+          "Navarombo navasina."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Wakaterera ivo,",
+          "Wakadisa amai vake,",
+          "Navo wakayarutswa.",
+          "Nevana vechiKristu,",
+          "Vaterere saiye.",
+          "51"
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Wakakura sesuwo;",
+          "Muduku asina simba,",
+          "Waichema sesuwo",
+          "Anonzwa kusuwa kwedu,",
+          "Pamwe norufaro rwedu."
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "Nokununurwa naye;",
+          "Mwana uyo wakapfava,",
+          "NdiMambo kudenga’ko.",
+          "Wotungamira vana,",
+          "Kwaari’ko kudenga."
+        ],
+        "stanza": 5
+      }
+    ]
+  },
+  {
+    "author": "",
+    "id": "55",
+    "subtitle": "Angels We Have Heard on High",
+    "title": "NGIROZI DZEKUDENGA",
+    "tune": "Iris,693",
+    "verses": [
+      {
+        "lines": [
+          "Dzakaimba usiku,",
+          "Makomo akatinhira,",
+          "Norufaro kunaShe.",
+          "Ru------ mbidzo",
+          "Kuna Mwari kudenga.",
+          "Ru ------ mbidzo",
+          "Kuna Mwari kudenga."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Nziyo idzi ndedzei?",
+          "Chiedza maonepi?",
+          "Mazwi maanzwa kupi?",
+          "52"
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Dzakadaro ngirozi,",
+          "Muzomupfugamira,",
+          "Kristu, Ishe wazvarwa."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Ngirozi dzomukudza,",
+          "Maria naJosefa,",
+          "Tokudza Ishe navo."
+        ],
+        "stanza": 4
+      }
+    ]
+  },
+  {
+    "author": "John Byrom (1692-1763)",
+    "id": "56",
+    "subtitle": "Christians Awake",
+    "title": "MUKAIWO MAKRISTU",
+    "tune": "Christians Awake, 523",
+    "verses": [
+      {
+        "lines": [
+          "Muponisi wepasi wazvarwa!",
+          "Simukai rumbidzai rudo",
+          "Rwakaimbwa nengirozi dzose;",
+          "Rufaro rwemazwi okutanga,",
+          "Emhandara noMwana waMwari."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Mazwi ayo ngirozi, ichiti:",
+          "Ndozivisa kuzvarwa kwaIshe",
+          "Kwamuri nokumarudzi ose;",
+          "Mwari wazadzisa chivimbiso",
+          "Nhasi M’ponisi, Kristu, wazvarwa!"
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Mwari wakanunura marudzi!",
+          "Tsvakai Mwana wakatinunura,",
+          "Kubva muzamba, kumuchinjikwa;",
+          "Famba munhanho, nengoni dzake,",
+          "Dakara tive sepakutanga!",
+          "53"
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Tiimbe rumbo rwokununurwa:",
+          "Uyo wazvarwa zuva ranhasi",
+          "Achiratidza kubwinya kwake,",
+          "Watiponisa toimba nziyo,",
+          "Dzisingagume kunaMambo wedu"
+        ],
+        "stanza": 4
+      }
+    ]
+  },
+  {
+    "author": "",
+    "id": "57",
+    "subtitle": "All Our Hearts Rejoice This Morning",
+    "title": "MWOYO NGAIFARE NHASI",
+    "tune": "Europe, 435",
+    "verses": [
+      {
+        "lines": [
+          "Pazuva reKirisimasi;",
+          "Rumbidzai Mwari nenziyo",
+          "Watipa rudo rwake,",
+          "Jesu Kristu Muponisi,",
+          "Wakauya nezvipo;",
+          "Ngatiimbe pamwechete:",
+          "Zvoshamisa, ndowangu!"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Pagomo kare kare,",
+          "Zvomwana wakabva kudenga",
+          "Mwari wazadzisa shoko,",
+          "Ngirozi, vafudzi vose,",
+          "Vakamukotamira,",
+          "Ngatiimbe pamwechete!",
+          "Zvoshamisa, ndowangu!",
+          "54"
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Yenziyo dzengirozi,",
+          "Ngatinzwezve nemashoko;",
+          "Kristu wokunda zvivi;",
+          "Ruponeso runopiwa",
+          "Pachena kumarudzi",
+          "Ngatiimbe pamwechete:",
+          "Zvoshamisa, ndowangu!",
+          "Ernest Henry Parr"
+        ],
+        "stanza": 3
+      }
+    ]
+  },
+  {
+    "author": "",
+    "id": "58",
+    "subtitle": "Angels From The Realms Of Glory",
+    "title": "NGIROZI DZIRI KUDEDENGA",
+    "tune": "Iris, 693: Come and worship, 413",
+    "verses": [
+      {
+        "lines": [
+          "Burukirai pasi:",
+          "Makaimba zvokusikwa,",
+          "Imbai zvaMesiya.",
+          "Uyai ngatirumbidze,",
+          "Kristu wazvarwa, Mambo."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Hwai dzavo usiku,",
+          "Mwari wogara navanhu,",
+          "Mwana ndiye chiedza.",
+          "Uyai ngatirumbidze,",
+          "Kristu wazvarwa, Mambo."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Netariro nokutya,",
+          "Nokukurumbidza, Ishe,",
+          "Wouya mutemberi;",
+          "Uyai ngatirumbidze,",
+          "Kristu wazvarwa, Mambo.",
+          "55"
+        ],
+        "stanza": 3
+      }
+    ]
+  },
+  {
+    "author": "",
+    "id": "59",
+    "subtitle": "The First Nowell.",
+    "title": "NOWERI WOKUTANGISA",
+    "tune": "The First Nowell, 816",
+    "verses": [
+      {
+        "lines": [
+          "Ngirozi yakaoneka,",
+          "Navafudzi nehwai dzavo,",
+          "Muusiku hwaitonhora kwazvo.",
+          "Noweri , Noweri,",
+          "Noweri , Noweri,",
+          "Wazvarwa Ishe weIsraeri."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Ichipenya kure mabvazuva,",
+          "Ikavhenekera zvikuru,",
+          "Pamasikati nousiku."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Ndokuuya vangwaru vatatu,",
+          "Kuzotsvaka Ishe Mambo,",
+          "Ndokuitevedza nyenyedzi."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Yakamira paBheterihem’,",
+          "Ipapo yakangomira,",
+          "Panzvimbo yakarara Jesu.",
+          "56"
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "Vakapfugamira Ishe,",
+          "Ndokumupa zvipo zvavo:",
+          "Goridhe, mura, nefurakin’senzi."
+        ],
+        "stanza": 5
+      },
+      {
+        "lines": [
+          "Ngatirumbidze, ‘She wedu",
+          "Musiki wedenga napasi,",
+          "Nokutitenga neropa."
+        ],
+        "stanza": 6
+      }
+    ]
+  },
+  {
+    "author": "Dziuyewo kwatiri.  Solomon M. Mutswairo (1924-)",
+    "id": "60",
+    "subtitle": "Lord, In Thy Childhood",
+    "title": "PAUDUKU HWENYU, ISHE",
+    "tune": "Irby, 460: English 87",
+    "verses": [
+      {
+        "lines": [
+          "Chipotero, chakave",
+          "Munyika yeIjipita,",
+          "Kure’ko naHerodhi.",
+          "Farirayi mucheche,",
+          "Wakakuriswa",
+          "Bheterehema"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Mazwi aBaba wenyu",
+          "Paakati: ndichabisa",
+          "Mwana kuIjipita."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Wakakuriswa nevhu",
+          "Renyika’yi yeAfrica,",
+          "Ikave chipotero."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Zvino paKrisimasi;",
+          "Tsitsi dzouduku hwenyu"
+        ],
+        "stanza": 4
+      }
+    ]
+  },
+  {
+    "author": "Edmund Hamilton Sears (1810-76)",
+    "id": "61",
+    "subtitle": "It came Upon The Midnight Clear",
+    "title": "RWAKAIMBWA PAUSIKU",
+    "tune": "It came Upon The Midnight Clear, 153",
+    "verses": [
+      {
+        "lines": [
+          "Rwiyo karekare,",
+          "Nengirozi dziri pasi",
+          "Namarimba adzo;",
+          "Rugare kuvanhu",
+          "RwaMambo wedenga,",
+          "Nenyika murunyararo",
+          "Ngainzwe ngirozi."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Nyika yatambura;",
+          "Kwapfura nguva refu,",
+          "Ngirozi dzaimba.",
+          "Vanhu muhondo havanzwi",
+          "Rwiyo rwune rudo,",
+          "Nyararai imi varwi,",
+          "Inzwai ngirozi."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Sezvaakaprofitwa;",
+          "Nokufamba kwenguva",
+          "Rugare rwouya,",
+          "Runyararo pasi pose",
+          "Serwe kare kare,",
+          "Nyika ichazoimbazve",
+          "Rwiyo rwengirozi."
+        ],
+        "stanza": 3
+      }
+    ]
+  },
+  {
+    "author": "William Chartterton Dix (1837-98)",
+    "id": "62",
+    "subtitle": "As With Gladness Men Of Old",
+    "title": "SEVANHU KARE KARE",
+    "tune": "Dix, 306",
+    "verses": [
+      {
+        "lines": [
+          "Vakaona nyenyedzi,",
+          "Vakafadzwa nomwenje",
+          "Kutungamirirwa nawo;",
+          "Nesu titungamirirwe",
+          "Nguva dzose kwauri."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Kuona muzamba,",
+          "Mwana vopfugamira,",
+          "Mudikanwi wedenga;",
+          "Nesuwo ngatiuye",
+          "Kuchigaro chengoni."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Muzamba, KuMwana’yo",
+          "Nesuwo, noutsvene",
+          "Tisina manyangadzo,",
+          "Tiunze zvipo zvedu",
+          "Kwamuri, Kristu Mambo."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Tichengetei munzira;",
+          "Zvenyika zvapfuura",
+          "Ngaiuyiswe mweya",
+          "Kwamuri, ‘She, nyenyedzi;",
+          "Kwamusingavanzike.",
+          "59"
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "Hakudikanwi nwenje;",
+          "Ndimi, ‘She, mwenji wayo,",
+          "Zuva risinganyure:",
+          "Tichaimba, narinhi:",
+          "Hareruya, kuna ‘She!"
+        ],
+        "stanza": 5
+      }
+    ]
+  },
+  {
+    "author": "Edward Caswall (1814-78)",
+    "id": "63",
+    "subtitle": "See, Amid The Winter’s Snow",
+    "title": "TARISAI, MUCHANDO",
+    "tune": "See, Amid The Winter’s Snow, 295",
+    "verses": [
+      {
+        "lines": [
+          "Wazvarirwa M’ponisi;",
+          "Gwayana rake Mwari,",
+          "Chivimbiso chekare.",
+          "Mangwanani matsvene",
+          "Rununuro rwauya,",
+          "Imbai muJerusarem’,",
+          "Wazvarwa Bheterehem."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Munofadziswa neyi?",
+          "Masiyepiko hwai?",
+          "Mujinga memakomo."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Takaona chiedza;",
+          "Ngirozi dzichiimba,",
+          "Muponisi wazvarwa."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Norudo rwakakomba;",
+          "Rwakabva kudenga’ko,",
+          "Kuuya pano pasi.",
+          "60"
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "Nouso hwakapfava;",
+          "Kuti tigova semi,",
+          "Mukuzvininipisa."
+        ],
+        "stanza": 5
+      }
+    ]
+  },
+  {
+    "author": "Charles Wesley (1707-88)",
+    "id": "64",
+    "subtitle": "Hark! The Herald Angels Sing",
+    "title": "TERERAI NGIROZI",
+    "tune": "Hark the herald angels sing, 322",
+    "verses": [
+      {
+        "lines": [
+          "Dzinorumbidza Ishe;",
+          "Rugare ruve panyika,",
+          "Vanhu vawadzaniswe.",
+          "Farai, marudzi ose,",
+          "Nengirozi dzokudenga,",
+          "Pamwechete tiimbe:",
+          "Wazvarwa muBhet’rehem.",
+          "Tererai, ngirozi,",
+          "Dzinorumbidza Ishe."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Kristu, ‘She, asingafe,",
+          "Anouya kuvanhu,",
+          "Wazvarwa nemhandara;",
+          "munhu, asi ndiMwari,",
+          "Mukwazise ndiMwari,",
+          "Wakada kuva munhu,",
+          "Jesu ndiye Mwari.",
+          "61"
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Kwaziwa zuva dzvene!",
+          "Anounza chiedza,",
+          "Chinorapa varwere.",
+          "Wakasiya kubwinya,",
+          "Vanhu varege kufa;",
+          "Iye wakazvarirwa,",
+          "Kuti vazvarwe patsva."
+        ],
+        "stanza": 3
+      }
+    ]
+  },
+  {
+    "author": "",
+    "id": "65",
+    "subtitle": "Do You Know The Song That",
+    "title": "UNGAZIVE RWIYO RWAKAIMBWA?",
+    "tune": "The Angels Sang?",
+    "verses": [
+      {
+        "lines": [
+          "Nengirozi kare, here?",
+          "Denga rakazadzwa nokuimba",
+          "Napasi pakadairawo.",
+          "Rurumbidzo kudenga,",
+          "Norugare kuvanhu",
+          "Rumbidzai Mwari,",
+          "Rugare kwese",
+          "Rumbidzai Mwari",
+          "Rumbidzai Mwari",
+          "Norugare kuvanhu"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Pavaifudza usiku?",
+          "Denga rakatinhira, vakatya",
+          "Mazwi engirozi dzedenga."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Vachibva ‘vo kumabvazuva?",
+          "Panzira yavo pakavhenekwa",
+          "Nyenyedzi yaipenya kwazvo.  A. P. Cobb",
+          "62"
+        ],
+        "stanza": 3
+      }
+    ]
+  },
+  {
+    "author": "Trs Fredrick Oakeley (1802-80)",
+    "id": "66",
+    "subtitle": "O Come, All Ye Faithful",
+    "title": "UYAI VATENDI",
+    "tune": "Adeste Fideles, 552",
+    "verses": [
+      {
+        "lines": [
+          "Uyai nokufara,",
+          "Uyai, uyai Bheterehema:",
+          "Mutarisei, Ishe wengirozi;",
+          "Ngatimurumbidzei,",
+          "Kristu, Ishe"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Imbai nomufaro,",
+          "Imbai makovero ekudenga;",
+          "Kudzai Mwari, agere kudenga;",
+          "Ngatimurumbidzei,",
+          "Kristu, Ishe."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "‘She wazvarwa nhasi,",
+          "Jesu rurumbidzo ruve kwamuri;",
+          "Izwi raBaba rauya semunhu;",
+          "Ngatimurumbidzei,",
+          "Kristu, Ishe."
+        ],
+        "stanza": 3
+      }
+    ]
+  },
+  {
+    "author": "American Folk Hymn Adapt. & arr. by John W. Wok (1901)",
+    "id": "67",
+    "subtitle": "Go, Tell It On The Mountain",
+    "title": "ZVIPARIDZE PAGOMO",
+    "tune": "Keep Singing Book, 59",
+    "verses": [
+      {
+        "lines": [
+          "Usiku musango,",
+          "Chionaka kudenga",
+          "Kwavheneka mwenje."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Vachinzwa kudenga",
+          "Ngirozi dzichiimba:",
+          "Wazvarwa M’ponisi!"
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Kristu wazvarwa’mo,",
+          "Mwari watipa Kirisimasi",
+          "Yakakomborerwa."
+        ],
+        "stanza": 3
+      }
+    ]
+  },
+  {
+    "author": "",
+    "id": "68",
+    "subtitle": "Away In A Manger",
+    "title": "ZAMBA REZVIPFUWO",
+    "tune": "Away in a manger, 553; Scene, 564;",
+    "verses": [
+      {
+        "lines": [
+          "Hwomwana, ‘She , paarinza musoro;",
+          "Nyenyedzi dzaona paakarara,",
+          "‘She, Jesu, mucheche, ari muzamba."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Asi, ‘She mucheche haasi kuchema;",
+          "Ndinokudai Jesu, munditarise,",
+          "Garai neni, dakara mangwanani."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Mundidisise nokusingaperi;",
+          "Ropafadzai vana murudo rwenyu,",
+          "Mutigadzirire kugara kudenga.",
+          "64"
+        ],
+        "stanza": 3
+      }
+    ]
+  },
+  {
+    "author": "Richard Jakes (1804-67)",
+    "id": "69",
+    "subtitle": "While Shepherds Watched",
+    "title": "VAFUDZI ZVAVAIFUDZA",
+    "tune": "Winchester Old, 144; Nativity New, 117",
+    "verses": [
+      {
+        "lines": [
+          "Usiku musango,",
+          "Vakatumirwa ngirozi,",
+          "Kukapenya kwazvo."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Ndokupai mose",
+          "Mazwi anofadzisa,",
+          "Kwamuri navose."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Nhasi atozvarwa",
+          "Kristu, Ishe noM’ponisi,",
+          "Wavanhu venyika."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Watobva kuDenga,",
+          "Akafukidzwa nenguwo,",
+          "Arere muzamba."
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "Dzimwe dzakauya,",
+          "Dzikaimba kunaMwari,",
+          "Dzichimurumbidza."
+        ],
+        "stanza": 5
+      },
+      {
+        "lines": [
+          "Kuna Mwari wedu,",
+          "Norugare rusingafe,",
+          "Ngaruve kuvanhu"
+        ],
+        "stanza": 6
+      },
+      {
+        "lines": [
+          "NOKUFA KWAKE",
+          "Easter: His Suffering And Death",
+          "TARISA ZVINO GWAYANA",
+          "Behond The Lamb Of God",
+          "God is love, 333 the lamb, 330",
+          "Tarisa zvino Gwayana,",
+          "Ari paMuchinjikwa;",
+          "Atiparadzira ropa",
+          "Ari paMuchinjikwa.",
+          "Inzwa izwi rake zvino;",
+          "Iwe unofarireiko?",
+          "Ona paanofarapo,",
+          "Ari paMuchinjikwa.",
+          "Tarisa maoko ake,",
+          "Ari paMuchinjikwa;",
+          "Tarisa kudivi rake",
+          "Ari paMuchinjikwa.",
+          "Zuva raramba kupenya,",
+          "Nokudenga kunosviba,",
+          "Jesu worwa nokuipa",
+          "Ari paMuchinjikwa.",
+          "Zvino vanomusimudza",
+          "Ari paMuchinjikwa;",
+          "Anokunzwira kusuwa,",
+          "Ari paMuchinjikwa.",
+          "Makomo anodedera,",
+          "Kana Jesu achiita",
+          "Rudzikunuro rwenyika,",
+          "Ari paMuchinjikwa.",
+          "66"
+        ],
+        "stanza": 9
+      },
+      {
+        "lines": [
+          "Ari paMuchinjikwa;",
+          "Kurwa kwapera wakunda;",
+          "Ari paMuchinjikwa.",
+          "Anotarisa kudenga,",
+          "Iye anoti: Zvapera!",
+          "Anokotama ndokufa",
+          "Ari paMuchinjikwa."
+        ],
+        "stanza": 10
+      },
+      {
+        "lines": [
+          "YoMuchinjikwa wake;",
+          "Hapana chinondifadza,",
+          "SoM’chinjikwa wake.",
+          "Misi yose ndichareva,",
+          "Panyika napakudenga,",
+          "Kuti Jesu wandifira",
+          "Ari paMuchinjikwa."
+        ],
+        "stanza": 11
+      }
+    ]
+  },
+  {
+    "author": "William B. Tappan (1794-1849)",
+    "id": "71",
+    "subtitle": "‘Tis Midnight, And On Olive’s Brow",
+    "title": "HUSIKU ZVINO MUBINDU",
+    "tune": "Sweet hour of prayer, 66",
+    "verses": [
+      {
+        "lines": [
+          "Pamumvuri wemuOrivhi,",
+          "Nyenyedzi yave kudoka;",
+          "Ishe, ega onamata."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Ishe anorwa nokutya;",
+          "Nomudzidzi waaida,",
+          "Anoshaya hanya naye.",
+          "67"
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Misodzi yake iropa;",
+          "Anopfugama neshungu,",
+          "Haangaraswe naMwari."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Ngirozi dziri kuimba",
+          "Nziyo dzisina anonzwa,",
+          "Dzinonyaradza M’ponisi."
+        ],
+        "stanza": 4
+      }
+    ]
+  },
+  {
+    "author": "Runodisa ndizvipire.  Isaac Watts (1674-1748)",
+    "id": "72",
+    "subtitle": "When I Survey The Wondrous Cross",
+    "title": "KANA NDOONA M’CHINJIKWA",
+    "tune": "Rockingham, 43 Eb; Maryton, 33;",
+    "verses": [
+      {
+        "lines": [
+          "Paakafira Kristu, ‘She,",
+          "Zvose zvangu ndozvizvidza,",
+          "Ndoshora kuzvida kwangu."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Kunze kwokufa kwaIshe;",
+          "Zvose zvinondinyangadza,",
+          "Zvibviswe neropa rake."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Zvose zvoratidza rudo;",
+          "Rudoiko rwakadai,",
+          "Nengundu yake yeminzwa!"
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Zvaive chipo chiduku;",
+          "Rudo rwunondishamisa,"
+        ],
+        "stanza": 4
+      }
+    ]
+  },
+  {
+    "author": "",
+    "id": "73",
+    "subtitle": "Lead Me To Calvary",
+    "title": "ISHE NDOKUGADZAI ZVINO",
+    "tune": "Lead me to calvary, 105",
+    "verses": [
+      {
+        "lines": [
+          "Umambo ndohwenyu;",
+          "Ndofunga ngundu yeminzwa,",
+          "Ndouya Karavhari.",
+          "Ndingafunge Getsimani,",
+          "Ndisakanganwe kurwadzwa;",
+          "Ngandifunge rudo rwenyu",
+          "Ndouya Karavhari."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Pavakachema’po;",
+          "Ngirozi nenguwo chena,",
+          "Dzakakurindirai."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Ndouya nechipo;",
+          "Ndione guva rashama,",
+          "Ndouya Karivhari."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "M’chinjikwa wenyu, ‘She;",
+          "Ndigovane nhamo nemi,",
+          "Makatakura zvose.",
+          "69"
+        ],
+        "stanza": 4
+      }
+    ]
+  },
+  {
+    "author": "George Bennard (1873-1958)",
+    "id": "74",
+    "subtitle": "On A Hill Far Away",
+    "title": "KUNE GOMO KURE",
+    "tune": "The old rugged cross, 585",
+    "verses": [
+      {
+        "lines": [
+          "Chiratidzo chokutambudzwa;",
+          "Ndinoda M’chinjikwa, pakafira Ishe",
+          "Kununura vatadzi vose.",
+          "Ndichachengetedza M’chinjikwa,",
+          "Kusvika ndawana ngundu,",
+          "Ndichanamatira M’chinjikwa,",
+          "Kusvikira ndawana ngundu."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Unondikwezva kwazvo ini;",
+          "Gwayana raMwari rakasiya denga,",
+          "Kuzotifira paKarivhari."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Ndotakura kushorwa kwavo;",
+          "Achazondidana kumusha kudenga,",
+          "Ndichagovana mbiri naye."
+        ],
+        "stanza": 3
+      }
+    ]
+  },
+  {
+    "author": "Cecil Francis Alexander (1818-95)",
+    "id": "75",
+    "subtitle": "There Is A Green Hill Far Away",
+    "title": "KUNE GOMO RIRI KURE",
+    "tune": "Lloyd, 107; Sawley, 132",
+    "verses": [
+      {
+        "lines": [
+          "Kunze kwaro guta;",
+          "Kwaakarovererwa, ‘She,",
+          "Kwaakatifira.",
+          "70"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Kwaakatinzwira;",
+          "Asi tinoziva kuti",
+          "Wakafira isu."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Nokutichenesa,",
+          "Kuti tiende kudenga;",
+          "Tiponiswe naye."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Wokutinunura;",
+          "Ndiye wozarura suo",
+          "Tipinde kudenga."
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "Nesu ngatimude;",
+          "Tivimbe neropa rake,",
+          "Nokumushandira."
+        ],
+        "stanza": 5
+      }
+    ]
+  },
+  {
+    "author": "Isaac Watts (1674-1748)",
+    "id": "76",
+    "subtitle": "Alas, And Did My Saviour Bleed",
+    "title": "MAIWE! M’PONISI WANGU",
+    "tune": "Remember me, 122, F. Irish, 99 Eb",
+    "verses": [
+      {
+        "lines": [
+          "Wandifira here?",
+          "Wakazvipa Ishe wangu,",
+          "Kuti ndiponeswe?",
+          "Muponisi ndiyamurei,",
+          "Kuti ndivimbike;",
+          "Napakutonga kwenyu",
+          "‘She, mundirangarire.",
+          "71"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Warwadzwa pamuti;",
+          "Ingoni netsitsi huru,",
+          "Norudo kwandiri."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Rashaya kupenya,",
+          "ZvaKristu wakavafira",
+          "Vanhu vanotadza."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Mhosva yandinayo!",
+          "Zvino, ndinozvipira ;She,",
+          "Kwamuri, kudaro."
+        ],
+        "stanza": 4
+      }
+    ]
+  },
+  {
+    "author": "",
+    "id": "77",
+    "subtitle": "Dark Was The Hour",
+    "title": "MUGETSEMANI MURIMA",
+    "tune": "Down in the garden, 84",
+    "verses": [
+      {
+        "lines": [
+          "Kwakanzwika izwi",
+          "RaJesu, achiteura",
+          "Pamberi paMwari.",
+          "Panzvimbo iyo,",
+          "Inzwa kuchema;",
+          "Tarisa Jesu M’ponisi",
+          "Ndiye anoteuta."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Zvakaipa zvedu;",
+          "Hakutaurwe kusuwa,",
+          "Misodzi neropa.",
+          "72"
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Mwana ‘yo waMwari;",
+          "Mukusuwa anochema:",
+          "Baba, ndoterera."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Nemisodzi yake;",
+          "Zvinoramba zvoyerera",
+          "Kuti ndishambidzwe."
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "Anondigamuchira,",
+          "Jesu, bisai zvakaipa;",
+          "Zvino, ndinotenda."
+        ],
+        "stanza": 5
+      }
+    ]
+  },
+  {
+    "author": "Albert Orsborn (1886-)",
+    "id": "78",
+    "subtitle": "Son Of God! Thy Cross Beholding",
+    "title": "MWANAKOMANA WAMWARI",
+    "tune": "Regent Square, 423; Austria, 408",
+    "verses": [
+      {
+        "lines": [
+          "Muchichema, tokunzwai;",
+          "Buritsai zvivi pachena,",
+          "Dumbisai mwoyo yedu.",
+          "‘She wedenga!",
+          "Makauya kuzofa."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Nduramo ichatonga?",
+          "Tovinga here rufaro",
+          "Rwokufa kwenyu, Ishe?",
+          "Mururami!",
+          "Bisai majoto edu.",
+          "73"
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Nokutonga kwenhando;",
+          "Chiedza chako chobuda,",
+          "Netariro toimba:",
+          "Hareruya!",
+          "‘She anesu!"
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Pamhanza mune ngundu;",
+          "Navatsvene vemarudzi,",
+          "Vanokukotamirai.",
+          "Hareruya!",
+          "Tokunda noM’chinjikwa."
+        ],
+        "stanza": 4
+      }
+    ]
+  },
+  {
+    "author": "Benjamin Russell Hanby (1833-67)",
+    "id": "79",
+    "subtitle": "Who Is He In Yonder Stall",
+    "title": "NDIANI KUDANGAKO?",
+    "tune": "Who is He ? 319",
+    "verses": [
+      {
+        "lines": [
+          "Anopfugamirwapo?",
+          "Ndiye ‘She! Zvinoshamisa,",
+          "Ndiye ‘She! Mambo weDenga!",
+          "Tinomupfugamira,",
+          "Samambo tomugadza."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Achizvinyimakudya?"
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Varwere navasuwi?"
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Anofa nokurwadziwa?",
+          "74"
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "Kuti ave M’ponisi?"
+        ],
+        "stanza": 5
+      },
+      {
+        "lines": [
+          "Munyika dzose ega?"
+        ],
+        "stanza": 6
+      }
+    ]
+  },
+  {
+    "author": "John Lawley (1859-1922)",
+    "id": "80",
+    "subtitle": "REKARIVHARI",
+    "title": "UYAI TISHANYIRE GOMO",
+    "tune": "Come With Me, Visit Calvary",
+    "verses": [
+      {
+        "lines": [
+          "Gomo reKarivhari;",
+          "Pane tsime rizere",
+          "Ropa roM’ponisi;",
+          "Kubva kuzvakaipa",
+          "Anotinunura,",
+          "Zve, anovachengeta",
+          "Vanomutevera.",
+          "Anoponisa kwazvo,",
+          "Anoponisa kwazvo,",
+          "Tendai zvino,",
+          "Torai rudo,",
+          "Anoponisa kwazvo."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Zvino mungapiwe,",
+          "Rudzikinuro rwedi;",
+          "Mungarugam’chire;",
+          "Uyai nokutenda",
+          "Kuti mugam’chidzwe,",
+          "Tarisai kudenga",
+          "Kuti mumuzive.",
+          "75"
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Zvino ndozvipira;",
+          "Iye wonditsvenisa,",
+          "Naye ndozadziswa,",
+          "Ndotenda ndaponiswa,",
+          "Wandikomborera;",
+          "Mweya wake wauya,",
+          "Mwoyo wangu mutsva."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Ndinarwo rufaro,",
+          "Ndinarwo ruzororo,",
+          "Ndinarwo rukundo,",
+          "Anondipa upfumi",
+          "Husingaverengwe;",
+          "Zvinoshamisa sei,",
+          "Mwari ngaakudzwe!"
+        ],
+        "stanza": 4
+      }
+    ]
+  },
+  {
+    "author": "E.E Hewitt (1851-1920)",
+    "id": "81",
+    "subtitle": "More About Jesus",
+    "title": "NDIUDZE NEZVAJESU",
+    "tune": "Be hold the saviour, 75;",
+    "verses": [
+      {
+        "lines": [
+          "Nengoni dzake kunavose;",
+          "Noruponiso ndione",
+          "Norudo rwaakandifira.",
+          "Ndiudze nezvaJesu,",
+          "Ndiudze nezvaJesu,",
+          "Noruponiso ndione,",
+          "Norudo rwaakandifira.",
+          "76"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Nezveutsvene ndizive;",
+          "Mweya waMwari, dzidzisai",
+          "Zvose zvaKristu kwandiri"
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Nezveupfumi hwedenga;",
+          "Nezvaumambo hukuru,",
+          "Nezvokuuya kwake, ‘She."
+        ],
+        "stanza": 3
+      }
+    ]
+  },
+  {
+    "author": "",
+    "id": "82",
+    "subtitle": "Behold! The Saviour of Mankind",
+    "title": "TARISA! JESU M’PONISI",
+    "tune": "Be hold the saviour, 75, Arnolds",
+    "verses": [
+      {
+        "lines": [
+          "Wakarovererwa;",
+          "Wakaisvokuda sei,",
+          "Zvavakakufira."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Nyika yadedera;",
+          "Chizariro chetemberi,",
+          "Nezvengo zvatyoka."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Wati; torai mweya.",
+          "Anokotama musoro,",
+          "Ipapo anofa."
+        ],
+        "stanza": 3
+      }
+    ]
+  },
+  {
+    "author": "Henry Hart Milman (1791-1868)",
+    "id": "83",
+    "subtitle": "Ride On, Ride On In Majesty",
+    "title": "TASVA PADHONGI SAMAMBO",
+    "tune": "Winchester New, 61",
+    "verses": [
+      {
+        "lines": [
+          "Inzwa voimba, Hosana!",
+          "Dhongi rofamba, munzira",
+          "M’chindwe akawaridzirwa."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Uende zvako kunofa;",
+          "Kristu, kukunda kwatanga",
+          "Murufu nomuzvitadzo."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Ngirozi dzose dzedenga",
+          "Dzotarisa, dzoshamiswa,",
+          "Kuona anozvipira."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Kurwa kukuru kwasvika;",
+          "Baba ari pachigaro",
+          "Woona muzodzwa wake."
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "Uende zvako kunofa;",
+          "Kotama pakurwadziwa,",
+          "Chitora simba, utonge."
+        ],
+        "stanza": 5
+      }
+    ]
+  },
+  {
+    "author": "(1814-63, alt.)",
+    "id": "84",
+    "subtitle": "O Com, And Look Awhile",
+    "title": "UYAI MUONE IYE M’PONISI",
+    "tune": "Hursley, 26; Warrington, 56",
+    "verses": [
+      {
+        "lines": [
+          "M’ponisi wakatifira;",
+          "Ngatitarise, ticheme,",
+          "Jesu anorovererwa ."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Muromo wake waoma;",
+          "Maziso ake adzima;",
+          "Jesu anorovererwa."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Tingamuseke Mutsvene?",
+          "Watakura mhosva dzedu,",
+          "Jesu anorovererwa."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Tsime rerutivi rwake",
+          "Rinoshambidzika kuipa;",
+          "Jesu anorovererwa."
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "Zvino zviri kurwisana;",
+          "Asi rudo ruchakunda,",
+          "Nokuti ‘She watifira."
+        ],
+        "stanza": 5
+      },
+      {
+        "lines": [
+          "Mwoyo wakapfava chose;",
+          "Mumwoyowo wakapfava,",
+          "Anogaramo Jesu, ‘She.",
+          "Frederick William Faber"
+        ],
+        "stanza": 6
+      }
+    ]
+  },
+  {
+    "author": "Woivaka patsva.  Thomas Kells (1769-1855)",
+    "id": "85",
+    "subtitle": "Have You Seen The Crucified",
+    "title": "WAONA MUROVERWA?",
+    "tune": "There is a happy land, 235",
+    "verses": [
+      {
+        "lines": [
+          "Chishamiso.",
+          "Ndiye wakatifira,",
+          "Chishamiso!",
+          "Waona minzwa here,",
+          "Nairo ropa rake?",
+          "Nazvo ungaponiswe;",
+          "Chishamiso!"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Chishamiso!",
+          "Nokunzwa zvorugare?",
+          "Chishamiso",
+          "Rudo rwake rwobisa",
+          "Misodzi nako kutya,",
+          "Nezwi rake zvopera;",
+          "Chishamiso!"
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Chishamiso!",
+          "Unorugare here?",
+          "Chishamiso",
+          "Ruponiso rwaIshe,",
+          "Rwuende kuna vose",
+          "Vari munyika dzose;",
+          "Chishamiso!",
+          "80"
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Chishamiso!",
+          "Vamwe bedzi vakanzwa,",
+          "Chishamiso!",
+          "Kunyange vakatadza,",
+          "Jesu wakavafira,",
+          "Vose tichavaudza;",
+          "Chishamiso!"
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "Iye Mwana waMwari",
+          "Wakavada vatadzi",
+          "Hareruya! Muponisi!"
+        ],
+        "stanza": 5
+      },
+      {
+        "lines": [
+          "Wakaparadza Ropa,",
+          "Iro randinunura;",
+          "Hareruya! Muponisi!"
+        ],
+        "stanza": 6
+      },
+      {
+        "lines": [
+          "Asi iye Mutsvene;",
+          "Angatidzikinure;",
+          "Hareruya! Muponisi!"
+        ],
+        "stanza": 7
+      },
+      {
+        "lines": [
+          "Wakachema: Zvapera!",
+          "Agerewo kudenga",
+          "Hareruya! Muponisi!",
+          "81"
+        ],
+        "stanza": 8
+      },
+      {
+        "lines": [
+          "(d)",
+          "87"
+        ],
+        "stanza": 9
+      },
+      {
+        "lines": [
+          "Kuti titorwe naye,",
+          "Tichaimba zvakare:",
+          "Hareruya! Muponisi!"
+        ],
+        "stanza": 12
+      }
+    ]
+  },
+  {
+    "author": "Robert Loury (1826-99)",
+    "id": "88",
+    "subtitle": "Low In The Grace He Lay",
+    "title": "MUKATI MEGUVA",
+    "tune": "Up from the grave He arose, 839",
+    "verses": [
+      {
+        "lines": [
+          "Jesu, M’ponisi,",
+          "Wagarira zuva,",
+          "Jesu, Ishe.",
+          "Wakamuka pakufa,",
+          "Wakakunda vavengi vake,",
+          "Wakakunda pakufa nokumuka,",
+          "Achagara nesu nokusingapere;",
+          "Wamuka pakufa,",
+          "Hareruya, wakamuka!"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Jesu, M’ponisi,",
+          "Vakarinda nhando,",
+          "Jesu, Ishe."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Jesu, M’ponisi,",
+          "Wakakunda guva,",
+          "Jesu, Ishe."
+        ],
+        "stanza": 3
+      }
+    ]
+  },
+  {
+    "author": "Samuel Medley (1738-99)(verses)",
+    "id": "89",
+    "subtitle": "I Know That My Redeemer Lives",
+    "title": "MUNUNURI WAKAMUKA",
+    "tune": "And above the rest, 5; Morning Hymn, 35",
+    "verses": [
+      {
+        "lines": [
+          "Izvi zvinondifadzisa;",
+          "Ndiye wakakunda guva,",
+          "Achaponisa nesimba.",
+          "83",
+          "Pam’soro peizwi iri,",
+          "Ngaatendwe! Ngaatendwe!",
+          "Pam’soro peizwi iri,",
+          "Ngaatendwe! Ngaatendwe!"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Zve, anondiregerera;",
+          "Anobisa kwose kutya,",
+          "Misodzi anopisika."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Anondida nguva dzose,",
+          "Wondigadzirira nzvimbo,",
+          "Wondigadzirira uko."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "‘She, Jesu, haapinduke;",
+          "Ini ndofara kuziva",
+          "Kuti Kristu wakamuka."
+        ],
+        "stanza": 4
+      }
+    ]
+  },
+  {
+    "author": "Alfred Henry Ackley(1877-1960)",
+    "id": "90",
+    "subtitle": "MUPENYU",
+    "title": "NDOSHANDIRA M’PONISI",
+    "tune": "I Serve A Risen Saviour",
+    "verses": [
+      {
+        "lines": [
+          "Mupenyu munyika;",
+          "Ndoziva akamuka,",
+          "Vamwe vacharamba;",
+          "Ruoko runetsitsi,",
+          "Ndonzwa izwi rake,",
+          "Nguva yondomudana",
+          "Ari pedyo.",
+          "84",
+          "Ari M’penyu , ari M’penyu Jesu,",
+          "Iye anofamba neni",
+          "Murwendo rwo’penyu",
+          "Ari M’penyu kuponisa vanhu,",
+          "Ndinoziva izvi sei?",
+          "Mupenyu mandiri."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Inorudo rwake;",
+          "Kana mwoyo waneta",
+          "Nganditsungirire;",
+          "Wonditungamirira",
+          "Kana kwovhuvhuta,",
+          "Zuva raachadzoka",
+          "Richasvika."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Imbai nezwi renyu",
+          "Muchiti: ‘Hareruya!",
+          "Kuna Jesu Kristu;",
+          "Tariro yavatsvaki,",
+          "Anovayamura,",
+          "Rudo rwake rwokunda,",
+          "Anomutsa."
+        ],
+        "stanza": 3
+      }
+    ]
+  },
+  {
+    "author": "Haangavasiye.  Dorothy Ann Thrupp(1717-1847)",
+    "id": "91",
+    "subtitle": "Christ The Lord Is Risen Today",
+    "title": "KRISTU WAMUKA NHASI",
+    "tune": "Easter Hymn, 281; Llanfair, 271;",
+    "verses": [
+      {
+        "lines": [
+          "Hareruya!",
+          "Vanhu nengirozi vati:",
+          "Hareruya!",
+          "Simudzirai kutenda,",
+          "Hareruya!",
+          "Imbai denga nenyika:",
+          "Hareruya !"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Kwarwiwa zino kwakundwa;",
+          "Rima rino paradzwa,",
+          "Zuva rino vheneka."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Kristu wakunda satani;",
+          "Haakundwe nokufa;",
+          "Denga dzvene, wazarura."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Rufu, uripiko zvino?",
+          "Wakafa kutiponisa;",
+          "Guva rakakundwa naye."
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "Totevera Tenzi wedu;",
+          "Saiye, tichamuka;",
+          "M’chinjikwa, guva, denga"
+        ],
+        "stanza": 5
+      },
+      {
+        "lines": [
+          "HWAKE",
+          "His Life, And His Kingdom",
+          "KANGARAVA KAKAFAMBA",
+          "A Little Ship",
+          "A Little Ship , 67",
+          "Kangarava kakafamba",
+          "Pam’soro pegungwa;",
+          "kakaenda zvakanaka,",
+          "Zvose zvichapenya.",
+          "Asi dutu rakauya,",
+          "Rine simba guru;",
+          "Makore akavhuvhutwa,",
+          "Gungwa rikamutswa.",
+          "Kunze kwomumwe, vakatya",
+          "Kunyura mugungwa;",
+          "Asi iye wakarara",
+          "Abatwa nehope.",
+          "“Tenzi tofa tiponisei!”",
+          "Vose vakachema;",
+          "Akamuka worayira",
+          "Dutu rinyarare.",
+          "Iye kudutu wakati:",
+          "Ibva, wanyarara;",
+          "Mhepo yakabva yati mwi",
+          "Yanzwa izwi rake.",
+          "Toziva waive Ishe;",
+          "Hama noM’ponisi;",
+          "Kune vanovimba naye"
+        ],
+        "stanza": 11
+      }
+    ]
+  },
+  {
+    "author": "Wakandidzikinura.  Fanny Crosby (1820-1915)",
+    "id": "93",
+    "subtitle": "Tell Me The Story Of Jesus",
+    "title": "NDIUDZE NYAYA YAJESU",
+    "tune": "Tell me the story of Jesus, 458;",
+    "verses": [
+      {
+        "lines": [
+          "Uyinyore mumwoyo;",
+          "Ndiudze nyayayo tsvene,",
+          "Inofadzisa kunzwa.",
+          "Ndiudze nezvengirozi",
+          "Dzichiimbira Ishe:",
+          "Rumbidza Mwari kudenga,",
+          "Norugare panyika.",
+          "Ndiudze nyaya yaJesu,",
+          "Uyinyore mumwoyo;",
+          "Ndiudze nyayayo tsvene,",
+          "Inofadzisa kunzwa."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Ndiudze misi yake;",
+          "Achishushwa nokuyedzwa,",
+          "Asi akazokunda.",
+          "Ndiudze misi yake;",
+          "Nokutambudzwa kwake,",
+          "Akashorwa nokurwadzwa,",
+          "Akarambwa navose."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Kusekwa nokurwadzwa;",
+          "Ndiudze paakavigwa,",
+          "Nezvokumuka kwake.",
+          "Nyaya izere norudo,",
+          "Ive pachena kwazvo,",
+          "Rurumbidzo kuna Jesu,"
+        ],
+        "stanza": 3
+      }
+    ]
+  },
+  {
+    "author": "",
+    "id": "94",
+    "subtitle": "Master, The Tempest Is Raging",
+    "title": "TENZI KURI KUVHUVHUTA",
+    "tune": "1. Tenzi, kuri kuvhuvhuta,",
+    "verses": [
+      {
+        "lines": [
+          "Nhasi ndozvideredza;",
+          "Kusuwa kwemwoyo kwondinetsa,",
+          "Mukai mundiponese.",
+          "Masaisai ezvivi",
+          "Ave kundinyudza;",
+          "Ndoparara here,",
+          "Tenzi wangu?",
+          "Ndibatsirei zvino.",
+          "89"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Nedutu ranyarara,",
+          "Zuva ropenyawo munyanza,",
+          "Denga mumwoyo mangu;",
+          "Mununuri garai neni,",
+          "Musandisiyezve,",
+          "Norufaro ndichazosvikako,",
+          "Kumusha, ndozorora.",
+          "H.R. Palmer"
+        ],
+        "stanza": 2
+      }
+    ]
+  },
+  {
+    "author": "Arabella Catherine Hankey (1831-19911)",
+    "id": "95",
+    "subtitle": "Tell Me The Old, Old Story",
+    "title": "NDIUDZE NYAYA YEKARE",
+    "tune": "Old Story , 256;Hosanna, 255",
+    "verses": [
+      {
+        "lines": [
+          "Yezvisingaonwe,",
+          "Zvokubwinya KwaJesu,",
+          "Nezvorudo rwake.",
+          "Nyatsondidzidzisa,",
+          "Semwana muduku,",
+          "Sezvandisina simba,",
+          "Ndichiri muzvivi.",
+          "Ndiudze nyaya yekare",
+          "(katatu)",
+          "Yorudo rwaJesu."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "kuti ndinyatsonzwa,",
+          "Yorudzikinuro rwake,",
+          "Rwopiwa naMwari.",
+          "Garondiudza nyaya,",
+          "Zvandine hanganwa;",
+          "Dova remangwanani,",
+          "Risati raoma.",
+          "90"
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Nezwi rechokwadi;",
+          "Yeuka! Ndiri m’tadzi",
+          "Wakazonunurwa.",
+          "Ramba uchindiudza",
+          "Kana uchazove",
+          "Panguva yedambudziko",
+          "Munyaradzi wangu."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Kana uchizotya",
+          "Kuti mbiri yenyika iyi",
+          "Inondidzivisa.",
+          "Kana ndichazoziva",
+          "Zvembiri yenyika,",
+          "Ndiudze nyaya yekare:",
+          "yaJesu wokurapa."
+        ],
+        "stanza": 4
+      }
+    ]
+  },
+  {
+    "author": "",
+    "id": "96",
+    "subtitle": "Have You Ever Heard The Story Of",
+    "title": "WAKAMBODZWA NYAYA HERE",
+    "tune": "Gospel Bells, 253",
+    "verses": [
+      {
+        "lines": [
+          "Yomwana weBeterehem,",
+          "Nengirozi akakudzwa",
+          "Pamwe navachenjeri;",
+          "Akadzidzisa vakuru",
+          "Mutemberi kareko?",
+          "Ndinofara kukuudza:",
+          "Akadaro nanhasi.",
+          "Ndizvozvo, ndizvozvo",
+          "Akadaro nanhasi",
+          "Ndizvozvo, ndizvozvo.",
+          "Akadaro nanhasi",
+          "91"
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Achifamba pagungwa,",
+          "Vadzidzivo vachinyudzwa",
+          "Nemvura yeGarari?",
+          "Masaisai emvura",
+          "Akaterera Tenzi.",
+          "Ndinofara kukuudza:",
+          "Akadaro nanhasi."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Ari muGetsimani;",
+          "Nenyaya inofadzisa",
+          "Achifira pamuti;",
+          "Neminzwa pamhanza yake,",
+          "Mweya wake waenda?",
+          "Akaitira iwe:",
+          "Akadaro nanhasi."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Akavigwa muguva!",
+          "Navadzidzi, akachemwa,",
+          "Nenhamo vakungudzwa?",
+          "Asi muri Mwari samasimba,",
+          "Akamuka paIsita,",
+          "Ndiye ruponeso rwedu:",
+          "Akadaro nanhasi.",
+          "S.Z Kaufman(verses 1-3)",
+          "Gordon Taylor(Verse4)",
+          "92"
+        ],
+        "stanza": 4
+      }
+    ]
+  },
+  {
+    "author": "Godffrey Thring (1823-1903)(verse2)",
+    "id": "97",
+    "subtitle": "Crown Him With Many Crowns",
+    "title": "GADZAI GWAYANA",
+    "tune": "Diademata, 182",
+    "verses": [
+      {
+        "lines": [
+          "Nengundu youshe,",
+          "Inzwai nziyo kudenga",
+          "Dzinorirumbidza.",
+          "Muka, mweya imba",
+          "Zvowakakufira;",
+          "Umukudze Mambo wako",
+          "Nokusingaperi."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Wakakunda guva;",
+          "Akamuka mudambudzo",
+          "Kununura vanhu.",
+          "Ngatimurumbidze,",
+          "Akakunda kufa;",
+          "Wakafa kupa upenyu",
+          "Kuti rufu rufe."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Netsvimbo yoUshe;",
+          "Kumisa hondo panyika,",
+          "Atonge narinhi.",
+          "Napatsoka dzake,",
+          "Ashonge maruva",
+          "Anonhuhwira chaizvo,",
+          "Em’Paradhaisi.",
+          "93"
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Tarisa muzvanza,",
+          "Mavanga anooneka",
+          "Norunako rwawo.",
+          "Kwaziwa, M’nunuri!",
+          "Imi mandifira,",
+          "Rurumbidzo rwusoguma",
+          "Narinhi, ndorwenyu."
+        ],
+        "stanza": 4
+      }
+    ]
+  },
+  {
+    "author": "Isaac Watts (1674-1748)",
+    "id": "98",
+    "subtitle": "Jesus shall Reign",
+    "title": "JESU ACHATONGA KWESE",
+    "tune": "Duke Street, 17; Rimington ,42",
+    "verses": [
+      {
+        "lines": [
+          "Kunovhenekera zuva;",
+          "Ushe hwake huchagara,",
+          "Dakara rinhi narinhi."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Anoimba rudo rwake;",
+          "Nawo mazwi avadiki,",
+          "Anokudza zita rake."
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Vasungwa vanonunurwa;",
+          "Vakaneta vozorodzwa,",
+          "Varombo vokomborerwa."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Kurapa hapana rufu;",
+          "Maari vanhu vowana",
+          "Makomborero mazhinji.",
+          "94"
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "Rukudzo kuna ‘She Mambo,",
+          "Ngirozi dziburukire",
+          "Dziimbe pamwe nenyika."
+        ],
+        "stanza": 5
+      }
+    ]
+  },
+  {
+    "author": "Thomas Kelly (1769-1855)",
+    "id": "99",
+    "subtitle": "Jesus Comes, Let All Adore Him",
+    "title": "JESU WOUYA, NGAAKUDZWE",
+    "tune": "Ottawa, 462",
+    "verses": [
+      {
+        "lines": [
+          "‘She wetsitsi norudo,",
+          "Gadzirai nzira yake,",
+          "Ngairurame kwazvo,",
+          "Nomugwenga ivemo,",
+          "Itai nzira ya’She."
+        ],
+        "stanza": 1
+      },
+      {
+        "lines": [
+          "Pasave nemipata,",
+          "Kubwinya kwaMwari kuve",
+          "Kunokunda makomo.",
+          "Mazwi akwazise’She,",
+          "Ati: hona Jehovha!"
+        ],
+        "stanza": 2
+      },
+      {
+        "lines": [
+          "Wofamba nomurenje;",
+          "Umambo hwake hwokura",
+          "Paisave nechinhu;",
+          "Gwenga richazofara",
+          "Rapfekedzwa runako."
+        ],
+        "stanza": 3
+      },
+      {
+        "lines": [
+          "Minzwa miti yokura,",
+          "Yakasimwapo naIshe,",
+          "Ine michero kwazvo,",
+          "Yokura nhivi dzose",
+          "Kwese kwese.",
+          "95"
+        ],
+        "stanza": 4
+      },
+      {
+        "lines": [
+          "100"
+        ],
+        "stanza": 5
+      },
+      {
+        "lines": [
+          "Dzichabva kumakomo;",
+          "‘She, wozarura matsime",
+          "Kudiridza mapani",
+          "Wopfu’ra nyika dzose",
+          "Dzoziva simba rake."
+        ],
+        "stanza": 8
+      }
+    ]
   }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  ]
-  
+]
