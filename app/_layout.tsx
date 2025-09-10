@@ -1,5 +1,4 @@
 import {
-  DarkTheme,
   DefaultTheme,
   ThemeProvider,
 } from "@react-navigation/native";
@@ -9,8 +8,9 @@ import * as SplashScreen from "expo-splash-screen";
 import { StatusBar } from "expo-status-bar";
 import { useEffect } from "react";
 import "react-native-reanimated";
-
 import { useColorScheme } from "@/hooks/useColorScheme";
+import { Image } from "react-native";
+import React, { useState } from "react";
 
 SplashScreen.preventAutoHideAsync();
 
@@ -35,18 +35,81 @@ export default function RootLayout() {
       <Stack
         screenOptions={{
           headerStyle: {
-            backgroundColor: "#f4511e",
+            backgroundColor: "#002056",
           },
+          headerTintColor: "#ffffff",
         }}
       >
         <Stack.Screen
           name="index"
-          options={{ title: "The Salvation Army Shona SongBook" }}
+          options={{ headerShown: false }}
         />
-        <Stack.Screen name="shona" options={{ title: "Shona" }} />
-        <Stack.Screen name="ndebele" options={{ title: "Ndebele" }} />
-        <Stack.Screen name="english" options={{ title: "English" }} />
-        <Stack.Screen name="liked" options={{ title: "Liked"}} />
+
+
+
+
+
+
+        <Stack.Screen
+          name="shona"
+          options={{
+            title: "Shona Song Book",
+            headerRight: () => (
+              <Image
+                source={require("../assets/images/logo.png")}
+                style={{ width: 42, height: 52, objectFit: "contain", marginRight: 14 }}
+                resizeMode="contain"
+              />
+            ),
+          }}
+        />
+
+        <Stack.Screen
+          name="ndebele"
+          options={{
+            title: "Ndebele  Song Book",
+            headerRight: () => (
+              <Image
+                source={require("../assets/images/logo.png")}
+                style={{ width: 42, height: 52, objectFit: "contain", marginRight: 14 }}
+                resizeMode="contain"
+              />
+            ),
+          }}
+        />
+
+        <Stack.Screen
+          name="english"
+          options={{
+            title: "English  Song Book",
+            headerRight: () => (
+              <Image
+                source={require("../assets/images/logo.png")}
+                style={{ width: 42, height: 52, objectFit: "contain", marginRight: 14 }}
+                resizeMode="contain"
+              />
+            ),
+          }}
+        />
+
+        <Stack.Screen
+          name="liked"
+          options={{
+            title: "Liked",
+            headerRight: () => (
+              <Image
+                source={require("../assets/images/logo.png")}
+                style={{ width: 42, height: 52, objectFit: "contain", marginRight: 14 }}
+                resizeMode="contain"
+              />
+            ),
+          }}
+        />
+
+
+
+
+
       </Stack>
 
       <StatusBar style="auto" />

@@ -12,7 +12,7 @@ import { FontAwesome } from "@expo/vector-icons";
 import { useRouter } from "expo-router";
 import { useNavigation } from "@react-navigation/native";
 
-
+import { saveLikedHymns, getLikedHymns } from "../database/index";
 
 interface Hymn {
   id: string;
@@ -26,12 +26,21 @@ interface Hymn {
 }
 
 const Shona = (navigation: any) => {
-  const router = useRouter()
+  const router = useRouter();
   const [visibleHymnIndex, setVisibleHymnIndex] = useState<number | null>(null);
   const [searchQuery, setSearchQuery] = useState<string>("");
   const [likedHymns, setLikedHymns] = useState<Hymn[]>([]);
 
+  React.useEffect(() => {
+    (async () => {
+      const stored = await getLikedHymns();
+      setLikedHymns(stored);
+    })();
+  }, []);
 
+  React.useEffect(() => {
+    saveLikedHymns(likedHymns);
+  }, [likedHymns]);
 
   const toggleHymnVisibility = (index: number) => {
     setVisibleHymnIndex(visibleHymnIndex === index ? null : index);
@@ -65,7 +74,7 @@ const Shona = (navigation: any) => {
               onChangeText={setSearchQuery}
             />
             <TouchableOpacity style={styles.button}>
-              <FontAwesome name="search" size={20} color="gray" />
+              <FontAwesome name="search" size={20} color="#fff" />
             </TouchableOpacity>
           </View>
         </View>
@@ -74,7 +83,11 @@ const Shona = (navigation: any) => {
           filteredHymns.map((hymn: Hymn, index: number) => (
             <View key={hymn.id} style={{ marginBottom: 20 }}>
               <TouchableOpacity onPress={() => toggleHymnVisibility(index)}>
-                <Text style={styles.title}>{hymn.title}</Text>
+                <View style={{ flexDirection: "row", alignItems: "" }}>
+                  {" "}
+                  <Text style={[styles.titleN, { paddingRight: 10 }]}>{hymn.id}</Text>
+                  <Text style={styles.title}>{hymn.title}</Text>
+                </View>
                 <Text style={styles.subtitle}>{hymn.subtitle || "N/A"}</Text>
               </TouchableOpacity>
 
@@ -136,18 +149,12 @@ const Shona = (navigation: any) => {
           <Text>No hymns available.</Text>
         )}
 
-
-
-      <TouchableOpacity style={styles.button} onPress={() => router.push("/liked")}>
-        <Text style={styles.buttonText}>Liked Hymn</Text>
-      </TouchableOpacity>
-
-
-
-
-
-
-
+<TouchableOpacity
+  style={styles.floatingButton}
+  onPress={() => router.push("/liked")}
+>
+  <FontAwesome name="heart" size={30} color="#EF3E46" />
+</TouchableOpacity>
 
       </View>
     </ScrollView>
@@ -158,12 +165,21 @@ const styles = StyleSheet.create({
   container: {
     padding: 20,
   },
-  title: {
-    fontSize: 20,
+  titleN: {
+    fontSize: 18,
     fontWeight: "bold",
+    color: "#EF3E46"
+  },
+    title: {
+    fontSize: 18,
+    fontWeight: "bold",
+    color: "#002056"
   },
   subtitle: {
     fontSize: 14,
+    fontStyle: "italic",
+    color: "#4f4f4fff",
+    paddingLeft: 20,
   },
   detailsContainer: {
     marginTop: 10,
@@ -180,11 +196,12 @@ const styles = StyleSheet.create({
     paddingBottom: 20,
   },
   searchBar: {
+    
     flexDirection: "row",
     alignItems: "center",
-    backgroundColor: "white",
+    backgroundColor: "#002056",
     borderRadius: 50,
-    shadowColor: "#000",
+    shadowColor: "#EF3E46",
     shadowOffset: { width: 0, height: 2 },
     shadowOpacity: 0.2,
     shadowRadius: 2,
@@ -195,15 +212,8 @@ const styles = StyleSheet.create({
     flex: 1,
     paddingHorizontal: 16,
     paddingVertical: 8,
-    color: "#4B5563",
+    color: "#fff",
     borderRadius: 50,
-  },
-  button: {
-    padding: 8,
-  },
-  buttonText: {
-    fontSize: 16,
-    color: "#4B5563",
   },
   likeButton: {
     flexDirection: "row",
@@ -224,7 +234,29 @@ const styles = StyleSheet.create({
   viewLikedButtonText: {
     color: "white",
     fontSize: 16,
+    fontWeight: "bold",
   },
+  floatingButton: {
+  position: "absolute",
+  bottom: 30,
+  right: 30,
+  backgroundColor: "#002056", 
+  borderRadius: 30,
+  padding: 10,
+  elevation: 5,
+  shadowColor: "#000",
+  shadowOpacity: 0.3,
+  shadowRadius: 4,
+  shadowOffset: { width: 0, height: 2 },
+},
+button: {
+    padding: 10,
+    color: "#EF3E46",
+    marginRight: 12,
+  },
+
 });
 
 export default Shona;
+
+
