@@ -1,191 +1,1944 @@
 [
-    {
-    "id": "3",
-    "title": "MWARI MUCHENJERI",
-    "subtitle": "Immortal, Invisible",
-    "tune": "St. Denio, 569",
+  {
+    "id": "1",
+    "title": "WENA UNGULIZWI",
+    "subtitle": "Bright, Eternal One",
+    "tune": "Quam Dialecta, 218",
+    "author": "Catherine Baird (1896-1984)",
     "verses": [
       {
         "stanza": 1,
         "lines": [
-          "Mwari Muchenjeri, hamuonekwi",
-          "Makavanzwa kwatiri muchiedza,",
-          "Makaropafadzwa Dombo rekare,",
-          "samasimba, M’kundi, tokumbidzwa."
+          "Wena ungulizwi",
+          "Owadal'umhlaba",
+          "Waleth'ukukhanya",
+          "Waleth'injabulo"
         ]
       },
       {
         "stanza": 2,
         "lines": [
-          "Makanyararisa kunge chiedza,",
-          "Hamuperi, munotonga nesimba;",
-          "Ndurano yenyu, makomo marefu,",
-          "Pam’soro pamakore ane rudo."
+          "Lasekuhlutshweni",
+          "Waba vu-selela",
+          "Bakusebenzela",
+          "Abakholwa kuwe"
         ]
       },
       {
         "stanza": 3,
         "lines": [
-          "Munopa upenyu kuna zvose;",
-          "Muri mupenyu hwezvinhu zvose;",
-          "Todenhera semashizha emiti;",
-          "Tofa topera, asi hamusanduke."
+          "Izw'elisithele",
+          "Sikubona manje,",
+          "Endleleni yethu",
+          "UKrist'ukhona la."
         ]
       },
       {
         "stanza": 4,
         "lines": [
-          "Baba wokubwinya, muri chiedza",
-          "Ngirozi dzokudza, dzovanza zviso;",
-          "Tokukudzai, tiyamurei kuona",
-          "Chiedza chitsvene chinokuvanzai."
+          "Kasihlale kuye",
+          "Yena ophezulu,",
+          "Asim'funisise",
+          "Simthande njalo-ke."
+        ]
+      },
+      {
+        "stanza": 5,
+        "lines": [
+          "O! Thix'ophilayo",
+          "Sizakufakaza",
+          "Lokukhanya kwakho",
+          "Lenkazimlo yakho"
         ]
       }
-    ],
-    "author": "Walter Chalmers Smith (1824–1908)"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "WENA UYIKUTHULA",
+    "subtitle": "Thou Hidden Source of Calm",
+    "tune": "Wells, 318",
+    "author": null,
+    "verses": [
+      {
+        "stanza": 1,
+        "lines": [
+          "Wena uyikukhula",
+          "Okwembeswe luthando,",
+          "Uluthangw'ezitheni",
+          "Ngothokoza unami"
+        ]
+      },
+      {
+        "stanza": 2,
+        "lines": [
+          "Ezonweni, ngihlutshwa",
+          "Ngifihlwe nguwe, Nkosi."
+        ]
+      },
+      {
+        "stanza": 3,
+        "lines": [
+          "Igama, lusindiso,",
+          "Liyangithokozisa,",
+          "Liletha ukuthula",
+          "Lothando Iwaphakade"
+        ]
+      },
+      {
+        "stanza": 4,
+        "lines": [
+          "Ngalo leli iGama",
+          "Sixolelwa..."
+        
+        ]
+      }
+    ]
+  },
+
+
+
+
+
+  {
+    "id": "3",
+    "title": "THIXO SIMAKADE",
+    "subtitle": "Immortal invisible",
+    "tune": "ST. Denio, 569",
+    "author": "Walter Chalmers Smith (1824-1908)",
+    "verses": [
+      {
+        "stanza": 1,
+        "lines": [
+          "Thixo simakade usithekile [cite: 556]",
+          "Usithekile kithi ngokukhanya [cite: 557]",
+          "Ubusisekile Dwala elihle [cite: 557]",
+          "Somandla manqoba sokudumisa [cite: 558]"
+        ]
+      },
+      {
+        "stanza": 2,
+        "lines": [
+          "Uzothil'uthule kawuphumuli [cite: 559]",
+          "Awusweli-bo-ubusa njalo nje [cite: 559]",
+          "Ubuqotho bakho O! buphakeme [cite: 559]",
+          "Phezu kwamafu ampompoz'uthando [cite: 559]"
+        ]
+      },
+      {
+        "stanza": 3,
+        "lines": [
+          "Unika impilo kukho konke 'nje' [cite: 560]",
+          "Okuncinyane lakho okukhulu [cite: 560]",
+          "Sihluma njengamahlamvu amahle [cite: 560]",
+          "Sibuna, sibhubhe wen'umi njalo [cite: 560]"
+        ]
+      },
+      {
+        "stanza": 4,
+        "lines": [
+          "Baba wenkazimulo uyakhanya [cite: 561]",
+          "Ingilosi ziyakukhothamela [cite: 561]",
+          "Sikupha udumo senze sibone [cite: 561]",
+          "Inkazimulo lobungcwele bakho [cite: 567]"
+        ]
+      }
+    ]
   },
   {
     "id": "4",
-    "title": "MWARI NGAAKUDZWE",
+    "title": "BONGU UNKULUNKULU",
     "subtitle": "To God Be The Glory",
-    "tune": "To God be the glory, 576",
+    "tune": "686Ab",
+    "author": "Funny Crosby (1820-1915)",
     "verses": [
       {
         "stanza": 1,
         "lines": [
-          "Mwari ngaakudzwe nebasa rake,",
-          "Norudo wakatipa mwana wake,",
-          "Wakafira kudzikinura zvivi,",
-          "Nokuzarura suo reupenyu.",
-          "*Kudza ;She! Kudza ‘She!*",
-          "*Nyika ngaimunzwe;*",
-          "*Kudza ;She! Kudza ‘She!*",
-          "*Vanhu ngavafare;*",
-          "*Uyai kuna Baba nokuna Jesu,*",
-          "*Kudzai nezvakaitirwa isu.*"
+          "Bong'uNkulunkulu ngokwenza [cite: 571]",
+          "Kwakhe [cite: 571]",
+          "Ngothando wasiph' iNdodana [cite: 572]",
+          "Yakhe [cite: 572]",
+          "Ukuba ahlawul' icala lethu, [cite: 573]",
+          "Asivulele unyango weZulu. [cite: 573]"
         ]
       },
       {
         "stanza": 2,
         "lines": [
-          "Ruregerero rutsvene rweropa,",
-          "Kumutendi chivimbiso chaMwari.",
-          "Mutadzi mukuru akangotenda,",
-          "Owana ruregerero rwaJesu."
+          "Bong' iNkos', bong' INkosi' [cite: 574]",
+          "Umhlaba uyizw [cite: 575]",
+          "Bong' iNkos', bong' iNkos' [cite: 576]",
+          "Abantu bathabe: [cite: 576]",
+          "KuBaba woza ngeNdodana [cite: 577]",
+          "Yakhe [cite: 578]"
         ]
       },
       {
         "stanza": 3,
         "lines": [
-          "Wakatidzidzisa zvinhu zvikuru",
-          "Norufaro rwedu muna Jesu, ‘She,",
-          "Rufaro rwedu ruchave rukuru,",
-          "Kana toona Jesu mumakore."
+          "Mbonge ngenxa yokusenzela [cite: 579]",
+          "Kwakhe [cite: 580]",
+          "NgeGazi lakhe uhlengo Iwathengwa, [cite: 581]",
+          "Kumakholwa onke luyathenjiswa, [cite: 581]",
+          "Las' isoni sonke esimthembayo [cite: 581]",
+          "Sizakuthethelelwa ngomzuzo lo. [cite: 581]"
+        ]
+      },
+      {
+        "stanza": 4,
+        "lines": [
+          "Wasenzela izinto ezinkulu [cite: 582]",
+          "Ngakhoke silentokozo enkulu: [cite: 583]",
+          "Kodwa nxa simbona ngobuso bakhe; [cite: 583]",
+          "Sizakumangalisisa sithabe. [cite: 583]"
         ]
       }
-    ],
-    "author": "Fanny Crosby (1820–1915)"
+    ]
   },
   {
     "id": "5",
-    "title": "MWARI SAMASIMBA",
-    "subtitle": "Jehovah Is Our Strength",
-    "tune": "Majesty, 226; St John, 228; Millenium, 227",
+    "title": "JESU UNGOWETHU",
+    "subtitle": "Jehova is our strength",
+    "tune": "Millenium 603Ab, Brantwood, 579 Eb",
+    "author": null,
     "verses": [
       {
         "stanza": 1,
         "lines": [
-          "Mwari Samasimba,",
-          "Iye rumbo rwedu;",
-          "Naye tichakunda",
-          "Vavengi vakuru.",
-          "Satani anorwa nhando,",
-          "Nokuti Mwari NdiMambo."
+          "Jesu ungowethu [cite: 589]",
+          "Amandla leculo [cite: 589]",
+          "Ngay' izitha zethu [cite: 594]",
+          "Zizanqotshwa njalo; [cite: 594]",
+          "uSatan' uzakudana, [cite: 594]",
+          "uJesu uzamahlula [cite: 594]"
         ]
       },
       {
         "stanza": 2,
         "lines": [
-          "Ishe bako redu",
-          "Achazongodaro;",
-          "Wakamisa isu",
-          "Norwake rubato.",
-          "Vavengi vanorwa nhando,",
-          "Nokuti Mwari ndiMambo ."
+          "Inkos' iyinqaba; [cite: 595]",
+          "Izahlala njalo; [cite: 596]",
+          "Izakusimela. [cite: 596]",
+          "Ngoba singabayo; [cite: 597]",
+          "Zingeke zinqob' izitha, [cite: 598]",
+          "Inkosi izazehlula. [cite: 599]"
         ]
       },
       {
         "stanza": 3,
         "lines": [
-          "Jehovah Mufudzi,",
-          "Anoziva zvose;",
-          "Isu tiri hwai",
-          "Tichafudzwa naye.",
-          "Chivi norufu inhando,",
-          "Nokuti Mwari ndiMambo."
+          "Jesu ngumalusi [cite: 600]",
+          "Okwazuk' ukuswela [cite: 601]",
+          "Kwezimvu; siphansi [cite: 602]",
+          "Kwesakhe isandla; [cite: 602]",
+          "Ukufa lakho ukona [cite: 603]",
+          "uJesu uzakwahlula. [cite: 604]"
         ]
       },
       {
         "stanza": 4,
         "lines": [
-          "Mwari baba wedu,",
-          "Tiri vana vake;",
-          "Tichazongodaro,",
-          "Haangatisiye.",
-          "Masimba ose inhando,",
-          "Nokuti Mwari ndiMambo."
+          "Sikuye uBaba [cite: 605]",
+          "Weth' uNkulunkulu; [cite: 606]",
+          "Usilondoloza, [cite: 607]",
+          "Sigcinwa luthando; [cite: 608]",
+          "Okuyimpi sekuyize, [cite: 609]",
+          "Kwahlulwa yiNkosi konke. [cite: 610]"
         ]
       }
-    ],
-    "author": "attr: Samuel Barnard"
+    ]
   },
- {
-    "id": "14",
-    "title": "UMAMBO HWENYU NGAHUUYE",
-    "subtitle": "Thy Kingdom Come On Bended Knee",
+  {
+    "id": "6",
+    "title": "THIXO WEZINHLANGA",
+    "subtitle": "O' Thou God Of Every Nation",
+    "tune": "Regent Square - 297 Bb",
+    "author": "Attr: Samuel Barnard [cite: 611]",
     "verses": [
       {
         "stanza": 1,
         "lines": [
-          "Umambo hwenyu ngahuuye!",
-          "Tohunamatira;",
-          "Vatendi, neshungu huru,",
-          "Vanohumirira.",
-
-          "*Kunanayira kwenguva,*",
-          "*NdokwaMwari, Baba;*",
-          "*Nyenyedzi dzinopupura*",
-          "*Simba nenduramo.*"
+          "Thixo wenhlanga zonke' [cite: 616]",
+          "Sicel' imvuselelo; [cite: 616]",
+          "Sifezel' inkonzo yakho, [cite: 617]",
+          "Zivuthe inhliziyo; [cite: 618]",
+          "Ibusise iMpi yakho, [cite: 619]",
+          "Siphe amandla akho. [cite: 620]"
         ]
       },
       {
         "stanza": 2,
         "lines": [
-          "Zuva rinopenya kwazvo,",
-          "Kunze kwotoyedza;",
-          "Shongai hanzu, vatendi,",
-          "Nguva yaswedera."
+          "Gcwalis' amabutho akho [cite: 621]",
+          "Ngomoya wakh' ongcwele; [cite: 622]",
+          "Bhubhis' umbuso wezono, [cite: 622]",
+          "Umhlaba usindiswe; [cite: 622]",
+          "Ibusise impi yethu [cite: 622]",
+          "Laph' uthand' usithume. [cite: 622]"
         ]
       },
       {
         "stanza": 3,
         "lines": [
-          "Zuva rinopenya kwazvo,",
-          "Rodzima zvitadzo;",
-          "Kururama kuchamiswa",
-          "Kuporese zvose."
+          "Siphe impilo engcwele, [cite: 624]",
+          "Sandisele amandla: [cite: 624]",
+          "Ukubonga kakuvame [cite: 624]",
+          "Ngenjongo yokubonga [cite: 624]",
+          "Ibusise impi yethu [cite: 624]",
+          "Mawube ngumvikeli [cite: 624]"
         ]
       },
       {
         "stanza": 4,
         "lines": [
-          "Ruzivo, norunyararo,",
-          "Zvichafamba kwose;",
-          "Zuva rake Mwari."
+          "Busis' uGeneral wethu, [cite: 626]",
+          "Labafundisi bonke: [cite: 626]",
+          "Amabutho lezihlobo [cite: 626]",
+          "Kanye labalingwa [cite: 626]",
+          "Ibusise iMpi yethu [cite: 626]",
+          "Ngokulunga lomusa [cite: 626]"
         ]
       }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "NKOSI YEZULU LOMHLABA LOLWANDLE",
+    "subtitle": "O' Lord of Heaven and Earth and Sea",
+    "tune": "8.8.8.4.",
+    "author": "Christopher Wordsworth (1807-85)",
+    "verses": [
+      {
+        "stanza": 1,
+        "lines": [
+          "Nkosi yezulu, mhlaba, Iwandle [cite: 636]",
+          "Ndumiso lenkazimulo: [cite: 636]",
+          "Sokuthanda njani Nkosi, [cite: 637]",
+          "Opha konke. [cite: 638]"
+        ]
+      },
+      {
+        "stanza": 2,
+        "lines": [
+          "Kuthula lempilakahle [cite: 639]",
+          "Mhlab' uvez' izibusiso: [cite: 640]",
+          "Masibonge sidumise, [cite: 641]",
+          "Opha konke. [cite: 642]"
+        ]
+      },
+      {
+        "stanza": 3,
+        "lines": [
+          "Wanikela iNdodana [cite: 643]",
+          "Njengomhlatshelo wesono; [cite: 644]",
+          "Kuye siletha udumo, [cite: 645]",
+          "Opha konke. [cite: 645]"
+        ]
+      },
+      {
+        "stanza": 4,
+        "lines": [
+          "Upha umoya ongcwele [cite: 646]",
+          "Umphefumulo lothando; [cite: 646]",
+          "Usiph' umusa lamandla, [cite: 646]",
+          "Thina sonke [cite: 646]"
+        ]
+      },
+      {
+        "stanza": 5,
+        "lines": [
+          "Sihlengiwe, sixolelwe [cite: 647]",
+          "Um'sa lethemba lezulu [cite: 647]",
+          "Siph' udumo lonke kuwe [cite: 647]",
+          "Opha konke [cite: 647]"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "title": "UYINQABA UTHIXO WETHU",
+    "subtitle": "A Mighty fortress is our Lord",
+    "tune": "Ein' Feste Burg, 640",
+    "author": "Martin Luther (1483-1545), Trs. Frederick Hentry Hedge (1805-90)",
+    "verses": [
+      {
+        "stanza": 1,
+        "lines": [
+          "Uyinqab'uThixo wethu [cite: 652]",
+          "Yen'ongahlulwa lutho [cite: 654]",
+          "Umsizi enhluphekweni [cite: 655]",
+          "Ez'sehlela njalo nje [cite: 656]",
+          "Isitha sendulo [cite: 657]",
+          "Silwisana lathi [cite: 658]",
+          "Makhulu amandl'akhe [cite: 659]",
+          "Ohlome ngenzondo [cite: 660]",
+          "Qha ngeke balingane [cite: 661]"
+        ]
+      },
+      {
+        "stanza": 2,
+        "lines": [
+          "Angeke sizinqobele [cite: 665]",
+          "Kuzakwenza sehluleke [cite: 665]",
+          "Nxa kungekho uMsindisi [cite: 665]",
+          "Onguye ofaneleyo [cite: 665]",
+          "Kambe ngubani na? [cite: 665]",
+          "NguKristu uJesu [cite: 665]",
+          "Inkosi yothando [cite: 665]",
+          "Engaphendukiyo [cite: 665]",
+          "Enqoba ekulweni [cite: 665]"
+        ]
+      },
+      {
+        "stanza": 3,
+        "lines": [
+          "Lanxa kulamadimoni [cite: 666]",
+          "Afuna ukusihlupha [cite: 667]",
+          "Asilakho ukwesaba [cite: 668]",
+          "ngoNkulunkulu sonqoba [cite: 669]",
+          "Asilakwethuswa [cite: 669]",
+          "Nguye uSathane [cite: 670]",
+          "Somelana laye [cite: 670]",
+          "Ngempela uzalahlwa [cite: 671]",
+          "Ngezwi linye anqotshwe [cite: 672]"
+        ]
+      },
+      {
+        "stanza": 4,
+        "lines": [
+          "Lilamandla izwi lakhe [cite: 673]",
+          "Hatshi lingeke lehlulwa [cite: 674]",
+          "Iziphiwo zethu zinhle [cite: 674]",
+          "Ngaye lo osimelayo [cite: 675]",
+          "Notho yalumhlaba [cite: 676]",
+          "Kanye lalu mzimba [cite: 676]",
+          "Kuzatshabalala [cite: 676]",
+          "Iqiniso lakhe [cite: 677]",
+          "Lombuso kumi njalo [cite: 678]"
+        ]
+      }
+    ]
+  },
+
+
+  
+  {
+    "id": "9",
+    "title": "MPHEFUMULO WAMI BONGA",
+    "subtitle": "Praise My Soul King Of Heaven",
+    "tune": "Blessed Jesus, 240, The King Of Heaven 422, 8.7.8.7.8.7. Troch",
+    "author": "Henry Francis Lyte (1793-1854)",
+    "verses": [
+      {
+        "stanza": 1,
+        "lines": [
+          "Dumisa mphefumlo wami",
+          "USomandla umkhonze",
+          "Uhlengiwe uxolelwe",
+          "Kufanel'umdumise",
+          "Umdumise",
+          "Dumis'ules'i Nkosi."
+        ]
+      },
+      {
+        "stanza": 2,
+        "lines": [
+          "Mdumise ngomusa wakhe",
+          "Awenzela obaba",
+          "Usafis'ukubusisa",
+          "Aphuze ukusola",
+          "Umdumise",
+          "Om'hl'othembekileyo"
+        ]
+      },
+      {
+        "stanza": 3,
+        "lines": [
+          "Njengo Baba uyasondla",
+          "Saziwa nguye thina",
+          "Siphathwa ngesakh 'isandla",
+          "Kuzitha sivikelwe",
+          "Umdumise",
+          "M'sa wakh'usageleza"
+        ]
+      },
+      {
+        "stanza": 4,
+        "lines": [
+          "INgilosi zimdumisa",
+          "Zibon'ubuso bakhe",
+          "Langa, nyanga lakho konke",
+          "Kuyamkhothamela-ke",
+          "Umdumise",
+          "Dumis'u Thix'onomsa."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "KHULEK' ENKOSINI",
+    "subtitle": "O'Worship the King, All Glorious",
+    "tune": "Houton 533, Hanover 531 Landate Dominum 534",
+    "author": "Robert Grant (1779-1839)",
+    "verses": [
+      {
+        "stanza": 1,
+        "lines": [
+          "Khulek'eNkosini elodumo",
+          "Hlabel'amandla lolway'uthando",
+          "lyisihlangu loweth'uMvikeli",
+          "Ohlez'eZulwini ekukhanyeni"
+        ]
+      },
+      {
+        "stanza": 2,
+        "lines": [
+          "Tshela ngamandla lomusa wakhe:",
+          "Uhlotshiswa yikukhanya konke;",
+          "Amafu ezulu yinqola yakhe,",
+          "Laso isiphepho yindlela yakhe"
+        ]
+      },
+      {
+        "stanza": 3,
+        "lines": [
+          "uSomandla wawudala kade",
+          "umhlaba lezinto zawo zonke",
+          "Wawumisa ungeke upheduke",
+          "Lokuwuhanqa ngal'ulwandle Iwakhe,"
+        ]
+      },
+      {
+        "stanza": 4,
+        "lines": [
+          "Ubuhle bakho kabukhulunywa;",
+          "Busemoyeni lakho ukusa;",
+          "Busentabeni futhi ethafeni,",
+          "Busemazolweni lasemanzini"
+        ]
+      },
+      {
+        "stanza": 5,
+        "lines": [
+          "Thin'abant' esibuthakathaka",
+          "Kuwe ongaphuthiyo sikholwa",
+          "Izibusiso zakho zimisiwe",
+          "Ungu Mvikeli, umsindisi Mngane"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "title": "KADUNYISWE, OSEZULWINI",
+    "subtitle": "Praise to the Holiest in the Height",
+    "tune": "Gerontius, 89, Richmand 125",
+    "author": "John Henry Newman (1821-77)",
+    "verses": [
+      {
+        "stanza": 1,
+        "lines": [
+          "Kadunyisw'oseZulwini",
+          "Laphans'emhlabeni",
+          "Ulamazw'ayisimanga",
+          "Aginisekile"
+        ]
+      },
+      {
+        "stanza": 2,
+        "lines": [
+          "Inhlakanipho kaThixo",
+          "Idlula konke",
+          "Ezonweni, emnyameni",
+          "Wasihleng'uJesu"
+        ]
+      },
+      {
+        "stanza": 3,
+        "lines": [
+          "UAdam wehluleka",
+          "Ukuba ngongcwele",
+          "Kodwa ngothando IweNkosi",
+          "Wasihleng'uJesu"
+        ]
+      },
+      {
+        "stanza": 4,
+        "lines": [
+          "Kadunyisw'oseZulwini",
+          "Laphans'emhlabeni",
+          "Ulamazw'ayisimanga",
+          "Aqinisekile"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "title": "KASIBONGE INKOSI",
+    "subtitle": "Now Thank we all our God",
+    "tune": "Now thank we all our God 752",
+    "author": "Martin Rinkart (1856-1649) trs Catherine Winkworth (1827-78)",
+    "verses": [
+      {
+        "stanza": 1,
+        "lines": [
+          "Kasibonge inkosi",
+          "Ngenhliziyo langa mazwi",
+          "Yenza izimanga",
+          "Umhlaba uthokoze",
+          "Sabusiswa"
+        ]
+      },
+      {
+        "stanza": 2,
+        "lines": [
+          "Ngezipho zothando",
+          "Silazo lamhlanje",
+          "Nkosi osiphileyo",
+          "Hlala eduze kwethu",
+          "Sithokozisiwe"
+        ]
+      },
+      {
+        "stanza": 3,
+        "lines": [
+          "Ngezibusiso zakho",
+          "Sigciniwe ngomusa",
+          "Usikhokhele",
+          "Sikhululekile",
+          "Lapha le Zulwini"
+        ]
+      },
+      {
+        "stanza": 4,
+        "lines": [
+          "Bongani ubaba",
+          "Mnikeni udumo",
+          "Bongan 'indodana",
+          "Lomoya oyingcwele",
+          "Nguye yedw'u Thixo",
+          "WeZulu lomhlaba",
+          "Kaphenduki umi",
+          "Kuze kube nini."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "title": "LIMI LWAMI QALISAKE",
+    "subtitle": "Begin My Tongue, some Heavenly Theme",
+    "tune": "Lydia, 110, Stracathro 136",
+    "author": "Isaac Watts (1647-1748)",
+    "verses": [
+      {
+        "stanza": 1,
+        "lines": [
+          "Limi Iwami qalisake",
+          "Udumis'Inkosi",
+          "Ngemisebenzi emihle",
+          "Emangalisayo"
+        ]
+      },
+      {
+        "stanza": 2,
+        "lines": [
+          "Vez' ukuthembeka kwakhe",
+          "Lamandl'emhlabeni",
+          "Cula ngomusa ka Thixo",
+          "Langobuhle bakhe."
+        ]
+      },
+      {
+        "stanza": 3,
+        "lines": [
+          "Ngezwi lomsa olamandla",
+          "Wadala Izulu",
+          "Walawula inkanyezi",
+          "Wasiph'zithembiso"
+        ]
+      },
+      {
+        "stanza": 4,
+        "lines": [
+          "Nhliziy'ebuthakathaka",
+          "Izathokoza",
+          "Ngomusa wezwi lokholo",
+          "Olupheleleyo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "title": "UMBUSO WAKHO MAWUZE",
+    "subtitle": "Thy kingdom come on bended knee",
+    "tune": null,
+    "author": "F.L. Hosmer (1840-1929)",
+    "verses": [
+      {
+        "stanza": 1,
+        "lines": [
+          "Umbuso wakho mawuze!",
+          "Sowuthandazela",
+          "Ngesifiso esikhulu",
+          "Sisawulindele",
+          "Ukuhamba kwesikhathi",
+          "Ngokuka Jehova",
+          "Lenkanyezi zifakaza",
+          "Mandla lokulunga"
+        ]
+      },
+      {
+        "stanza": 2,
+        "lines": [
+          "Ilanga likhazimula",
+          "Sekuzakusa bo",
+          "Mabutho hlomani lonke",
+          "Siphelil'iskhathi"
+        ]
+      },
+      {
+        "stanza": 3,
+        "lines": [
+          "Ilanga likhazimula",
+          "Zosuswa izono",
+          "Ukulunga kuzokwanda",
+          "Sasiliswe sonke"
+        ]
+      },
+      {
+        "stanza": 4,
+        "lines": [
+          "Kovelulwazi lo'kuthula",
+          "Emhlabeni wonke",
+          "Ululunga lobungcwele",
+          "Ngelanga le Nkosi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "title": "KUKHUL'UKUTHEMBEKA KWAKHO BABA",
+    "subtitle": "Great is Thy Faithfulness",
+    "tune": "Great is Thy faithfulness 657",
+    "author": "Thomas Obediah Chisholm (1866 –1960)",
+    "verses": [
+      {
+        "stanza": 1,
+        "lines": [
+          "Kukhulu ‘kuthembeka kwakho Baba",
+          "Osimo esimi okunaphakade,",
+          "Awuguquki emuseni wakho,",
+          "Nalokho-ke wohlala lanini."
+        ]
+      },
+      {
+        "stanza": 2,
+        "lines": [
+          "Uthembekile bo! Uthembekile bo!",
+          "Imihla yonke ngamkel’um’sa;",
+          "Ungipha konke engikufunayo;",
+          "Wen’uthembekile Nkosi kimi"
+        ]
+      },
+      {
+        "stanza": 3,
+        "lines": [
+          "Hlobo, busika lasekuvuneni,",
+          "Langa, nyanga, nkanyezi phezulu;",
+          "Kuhlangane konke kufakaza;",
+          "Ngothando lwakho oluqotho."
+        ]
+      },
+      {
+        "stanza": 4,
+        "lines": [
+          "Siyaxolelwa izikhathi zonke;",
+          "Uyasihola ezikhathini zonke,",
+          "Mandla alam’hla themba lakusasa.",
+          "Izibusiso zethu zinengi."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "title": "ABANTU BONKE BALU MHLABA",
+    "subtitle": "All People That On Earth Do Dwell",
+    "tune": "Old Hundreth, 38Ab, Tallis, 41G",
+    "author": "William Kethed (1594)",
+    "verses": [
+      {
+        "stanza": 1,
+        "lines": [
+          "Bantu bonke balumhlaba",
+          "Culan’eNkosini lonke",
+          "Maluseni limesabe",
+          "Jabulani phambi kwakhe."
+        ]
+      },
+      {
+        "stanza": 2,
+        "lines": [
+          "INkos’inguNkulunkulu",
+          "Wasidala ngamandl’akhe",
+          "Usalusa njengezimvu",
+          "Usenza umhlambi wakhe."
+        ]
+      },
+      {
+        "stanza": 3,
+        "lines": [
+          "Asingene phambi kwakhe",
+          "Ngenjabulo lentokozo",
+          "Simdumis’igama lakhe",
+          "Kufanel’ukwenza njalo"
+        ]
+      },
+      {
+        "stanza": 4,
+        "lines": [
+          "Sidumiseleni Nkosi",
+          "Ilomusa lobumnene",
+          "Insuku zonke kuhlezi,",
+          "Kuzahlala laphakade"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "title": "IZIDALWA ZONKE ZENKOSI",
+    "subtitle": "All Creatures of Our God And King",
+    "tune": "St Francis 45",
+    "author": "Francis Of Assisi (1182-1226) trs William Hendry Draper (1855 –1935)",
+    "verses": [
+      {
+        "stanza": 1,
+        "lines": [
+          "Zidalwa zonke zeNkosi",
+          "Ngelizwi lenu hlabelani",
+          "Haleluya;",
+          "Haleluya",
+          "Langa ofudumezayo",
+          "Lawe nyanga okhanyisayo,",
+          "Mdumiseni, Mdumiseni",
+          "Haleluya, Haleluya",
+          "Haleluya,!"
+        ]
+      },
+      {
+        "stanza": 2,
+        "lines": [
+          "Moya opheth’imithi,",
+          "Lani mafu ezulwini",
+          "‘Mdumiseni; Haleluya!",
+          "Kusa wena omdumise,",
+          "Zinkanyezi limculele."
+        ]
+      },
+      {
+        "stanza": 3,
+        "lines": [
+          "Lawe manz’agelezayo,",
+          "Hlabelel’iNkos’ikuzwe,",
+          "‘Mdumiseni, Haleluya!",
+          "Mlilo ovutha ngamandla,",
+          "Okhanyay’ufudumeza:"
+        ]
+      },
+      {
+        "stanza": 4,
+        "lines": [
+          "Lawe mhlabathi ophayo,",
+          "Lokho esikufunayo,",
+          "Umdumise, Haleluya,",
+          "Lani maluba,zithelo,",
+          "Ipheni iNkosi udumo."
+        ]
+      },
+      {
+        "stanza": 5,
+        "lines": [
+          "Zidalwa zonke zibonge,",
+          "Zikhuleke zizithobe,",
+          "Adunyiswe, Haleluya!",
+          "Bong’uBaba leNdodana,",
+          "Abongwe njalo umoya."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "title": "IZWI LAKHO NKOSI",
+    "subtitle": "Lord Thy Word Abideth",
+    "tune": "Ravenshaw, 774, 6.6.6.6.",
+    "author": "Hendry Williams Barker (1812 –770)",
+    "verses": [
+      {
+        "stanza": 1,
+        "lines": [
+          "Izwi lakho, Nkosi",
+          "Lihol’endleleni;",
+          "Abalamkelayo",
+          "Bayakhanyiselwa"
+        ]
+      },
+      {
+        "stanza": 2,
+        "lines": [
+          "Nxa kukhon’izitha",
+          "Ngezwi siyathaba",
+          "Liyasiduduza,",
+          "Lokusisindisa."
+        ]
+      },
+      {
+        "stanza": 3,
+        "lines": [
+          "Nxa kulesiphepho,",
+          "Nxa kukhon’amafu",
+          "Lileth’ukukhanya,",
+          "Lokusivikela."
+        ]
+      },
+      {
+        "stanza": 4,
+        "lines": [
+          "Lileth’injabulo,",
+          "Kithi liligugu",
+          "Linjalo kulabo",
+          "Abathobileyo"
+        ]
+      },
+      {
+        "stanza": 5,
+        "lines": [
+          "Ilizwi lomusa",
+          "Lona liyaphilisa",
+          "Liyasiduduza",
+          "Lalapho sifayo."
+        ]
+      },
+      {
+        "stanza": 6,
+        "lines": [
+          "Aluba siqonda",
+          "Nkos’ubungcwele balo",
+          "Besizakuthanda",
+          "Sisondele kuwe."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "title": "DUMISANI INKOSI EPHAKEMEYO",
+    "subtitle": "Praise The Almighty",
+    "tune": "Belmont, 76 French 88, 8.6.8.6.",
+    "author": "Charles Wesley (1707 –88)",
+    "verses": [
+      {
+        "stanza": 1,
+        "lines": [
+          "Dumis’uThix’ophakeme",
+          "Dumisani lonke!",
+          "Wasiph’umyaka omutsha",
+          "Makadunyiswe ke"
+        ]
+      },
+      {
+        "stanza": 2,
+        "lines": [
+          "Wasigcina yena",
+          "Kumyak’odlulile",
+          "Sonke soma phambi kwakhe",
+          "Ngemnikelo yethu"
+        ]
+      },
+      {
+        "stanza": 3,
+        "lines": [
+          "Siyakubanga ke Baba",
+          "Ngawumusa wakho",
+          "Siyazinikela kuwe",
+          "Ngez’inhliziyo zethu"
+        ]
+      },
+      {
+        "stanza": 4,
+        "lines": [
+          "Sithand’ukukudumisa",
+          "Ngem’sebenzi yethu",
+          "Sithanduku landel’uJesu",
+          "Siye ezulwini."
+        ]
+      },
+      {
+        "stanza": 5,
+        "lines": [
+          "Sonk’isikhath’esilaso",
+          "Ngesakho Nkosi",
+          "Lawamandla ethu onke",
+          "Sinikela kuwe."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "title": "UKWENZA KWAYO INKOSI",
+    "subtitle": "The Creators Hidden Works",
+    "tune": "French 88, 8.6.8.6.",
+    "author": "Solomon M Mutswairo (1924-)",
+    "verses": [
+      {
+        "stanza": 1,
+        "lines": [
+          "Ukwenza kwayo iNkosi,",
+          "Kufihlek’impela;",
+          "Usipha abuyathathe;",
+          "Abathandwa kithi."
+        ]
+      },
+      {
+        "stanza": 2,
+        "lines": [
+          "Imuli ikhule, yande,",
+          "Leziphiw’ezinhle",
+          "Kodwa –ke ngesikhatshana;",
+          "Konke kuyaphela."
+        ]
+      },
+      {
+        "stanza": 3,
+        "lines": [
+          "Bayafiphal’okomnyama,",
+          "Nxa kuz’ukukhanya;",
+          "‘Munye lamunye esiya;",
+          "Embusweni wakhe."
+        ]
+      },
+      {
+        "stanza": 4,
+        "lines": [
+          "Inhliziyo zikhathazwa;",
+          "Zingaqedisisi;",
+          "Ukwenza kwayo Inkosi;",
+          "Kwehlukile kithi."
+        ]
+      },
+      {
+        "stanza": 5,
+        "lines": [
+          "Singeke saz’amacebo,",
+          "Okuqoqa kwayo;",
+          "Kodwa siyazi sithemba",
+          "Konke kuzolunga"
+        ]
+      },
+      {
+        "stanza": 6,
+        "lines": [
+          "Nkosi sicela amandla;",
+          "Okwamkela konke;",
+          "Ngomusa wakho siyeza;",
+          "Ekhay’eZulwini."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "title": "INDLELA KANKULUNKUL’ IYISIMANGALISO",
+    "subtitle": "God Moves in A Mysterious Way",
+    "tune": "St Peter, 129, Belmont, 76 French 88, 8.6.8.6.",
+    "author": "William Cowper (1731 –1800)",
+    "verses": [
+      {
+        "stanza": 1,
+        "lines": [
+          "Indlela kaNkulunkulu",
+          "‘Yisimangaliso",
+          "Simbon’ehamba olwandle",
+          "Lakus’isiphepho"
+        ]
+      },
+      {
+        "stanza": 2,
+        "lines": [
+          "UNkulunkul’ulolwazi",
+          "Okunganqotshwayo",
+          "Ulawakhe amacebo",
+          "Leyakhe intando"
+        ]
+      },
+      {
+        "stanza": 3,
+        "lines": [
+          "Makholwa elilovalo",
+          "Lingesab’amafu",
+          "Azalilethe’umusa",
+          "Libusiswe njalo"
+        ]
+      },
+      {
+        "stanza": 4,
+        "lines": [
+          "Lingasol’inkosi yenu",
+          "Kodwa methembeni",
+          "Ngasemva kwezakhi zenzo",
+          "Kulomusa wakhe"
+        ]
+      },
+      {
+        "stanza": 5,
+        "lines": [
+          "Indlela yentando yakhe",
+          "Izasombuluka",
+          "Nxa ifumbu licasula",
+          "Iluba lokukhanya"
+        ]
+      },
+      {
+        "stanza": 6,
+        "lines": [
+          "Nxa singakholwa sobona",
+          "Izenzo zakhe zi’ze",
+          "Sifanel’ukumethemba",
+          "Az’asambulele"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "title": "THIXO NKOSI, NXA NGICABANGISISA",
+    "subtitle": "O’Lord my God! How great thou are",
+    "tune": "544, 11.11.11.11.",
+    "author": "Copyright © 1953 Stuart K. Hine, Kingsway’s (used by permission)",
+    "verses": [
+      {
+        "stanza": 1,
+        "lines": [
+          "Thixo, Nkosi, nxa ngicabangisisa,",
+          "Ngemisebenzi engumangaliso",
+          "Lenkanyezi lakhu kuqhaqhazela",
+          "Amandl’akho abonakalisiwe",
+          "Ngohlabelela kuwe Msindisi",
+          "Wen’umkhulu wen’umkhulu",
+          "Ngohlabelela kuwe Msindisi",
+          "Wen’umkhulu wen’umkhulu"
+        ]
+      },
+      {
+        "stanza": 2,
+        "lines": [
+          "Nxa ngihamba enhlane ngintula nje",
+          "Ngizwi’inyoni zingilibazisa",
+          "Ngikhangela ngaphansi kwezintaba",
+          "Ngiz’umoya wona uphephetha"
+        ]
+      },
+      {
+        "stanza": 3,
+        "lines": [
+          "Thixo wasipha yona iNdodana",
+          "Kusifela kungumangaliso;",
+          "Wathwal’izono esiphambanweni",
+          "Waf’ukususa zonk’izono zami"
+        ]
+      },
+      {
+        "stanza": 4,
+        "lines": [
+          "Kristu uzakuza ngalo uvuko",
+          "Ngohamb’ekhaya ngilenjabulo",
+          "Ngizomkhonza, njalo ngizomdumisa",
+          "Ngitsho Thixo wena uphakeme"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "title": "NKOSI ELEAMANDLA ONKE",
+    "subtitle": "God is all powerful",
+    "tune": "Remington, 42, Duke Street, 17, Pentecost 40, 8.8.8.8.",
+    "author": "Solomon M. Mtswayiro (1924 -)",
+    "verses": [
+      {
+        "stanza": 1,
+        "lines": [
+          "Nkosi elamandle onke",
+          "Khokhela lezizihambi",
+          "Zihambe ngomoya wakho",
+          "Zivikele engozini"
+        ]
+      },
+      {
+        "stanza": 2,
+        "lines": [
+          "Nkosi ulamaceb’amahle",
+          "Vikela lab’abahamba",
+          "Ngemikhumbi yasolwandle",
+          "Langezimota zomlilo"
+        ]
+      },
+      {
+        "stanza": 3,
+        "lines": [
+          "Nkosi mbusi wento zonke",
+          "Sivikele elakeni",
+          "Lithululeke izulu",
+          "Kungaze kwaba lendlala"
+        ]
+      },
+      {
+        "stanza": 4,
+        "lines": [
+          "Nkosi ngabela izizwe",
+          "Zingenz’izikhal’ezimbi",
+          "Izikhal’ezibulala",
+          "Abantu lendalo yonke"
+        ]
+      },
+      {
+        "stanza": 5,
+        "lines": [
+          "Nkosi wadala umuntu",
+          "Abuse yonke indalo",
+          "Muphe ukuhlakanipha",
+          "Uthando lakh’ukuthula"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "title": "DUMISANI NGOKUTHABA",
+    "subtitle": "Let us with a gladsome mind",
+    "tune": "Minkaland 286: Theodora 297, 7.7.7.7.",
+    "author": "John Milton (1608 -74)",
+    "verses": [
+      {
+        "stanza": 1,
+        "lines": [
+          "Dumisani ngokuthaba",
+          "Inkosi ilungile",
+          "Ilomus’ongapheli",
+          "Ithembekile njalo"
+        ]
+      },
+      {
+        "stanza": 2,
+        "lines": [
+          "Kasitshumayeleni",
+          "Inkosi yiyo yodwa",
+          "Ilomus’ongapheli",
+          "Ithembekile njalo"
+        ]
+      },
+      {
+        "stanza": 3,
+        "lines": [
+          "Ngamandl’amakhulu",
+          "Wasipha ukukhanya",
+          "Ilomus’ongapheli",
+          "Ithembekile njalo"
+        ]
+      },
+      {
+        "stanza": 4,
+        "lines": [
+          "Ukhokhela ilanga",
+          "Liphuma lokutshona",
+          "Ilomus’ongapheli",
+          "Ithembekile njalo"
+        ]
+      },
+      {
+        "stanza": 5,
+        "lines": [
+          "Konke okuphilayo",
+          "Kunakekelwa nguye",
+          "Ilomus’ongapheli",
+          "Ithembekile njalo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "title": "KASIMBONGE USOMANDLA",
+    "subtitle": "Thanks Be To God",
+    "tune": "Regent Square 423, 8.7.8.7.8.7.",
+    "author": "R.T. Brooks (1918)",
+    "verses": [
+      {
+        "stanza": 1,
+        "lines": [
+          "Kasimbonge uSomandla",
+          "Mdali wezinto zonke;",
+          "Menzi wezinhlanga zonke;",
+          "Unamandl’amakhulu;",
+          "Makabongwe! Makabongwe!",
+          "Bongani uSomandla"
+        ]
+      },
+      {
+        "stanza": 2,
+        "lines": [
+          "Kasimbonge Usomandla;",
+          "Ngezwi wadal’umuntu;",
+          "Ngomsa wasezulwini",
+          "Ukufa, lakh’ukuphila;",
+          "Makabongwe! Makabongwe!",
+          "Bongani uSomandla."
+        ]
+      },
+      {
+        "stanza": 3,
+        "lines": [
+          "Kasimbonge USomandla",
+          "LoMoya, Oyingcwele;",
+          "Silokuthab’okukhulu;",
+          "Ngokukhululwa nguye;",
+          "Makabongwe! Makabongwe!",
+          "Bongani Usomandla."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "title": "BANTU BONKE BALUMHLABA",
+    "subtitle": "Before Jehovah’s Awful Throne.",
+    "tune": "Old Hundredth, 38; Sounding Praise, 51, 8.8.8.8.",
+    "author": "Isaac Watts (1674 –1788) alt John Wesley (1703-91)",
+    "verses": [
+      {
+        "stanza": 1,
+        "lines": [
+          "Bantu bonke balumhlaba,",
+          "Culan’eNkosini lonke;",
+          "‘Mdumiseni, limesabe;",
+          "Jabulani phambi kwakhe."
+        ]
+      },
+      {
+        "stanza": 2,
+        "lines": [
+          "Inkos’inguNkulunkulu,",
+          "Wasidala ngamandla’akhe;",
+          "Usalusa njengezimvu;",
+          "Senziwa umhlambi wakhe."
+        ]
+      },
+      {
+        "stanza": 3,
+        "lines": [
+          "Asingene phambi kwakhe,",
+          "Ngenjabulo lentokozo;",
+          "Sidumis’igama lakhe;",
+          "Kufanel’ukwenza njalo."
+        ]
+      },
+      {
+        "stanza": 4,
+        "lines": [
+          "Sidumeselani Nkosi,",
+          "Ilomusa lobunene",
+          "Iqiniso layo limi;",
+          "Kuze kube naphakade."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "title": "KUQALUKUSA",
+    "subtitle": "Morning Has Broken",
+    "tune": "Morning has Broken; 735, 5.5.5.4.5.5.5.4.",
+    "author": "Eleanor Fairjeon (1881 -1965)",
+    "verses": [
+      {
+        "stanza": 1,
+        "lines": [
+          "Kuqalukusa",
+          "Ekuqaleni",
+          "Inyon’icula",
+          "‘Yakuqala;",
+          "Iyadumisa",
+          "Kuqalukusa",
+          "Siyambulelwa",
+          "Wena Jesu"
+        ]
+      },
+      {
+        "stanza": 2,
+        "lines": [
+          "Liyan’izulu",
+          "Lehle zulwini",
+          "Njengamazolo",
+          "Akuqala;",
+          "Sibong’ubuhle.",
+          "Ezivandeni",
+          "Siyadumisa",
+          "Ngalindalo"
+        ]
+      },
+      {
+        "stanza": 3,
+        "lines": [
+          "Ngibongilanga,",
+          "Layikuseni",
+          "Eyakuqala",
+          "YeEdeni,",
+          "Kasiyibonge",
+          "Thixo wadala",
+          "Usukolutsha."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "title": "NGOMTHANDA KANJAN’ UTHIXO",
+    "subtitle": "What Shall I Do, My God To Love",
+    "tune": "Stacathro 136, 8.6.8.6",
+    "author": "Charles Wesley (1707 -88)",
+    "verses": [
+      {
+        "stanza": 1,
+        "lines": [
+          "Ngomthanda kanjan’uThixo",
+          "Ngomdumisa njani?",
+          "Ngokhuluma kanjani na?",
+          "Ngobukhulu bakhe."
+        ]
+      },
+      {
+        "stanza": 2,
+        "lines": [
+          "Ulomusa kibo bonke",
+          "Umusa omkhulu;",
+          "Njalo ebantwini bakhe,",
+          "Ungeke waphela."
+        ]
+      },
+      {
+        "stanza": 3,
+        "lines": [
+          "Waziw’endaweni zonke",
+          "Kawulamkhawulo",
+          "Uba wawedlul’omunye",
+          "Usanele sonke"
+        ]
+      },
+      {
+        "stanza": 4,
+        "lines": [
+          "Amandla alaluthando",
+          "Awaziwa muntu",
+          "Kodwa ngifuna ukuba",
+          "Ngibe kwaziwena mina."
+        ]
+      },
+      {
+        "stanza": 5,
+        "lines": [
+          "Woza, Nkosi ungithathe",
+          "Ngoba ngingowakho;",
+          "Busa enhlizweni yami",
+          "Hlala kuyo njalo."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "title": "UTHANDO LWENKOSI KIMI",
+    "subtitle": "God’s Love To Me Is Wonderful",
+    "tune": "God’s Love To Me Is Wonderful, 150, 8.6.8.6.8.6.8.6.",
+    "author": "Sidney Edward Cox (1887 -1975)",
+    "verses": [
+      {
+        "stanza": 1,
+        "lines": [
+          "Uthando lweNkosi Kimi,",
+          "Luyamangalisa",
+          "Lwafinyelel’enhlizweni;",
+          "Lwesulinyembezi;",
+          "Noma ngingaluzwisisi;",
+          "Lujulil’impela;",
+          "Ngethembe amandla akhe;",
+          "Ngeke angidanise."
+        ]
+      },
+      {
+        "stanza": 2,
+        "lines": [
+          "Uthando lweNkosi",
+          "Lungumangaliso",
+          "Wanikel’iNdodana yakh’ezelwe",
+          "yodwa",
+          "lungumangaliso"
+        ]
+      },
+      {
+        "stanza": 3,
+        "lines": [
+          "Uthando lweNkosi kimi",
+          "Luhlel’indlela zam’",
+          "Nxa ngilokuthandabuza,",
+          "‘Bambisandla sakhe,",
+          "Kususwe konk’ukwesaba,",
+          "Ngikhululekile,",
+          "Ngithokoza lapho ngisizwa",
+          "Izwi lay’iNkosi."
+        ]
+      },
+      {
+        "stanza": 4,
+        "lines": [
+          "Uthando lweNkosi kimi",
+          "Lungikhanyisele,",
+          "Ngilobudlelwan’obuhle;",
+          "Obungapheliyo;",
+          "UBaba kakhangeleli",
+          "Iziph’ezinkulu,",
+          "Kheph’ukuba ngimthande",
+          "Lokumsebenzela"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "title": "NGOKUTHABA SIYABABAZA",
+    "subtitle": "Joyful, Joyful, We Adore Thee",
+    "tune": "Europe, 435, 8.7.8.7.8.7.8.7.",
+    "author": "Henry William Baker (1...)",
+    "verses": [
+      {
+        "stanza": 1,
+        "lines": [
+          "Ngokuthaba siyakhonza",
+          "ThixoNkosi yothando;",
+          "Inhliziyo zethu Nkosi",
+          "Zilangazelela wena",
+          "Sus’ukudana, lokona,",
+          "Sus’ukuthandabuza,",
+          "Siph’ukuthula sithabe",
+          "Siphukukhanya kwakhe."
+        ]
+      },
+      {
+        "stanza": 2,
+        "lines": [
+          "Imisebenzi yakho mihle",
+          "Lapha laseZulwini;",
+          "Inkanyezi leNgilosi",
+          "Lazo ziyadumisa.",
+          "Indlela, intaba, lehlathi,",
+          "Lemful’egelezayo",
+          "Ukucula kwez’nyoni",
+          "Kuyasithokozisa."
+        ]
+      },
+      {
+        "stanza": 3,
+        "lines": [
+          "Uyapha.",
+          "Uthethelele,",
+          "Usibusisa njalo",
+          "Thixo lwandle lokuthaba",
+          "Lwandl’olumpompozayo",
+          "Baba unguKristu, mhlobo",
+          "Balothand’abakuye",
+          "Sifundis’ukuthandana",
+          "Ngothando olungcwele."
+        ]
+      },
+      {
+        "stanza": 4,
+        "lines": [
+          "Abaphilayo culani",
+          "Iculo elimnandi;",
+          "Nkosi uthando lubuse",
+          "Kubo bonke abantu.",
+          "Sihlabele ngenjabulo",
+          "Sesinqobile empini",
+          "Iculo lilethe udumo",
+          "Ekunqobeni kwethu."
+        ]
+      }
+    ]
+  },
+
+  
+  {
+    "song_number": 32,
+    "title_ndebele": "UMALUSI NGU JEHOVA",
+    "title_english": "The Lord is my Shepherd",
+    "tune_and_number": "Crimond, 561 Stracathro, 573",
+    "meter": "Eb 8.6.8.6.",
+    "stanzas": [
+      "Umalusi ngu Jehova Ongigcinileyo; Ukuswela kakubikho; Kothembela kuye [cite: 2121, 2122]",
+      "Amadlelo aluhlaza Ngiyadliswa kuwo; Ngiyolala ngokwenama, Ngingethuswa lutho. [cite: 2122]",
+      "Uyavusa umphefumlo, Uyawenza uphile; Ukulunga ngiba lakho; Ngenxa yoMalusi [cite: 2122, 2123]",
+      "Nxa ngihamba emnyameni Angila kwesaba; Ngoba wena uba lami; Ukungenamisa [cite: 2123]",
+      "Isithebe ngiba naso; Lanxa... [cite: 2123, 2124]"
     ],
-    "author": "F.L. Hosmer (1840–1929)"
+    "author": null
+  },
+  {
+    "song_number": 41,
+    "title_ndebele": "IGAM'ENGILITHANDAYO",
+    "title_english": "There Is A Name I Love to Hear",
+    "tune_and_number": "The Saviour’s name, 139; Lydia, 110 Handy Norseman, 93",
+    "meter": "8.6.8.6.",
+    "stanzas": [
+      "Igam’engilithandayo, Ukulidumisa; Limnandi ezindlebeni, Liyathokozisa Ngiyalithanda igama Igama loMsindisi [cite: 2138]",
+      "Litsho uthando lweNkosi, Owafelamina; Kabeze bonke abantu, Basindis... [cite: 2138, 2139]"
+    ],
+    "author": null
+  },
+  {
+    "song_number": 67,
+    "title_ndebele": "HAMBANI EZINTABENI",
+    "title_english": "Go Tell It On The Mountain",
+    "tune_and_number": null,
+    "meter": "7.6.7.6.",
+    "stanzas": [
+      "Abelusi belusa, Ebusuk’enhlane; Khangela eZulwini; Kukhany’sibane. [cite: 2157, 2158]",
+      "Abelusi belusa, Bezwa eZulwini; Ngilosi zihlabelela, Uzelwe uMsindisi. [cite: 2158]",
+      "Phansi esibayeni, UKristu wazalwa; Siphiw’usuk’oluhle, Lulezibusio. [cite: 2158]"
+    ],
+    "author": "American Folk Hymn Adapt Arr.By John W. Wok [cite: 2159]"
+  },
+  {
+    "song_number": 93,
+    "title_ndebele": "NGITSHEL’INDABA KAJESU",
+    "title_english": "Tellme the Story Of Jesus",
+    "tune_and_number": "458 Jesus is Looking For Thee 457",
+    "meter": "8.7.8.7. D Dactylic",
+    "stanzas": [
+      "Ngitshel’indaba kaJesu Uyilob’enhliziyweni Ngitshel’indab’eligugu! Ngithokoz’emoyeni Ngitshela ngeziNgilosi Ezacula ezalwa ‘bukhosi kuSimakade, Ukuthul’ebantwini. Ngitshel’indaba kaJesu Yilob’enhliziyweni Ngitshel’indab’eligugu, Engithokozisayo [cite: 2176, 2177]",
+      "Ngitshele langokuzika, Ehlezi yedw’enhlane, Lalaph’ehlutshwa elingwa; Wanqoba ekucineni, Ngitshela ngalo usizi. Ngokwethwesa icala, Wahluphek’esiphambanweni, Ehluphekela thina. [cite: 2177, 2178]",
+      "Ngitshela ngesiphambano Ehlekwa lobuhlungu Ngitshela labekwa khona Langokuvuka kwakhe Indaba yalo uthando Ebalulekileyo Udumo lukaJesu Ngokuba enguMhlengi [cite: 2178]"
+    ],
+    "author": null
+  },
+  {
+    "song_number": 94,
+    "title_ndebele": "NKOS’‘SIPHEPHO SIVUKILE",
+    "title_english": "Master the tempest is raging",
+    "tune_and_number": null,
+    "meter": "9.7.9.7.8.6.10.7.",
+    "stanzas": [
+      "Nkos’isiphepho sivukile Lamaza aphakame, Lasemkhathini sekumnyama, Singaphephela ngaphi? Kawukhathali sifa na? Nanku usalele nje Siyesaba Nkosi sekunzima Lethuna lisolwandle Umoya lamaza kongilalela Thula nya! Thula Nya! Kukho lulwandle olugubhayo Muntu lamadimoni lani enye Akukho madlambi angagwinya Umnini lwandle kanye lomhlaba Konke kolalel’engikutshoyo Thula Nya! Thula Nya! Kahle kolalel’engikutshoyo Kuthule nya [cite: 2179, 2180, 2181]",
+      "O Nkosi ngingodabukileyo Ngileth’usizi lwami Inhliziyo yam’ibuhlungu, O siza Nkosi yami, Ububi beson’obukhulu Bucwilisa phansi, O Nkosi ngizofa kabuhlungu, Ngicel’ungisindise. [cite: 2182]",
+      "Nk... [cite: 2183]"
+    ],
+    "author": null
+  },
+  {
+    "song_number": 130,
+    "title_ndebele": "NGOHAMBA NGAMANDLA ENKOSI",
+    "title_english": "I’ll Go In The Strength Of The Lord Thou Shepherd Of Israel 487 In The Strength Of The Lord 485",
+    "tune_and_number": "Thou Shepherd Of Israel 487 In The Strength Of The Lord 485",
+    "meter": "8.8.8.8.8.8.8.8.",
+    "stanzas": [
+      "Ngohamba ngamandl’eNkosi; Ngendlel’ayilungisayo; Ngilandela izwi layo, Angesabi lob’ingozi, Laph’akhona ngizakuya Yona izangipha konke, Uhambo luze luphele, Ngizahlala ngiyithemba Ngohamba, ngohamba, Ngohamba ngamandla, Ngohamba, ngamandl’eNkosi, Ngohamba, ngohamba, Ngohamba ngamandla, Ngohamba ngamandl’eNkosi. [cite: 2225]",
+      "Ngohamba ngamandl’eNkosi, Lapho engith... [cite: 2226]"
+    ],
+    "author": null
+  },
+  {
+    "song_number": 152,
+    "title_ndebele": "WOZA KUMSINDISI",
+    "title_english": "Come to The Saviour, Make No Delay 409 Make no delay 730",
+    "tune_and_number": "409 Make no delay 730",
+    "meter": "9.9.9.6",
+    "stanzas": [
+      "Woza kumsindis’, ungaphuthi Indlela ikhonjwa ngelakh’izwi Langaphakathi umi lathi Ethi, “Wozanini”. [cite: 2253]",
+      "Woza kumsindisi, yizwa izwi, Inhliziyo mayijabule Masimkhethe abe yiNkosi, Ungaphuthi, Wo... [cite: 2254]"
+    ],
+    "author": "John Hart Stockton (1813 –77) [cite: 2253]"
+  },
+  {
+    "song_number": 161,
+    "title_ndebele": "EKUPHILENI KWAMI NGIPHENDULIWE",
+    "title_english": "What a wonderful change Since Jesus came into my heart 786",
+    "tune_and_number": "786",
+    "meter": "12.8.12.8",
+    "stanzas": [
+      "Ekuphileni kwami ngiphenduliwe; NguJesu esenhliz’yweni Ngilakh’ukukhanya engikufisayo; NguJesu esenhliz’yweni. UJesu usenhliz’yweni; UJesu usenhliz’yweni; Inkul’injabulo engi’zwayo njalo UJesu usenhliz’yweni. [cite: 2270, 2271]",
+      "Ngayekel’ukuzul’emhlabeni lapha; NgoJesu esenhliz’yweni... [cite: 2271]"
+    ],
+    "author": null
+  },
+  {
+    "song_number": 173,
+    "title_ndebele": "NGAFUNWA NGUMSINDISI",
+    "title_english": "The Saviour Sought And Found Me 386",
+    "tune_and_number": "386",
+    "meter": "7.6.8.9",
+    "stanzas": [
+      "Ngafunwa ngumsindisi Ngikude lendlela Wavula amehlo ami Ngelanga lesimangaliso Ngakholwa ngatholwa Lapho ngedukil’endleleni Ngakholwa ngatholwa Kwab’isimangaliso [cite: 2294]",
+      "Wangethula umthwalo Wangizwel’usizi Ngomusa ngathethelelwa Ngelanga lesimangaliso [cite: 2294]",
+      "Izono zazibomvu Kodwa wazesula Ngibonga ngicula njalo Ngelanga lesimangaliso [cite: 2294]"
+    ],
+    "author": "Sidney Edward cox (1887 –1975) [cite: 2294]"
+  },
+  {
+    "song_number": 192,
+    "title_ndebele": "WEZA IZWE LISINDISWE",
+    "title_english": "To save the world Give to Jesus Glory 354",
+    "tune_and_number": "Glory 354",
+    "meter": "8.7.8.7",
+    "stanzas": [
+      "Weza izwe lisindiswe; Ngenxa yomusa wakhe; Waz’inikela kutsh’umbhalo; Udumo kuy’uJesu. Udumo kuJesu; Udumo kuJesu; Tshumayela ngoSindiso; Udumo kuy’uJesu. [cite: 2321, 2322]",
+      "Yeka umusa ongaka; UJes’ubiza bonke; NguMsindisi wabo bonke; Udumo kuy’uJesu. [cite: 2322, 2323]",
+      "Kubantu bezizwe zonke, Kasimemez’indaba, Yothando lwakh’olungcwele; Udumo kuy’uJesu [cite: 2323]",
+      "Bonke bayathethelelwa; Abavuma izono; Xolelwa ke wena soni; Udumo kuy’u... [cite: 2323, 2324]"
+    ],
+    "author": null
+  },
+  {
+    "song_number": 202,
+    "title_ndebele": "PHAKAMANI MAKHOLWA",
+    "title_english": "Rise up O! men of God.",
+    "tune_and_number": null,
+    "meter": "7.7.8.6",
+    "stanzas": [
+      "Phakamani makholwa Litshiye ukungcola; Liph’inhliziyo lenqondo; Lidumis’iNkosi. [cite: 2336]",
+      "Phakamani makholwa Ub’khosi bulindele; Ukuletha umanyano; Oqeda izono. [cite: 2336, 2337]",
+      "Phakamani makholwa; Ibandla lilindele; Lizoqinisw’emoyeni Likhule likulo. [cite: 2337]",
+      "Hambani ngobungcwele; KuKristu les’phambano; Njenge... [cite: 2337]"
+    ],
+    "author": null
+  },
+  {
+    "song_number": 215,
+    "title_ndebele": "JESU OTHANDEKA NISINDISIWE",
+    "title_english": "Jesus Precious Saviour 499 Anything for Jesus 199 Prince Thorpe 206",
+    "tune_and_number": "499 Anything for Jesus 199 Prince Thorpe 206",
+    "meter": null,
+    "stanzas": [
+      "Jesu othandeka ngisindisiwe Wangihlambulula ebubini bonke Loba kube njani ngizakukhonza Ngezinsuku zami ‘ndaweni zonke, Ngiyazinikela kuwe Ngingowakho Ngenxa yosindiso lwemiphefumulo [cite: 2344]",
+      "Ngizakulandela enhluphekweni Lasenhlane njalo lasebunzimeni Ekukhathazweni ngokudumisa Nxa ngiphiwa nguwe ‘kubekezela [cite: 2344]",
+      "Ngizakuthembeka ekulingweni Ngamkele konke ngithi kungifanele Ukuba ngibaleth’abanye kuwe, Ngiph’amandla akho Somandla. [cite: 2345]",
+      "Imiphefumulo mininginingi Iyatshona phansi ekulahlekeni Ngiqinise Nkosi ngibe lamandla Okutshumayela amazwi akho [cite: 2345]"
+    ],
+    "author": "Harry Davies(1854-1918) [cite: 2345]"
+  },
+  {
+    "song_number": 237,
+    "title_ndebele": "WEHL’UJESU UKUNGIKHULULA",
+    "title_english": "Jesus Came Down My Ransom To Be 114 Wonderful Love 864",
+    "tune_and_number": "114 Wonderful Love 864",
+    "meter": null,
+    "stanzas": [
+      "Wehl’uJesu ‘kungikhulula, Uthando olukhulu! Wavela eZulwini kuBaba, Esiphambanweni wangifela, Waliqed’icala lami Uthando olukhulu Luyamangalis’uthando lwakhe, Oluvel’eZulwini kuBaba, Luyangigcwalisa, luyangivusa, Uthando olukhulu. [cite: 2363, 2364]",
+      "Isiphambano sibonisa Izenzo zothando Ngomusa ngizakusebenza Uba ngimkhonza njalonjalo Kithi wofeza uthando Uthando olukhulu [cite: 2365]",
+      "Sibizwa yil’uthando lathi, Uthando olukhulu; Ngeyisa ukungibiza kwakho; Ngiyeza manje kuwe Nkosi, Ngiletha konke okwami Ngenxa yalol’uthando [cite: 2365, 2366]"
+    ],
+    "author": null
+  },
+  {
+    "song_number": 259,
+    "title_ndebele": "NGUJESU UMSINDISI WAMI",
+    "title_english": "He Hideth my Soul 710",
+    "tune_and_number": "710",
+    "meter": "11.8.11.8",
+    "stanzas": [
+      "NguJesu umsindisi wami osimanga Ungumangaliso kimi Umphefumulo wami edwaleni Ngibon’okunengi Ufihl’umphefumulo wam’edwaleni Elisezweni elomile Ufihl’umphefumulo wam’edwaleni Ngibanjwa ngesakh’isandla [cite: 2411]",
+      "NguJesu umsindisi wami osimanga Ususa yonk’imithwalo Ngigxilile kuye angisuswa qha Ungipha amandla mihla yonke [cite: 2411]",
+      "Uyangibusisa sonk’isikhathi Ngigcwale ngomoya ongcwele Ngizahlabela ngidumis’iNkosi Onguye umhlengi wami. [cite: 2412]"
+    ],
+    "author": "Fanny Crosby (1820-1915) [cite: 2412]"
+  },
+  {
+    "song_number": 260,
+    "title_ndebele": "YEK’UBUDLELWANO BUKAJESU!",
+    "title_english": "What a Fellowship Leaving on the everlasting arms715",
+    "tune_and_number": "715",
+    "meter": null,
+    "stanzas": [
+      "Yek’ubudlelwano bukaJesu! Oseyamise zingalweni, Izibusiso zona zinkulu, Nxa weyama kuy’engalweni. ‘Yama, ‘yama Usinde ekwesabeni Yama, ‘yama Eyama kuy’ezingalweni [cite: 2413]",
+      "O! kumnandi, ukuba ngumhambi, Mangeyam’engalweni yakhe, Indlela iyakhanya kumhambi, Nxa s’eyam’engal... [cite: 2414]"
+    ],
+    "author": null
+  },
+  {
+    "song_number": 272,
+    "title_ndebele": "ITHEMBA LAMI LIGXILE",
+    "title_english": "My Hope is build (Solid rock) 745, 501",
+    "tune_and_number": "745, 501",
+    "meter": "L.M.",
+    "stanzas": [
+      "Ithemba lami ligxile Egazini lika Jesu, Ngingeze ngathemb’omunye, Ngaphandle kwegama lakhe. [cite: 2441]"
+    ],
+    "author": null
+  },
+  {
+    "song_number": 323,
+    "title_ndebele": "KHUMBULA UMENZI WAKHO",
+    "title_english": "Remember Thy Creator Missionary 256 Eb Ewing 191 Daurrella 189Eb",
+    "tune_and_number": "Missionary 256 Eb Ewing 191 Daurrella 189Eb",
+    "meter": "7.6.7.6 D",
+    "stanzas": [
+      "Khumbul’umenzi wakho Usengomncinyane, Abe ngumholi wakho Usindisiwe nguye Kukhona okunengi Okudukisayo. Endleleni yokuhle Yon’eyokulunga. [cite: 2473, 2474]",
+      "Kungcono ukumfuna Ebutsheni bakho. Ingakabi lukhuni Inhliziyo yakho Ngoba ngokwenz’izono Iyasuswa kuye Ongasithokozisa Siphile sigcinwe [cite: 2474]",
+      "Kungakafik’insuku Zokub’ukhulume Uthi ngazoziswela Ukuthaba konke Unikele kuJesu Inhliziyo yakho Ukuba ayigcine Kulo lonk’uhambo [cite: 2474]",
+      "Ngolwan’usuk’olubi Lahl’izono zonke Zinikele kuJesu Uzakwamukela Mamukel’uMsindisi Ngenhliziyo yonke Ukuba akugcine Ungen’ezulwini [cite: 2474]"
+    ],
+    "author": null
+  },
+  {
+    "song_number": 324,
+    "title_ndebele": "INGANE ZE JERUSALEM",
+    "title_english": "Children of Jerusalem 834 Jesus tender Shepherd 384",
+    "tune_and_number": "834 Jesus tender Shepherd 384",
+    "meter": "7.7.7.7",
+    "stanzas": [
+      "‘Ngane zeJerusalem Zomculela uJesu Lazo ezanamhlanje Zihlabele iNkosi Yizwanin’amazwi abantwana! Yizwanin’amazwi abantwana! YiHosana! YiHosana! YiHosan’akuJesu. [cite: 2474, 2475]",
+      "Sifundisw’ukumthanda Sifundisw’izwi lakhe; Sifund’okwezulwini Kadunyiswe uJesu. [cite: 2475]",
+      "Abadala labatsha, Bayidumis’iNkosi Aphakam’amaphimbo Hosana laphezulu. [cite: 2475]"
+    ],
+    "author": "John Henley (1800-42) alt [cite: 2476]"
+  },
+  {
+    "song_number": 325,
+    "title_ndebele": "ABALWELU SOMANDLA",
+    "title_english": "Standing by purpose Sare to be Daniel 635",
+    "tune_and_number": "Daniel 635",
+    "meter": null,
+    "stanzas": [
+      "Abalwel’uSomandla, Abamlandela, Kabadunyiswe ngoba, Balwa bethembeka. Yima njengo Daniel Loba uwedwa Mela iqiniso njalo Qina wonqoba [cite: 2476, 2477]",
+      "Abanengi banqotshwa Bengelamandla Behlulek’ukuthola Amandl’okunqoba [cite: 2477]",
+      "Izitha ezinkulu Ziyasiqila Zizanqotshwa yiNkosi Loba zilamandla [cite: 2477]",
+      "Tshumayel’ivangeli Liye phambili Ziqinise ukulwa Lezitha zeNkosi [cite: 2477]"
+    ],
+    "author": "Phillip Paul Bliss (1838-76) [cite: 2477]"
+  },
+  {
+    "song_number": 326,
+    "title_ndebele": "OWANDISA UMUSA",
+    "title_english": "(Blacklands 591, The ash grove 592)",
+    "tune_and_number": "Blacklands 591, The ash grove 592",
+    "meter": "12.11.12.11",
+    "stanzas": [
+      "Wandis’umusa imithwalo isinda, Andis’amandla umsebenzi, usanda, Ezinhluphekweni wandisa umusa, Ekulingweni wengez’ukuthula. [cite: 2477, 2478]",
+      "Uma ukubekezela kuphelile, Amandla ephela sisaqhubeka, Sesiphelelwe yilo lonke ulwazi, Sizavuselelwa nguBaba wethu. [cite: 2478, 2479]",
+      "Uthando lomusa kuphiwa ngesihle, Awakh’amandla awala mkhawulo, Kuyo inotho yakhe ekuy’uJesu, Uyapha, asiphe, asiphe njalo. [cite: 2479, 2480]"
+    ],
+    "author": "Annie Johnson Flint (1866-1932) [cite: 2480]"
+  },
+  {
+    "song_number": 348,
+    "title_ndebele": "O THANDO OLUNGAPHELIYO",
+    "title_english": "Oh love that will not let me go",
+    "tune_and_number": null,
+    "meter": "8.8.8.8.6",
+    "stanzas": [
+      "Thando olungengitshiye Kuwe ngiyaziphumuza Ngiyakuph’eyam’impilo Ukuthi uyigcwalise Ngokupheleleyo [cite: 2525]",
+      "Kukhany’endleleni yami Ngileth’isibane sami Vuselela inhliziyo Ukuze ilanga lami Likhazimuliswe [cite: 2525]",
+      "Ntokozo ebuhlungwini Ngikuvulel’inhliziyo Ubuhle balo izulu Izithembis’eziqotho Zosuku lothando [cite: 2525]",
+      "Siphambano themba lami Angisuki ngakuwe Nxa bengilel’ekufeni Kwavela-ke ihlumela Lempil’ephakade [cite: 2525]"
+    ],
+    "author": "George Matheson (1842-1906) [cite: 2525]"
+  },
+  {
+    "song_number": 349,
+    "title_ndebele": "NJENGEMPALA OYOMILEYO",
+    "title_english": "As pants the hart Spohr; 135; Stracathro, 136",
+    "tune_and_number": "Spohr; 135; Stracathro, 136",
+    "meter": "8.6.8.6",
+    "stanzas": [
+      "Njengempal’eyomileyo Lapho izingelwa Ngikomele wena Nkosi Law’umusa wakho [cite: 2526]",
+      "Nkosi yami Nkulunkulu Ngikomele lami Ngizakubona nini na? Somandla ongcwele [cite: 2526, 2527]",
+      "Ng’khumbul’insuku zothando INkosi iseduze Kuhlokoma indumiso Ngilezibusiso [cite: 2527]",
+      "Udaneleni moya wam’ Ngethemb’uzacula Indumiso kaJehova Umthombo wempilo [cite: 2527]"
+    ],
+    "author": "Nahum Tate (1652-1715) Nicholas Brady (1659-1926) [cite: 2527]"
+  },
+  {
+    "song_number": 350,
+    "title_ndebele": "NJENGOKUBA NGINJE NKOSI",
+    "title_english": "Just as I am without one plea 293 Just as thou art 474; Troyte 470",
+    "tune_and_number": "293 Just as thou art 474; Troyte 470",
+    "meter": "8.8.8.8",
+    "stanzas": [
+      "Njengokuba nginje Nkosi Ngingenanto ngingenazwi Kuphela ngimenywa yizwi Jesu mvana ngizekuwe [cite: 2528]",
+      "Njengokuba nginje lamhla Ngingenakuzisindisa Nguwe olokungisiza Jesu mvana ngize kuwe [cite: 2528]",
+      "Njengokubanginje manje Ngilovalo ngilenkani Ngingelaso isibindi Jesu mvana ngizekuwe [cite: 2528]",
+      "Njengokuba nginje Jesu Ngingumyanga angiboni Njengoba ngingelalutho Jesu m... [cite: 2528]"
+    ],
+    "author": null
+  },
+  {
+    "song_number": 371,
+    "title_ndebele": "SISIZE SINCEDISANE",
+    "title_english": "Help us to help others. My shepherd 115, Bedford 74,",
+    "tune_and_number": "My shepherd 115, Bedford 74,",
+    "meter": "8.6.8.6",
+    "stanzas": [
+      "Sisize sincedisane Ngemithwalo yethu Sibe lesisa kwabanye, Njalo sizwelane [cite: 2551]",
+      "Sisize Nkosi sakhane Sinothiswe nguwe Khulis’ukholo lethemba Phelelis’uthando [cite: 2551]",
+      "Sifanise lawe Nkosi Sikhuliswe nguwe Size sikhululwe nguwe, Singabi lasici. [cite: 2551]"
+    ],
+    "author": null
+  },
+  {
+    "song_number": 394,
+    "title_ndebele": "NKOSI KUNJALO KAMBE NA...",
+    "title_english": null,
+    "tune_and_number": null,
+    "meter": null,
+    "stanzas": [
+      "Yimina na engathola Injabulo kuMsindisi Angifele kabuhlungu Ngenxa yami abethelwe? Isimanga, ngenxa yami Wena Nkosi wabethelwa? [cite: 2593, 2594]",
+      "Washiy’ubukhosi bakho, Weza lapha ngaw’umusa, Ngenxa yalo loluthando Wafa ngenxa yabo nabo Unomusa omkhulu kim’ Nkosi yami wangithola [cite: 2594]",
+      "Ngangiboshwe emoyeni Ngibanjiwe ezonweni; Ngaze ngakhululwa nguwe Emoyeni ngaphiliswa; Izibopho zaqanyulwa, Ngezakuwe ngasindiswa. [cite: 2594, 2595]",
+      "Ukulahlwa akusekho UJesu usengowami Ngiphilile ngenxa yakhe Ngembathiswe ukulunga Manje mina ng’phikelele Ukuthol’umqhele wami. [cite: 2595]"
+    ],
+    "author": null
+  },
+  {
+    "song_number": 433,
+    "title_ndebele": "KADE NGANGINGUY’UMONI",
+    "title_english": "I’ve Washed My Robes 13,29",
+    "tune_and_number": "13,29",
+    "meter": "16.16",
+    "stanzas": [
+      "Kade nganginguy’umoni Onengekayo kuThixo; Ngezwa ngalona igazi Elingageza izono. Ngigezile egazini Sengimhlophe ngaphakathi [cite: 2607, 2608]",
+      "Lathi ilizwi kulowo Othandayo, makageze; Ngiyilowo, ngaya, ngezwa Leligazi liyageza [cite: 2608, 2609]",
+      "Angingabazi ukuthi Ziyakususwa izono; Ngoba lizwi liqinisa Lithi seliyazigeza. [cite: 2609]",
+      "Nguban’ozogeza lamhla? Izono zonke zosuswa; Ngokwethemba woyamkela Inhliziyo emhlophe qhwa! [cite: 2610]"
+    ],
+    "author": "Edwin O... [cite: 2610]"
+  },
+  {
+    "song_number": 440,
+    "title_ndebele": "QHAWE VUKA SEKUYIMPI",
+    "title_english": "MenOf harlech 420",
+    "tune_and_number": "420",
+    "meter": "8.8.8.5.8.8.8.5",
+    "stanzas": [
+      "Qhawe, vuka! Sekuyimpi Kuhlangene ekulweni, UThixo lobubi bonke, Woza-ke lawe; Yini wena uhlala nje ` Uchelesile impela Izigidi zisatshona Esihogweni Kusezweni lonke Kuhlatshwe umkhosi Biza bonke ukuze Baguqe eNkosini Mabutho, wudel’umhlaba, Hlomani, liqiniseke Namathela eNkosini Yilwanini bo!",
+      "Yizwa-ke sekumenyezwa, ‘Mandla ezitha aphela; Yima isibindi, qhuba, Sizokwahlula. Bona bayafulathela, Izoni ziyaphenduka, Phambi..."
+    ],
+    "author": null
   }
 
 
@@ -213,5 +1966,11 @@
 
 
 
-  ]
-  
+
+
+
+
+
+
+]
+
