@@ -1,0 +1,56 @@
+[
+  {
+    "song_number": 129,
+    "shona_title": "NDIANI MUKIRISITU",
+    "english_title": "Who Is On The Lord’s Side",
+    "tune_source": "Armageddon, 200; Rachie, 207",
+    "stanzas": [
+      {
+        "stanza_number": 1,
+        "shona_lyrics": "Ndiani muKristu?\nAbatire Ishe?\nNdiani anoda\nKuwana vamwe?\nNdiani wosiya\nZvinhu zvenyika?\nNdiani muKritsu,\nAnomurwira?"
+      },
+      {
+        "stanza_number": 2,
+        "shona_lyrics": "Nom’towo waIshe,\nNomutsa wake,\nTiri vashandiri\nVaKristu Ishe.\nHatide kukudzwa,\nKana nokugadzwa;\nAsi, tasarudza\nNzira yokurwa,\nNom’towo wokuda,\nVaakafira,\nWaanodaidza,\nAnomurwira."
+      },
+      {
+        "stanza_number": 3,
+        "shona_lyrics": "Jesu matitenga\nPasina ndarama;\nAsi ropa renyu\nRatinunura.\nGomborero renyu\nRotizadzisa,\nNemi tinobvuma\nTasunungurwa."
+      },
+      {
+        "stanza_number": 4,
+        "shona_lyrics": "Kurwa naSatani\nNdiko kukukutu;\nAsi ichakunda\nHondo yaKristu.\nPasi pomureza\nTiri kurwira,\nNeizwi raJesu\nTinozokunda."
+      },
+      {
+        "stanza_number": 5,
+        "shona_lyrics": "Tenzi, tichengetei\nNendoni dzenyu,\nKuti tigorwira\n‘She, tiri venyu."
+      }
+    ],
+    "author": "N/A"
+  },
+  {
+    "song_number": 130,
+    "shona_title": "NDOENDA NESIMBA RASHE",
+    "english_title": "I’ll Go In The Strength Of The Lord",
+    "tune_source": "Thou Shepherd of Israel, 487; In the strength of the Lord, 485",
+    "stanzas": [
+      {
+        "stanza_number": 1,
+        "shona_lyrics": "Ndoenda nesimba raShe,\nMunzira dzaagadzira;\nNdotevera shoko rake,\nHanditye kunyange njodzi,\nKwari ini ndoenda,\nIye achapa zvose,\nKusvika rwendo rwapera\nNdichagarovimba naye."
+      },
+      {
+        "stanza_number": "Chorus",
+        "shona_lyrics": "Ndoenda, ndoenda, ndoenda nesimba\nNdoenda nesimba raShe,\nNdoenda, ndoenda, ndoenda nesimba\nNdoenda nesimba raShe."
+      },
+      {
+        "stanza_number": 2,
+        "shona_lyrics": "Ndoenda nesimba raShe,\nKubasa raanondipa;\nRufaro rwaanondipa\nRwondimutsurura mweya;\nIye wondidzivirira,\nNesimba wondichengeta,\nNdovimba nesimba rake,\nNdoga rurudo rwake."
+      },
+      {
+        "stanza_number": 3,
+        "shona_lyrics": "Ndoenda nesimba raShe,\nNorutendo muzviedzo,\nNgoni dzake dzova nhowo.\nKutsunga kwokurudzira,\nSezvo achitungamira,\nMukusangana nemhandu,\nNebakatwa rechokwadi,\nMukutambura ndokunda."
+      }
+    ],
+    "author": "Edward Turney (1816-72)"
+  }
+]

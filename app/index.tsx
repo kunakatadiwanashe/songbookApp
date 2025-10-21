@@ -189,7 +189,8 @@ export default function LanguageScreen() {
       <SafeAreaView style={styles.safeArea}>
         <StatusBar barStyle="light-content" />
         <View style={styles.container}>
-          <Text style={styles.title}>Welcome</Text>
+          <Text style={styles.title}>The Salvation Army</Text>
+          <Text style={styles.title}>Hymn Book</Text>
           <Text style={styles.subtitle}>Choose your language</Text>
 
 
@@ -231,7 +232,6 @@ const styles = StyleSheet.create({
     // Position image bottom-right
     position: "absolute",
     bottom: 0,
-    left: 0,
     width: "100%",
     height: "100%",
   },
@@ -246,7 +246,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 30,
   },
   title: {
-    fontSize: 46,
+    fontSize: 35,
     fontWeight: "700",
     color: "#FFFFFF",
     marginBottom: 10,
